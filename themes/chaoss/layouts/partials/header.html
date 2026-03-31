@@ -1,2 +1,10 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<div class="header-inner">
+  <a href="{{ "/" | relURL }}" class="site-brand">
+    <div>
+      <span class="logo-text">CHAOSS<span class="logo-dot">.</span></span>
+      <span class="logo-tagline">{{ site.Params.tagline | default "Community Health Analytics in Open Source Software" }}</span>
+    </div>
+  </a>
+  <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.site-nav').classList.toggle('open')">&#9776;</button>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>

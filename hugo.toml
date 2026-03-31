@@ -1,5 +1,44 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://chaoss.community/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CHAOSS'
 
 theme = 'chaoss'
+
+[params]
+  description = 'Community Health Analytics in Open Source Software'
+  tagline = 'Metrics, Models & Software for Open Source Community Health'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about-chaoss'
+weight = 20
+
+[[menus.main]]
+name = 'Blog'
+pageRef = '/posts'
+weight = 30
+
+[[menus.main]]
+name = 'Software'
+pageRef = '/software'
+weight = 40
+
+[[menus.main]]
+name = 'Governance'
+pageRef = '/governance'
+weight = 50
+
+[[menus.main]]
+name = 'Code of Conduct'
+pageRef = '/code-of-conduct'
+weight = 60

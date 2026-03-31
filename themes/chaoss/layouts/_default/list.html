@@ -1,8 +1,45 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <div class="page-header">
+    <div class="page-header-inner">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+
+  <div class="section">
+    {{ with .Content }}
+      <div class="page-content" style="padding: 0 0 1.5rem;">
+        {{ . }}
+      </div>
+    {{ end }}
+
+    {{ $pages := .Pages }}
+    {{ if .IsSection }}
+      {{ $pages = .Pages.ByDate.Reverse }}
+    {{ end }}
+
+    {{ if gt (len $pages) 0 }}
+      <ul class="page-list">
+        {{ range $pages }}
+          <li class="page-list-item">
+            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            <div class="meta">
+              {{ if not .Date.IsZero }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+              {{ end }}
+              {{ with .Params.author }}
+                {{ if reflect.IsSlice . }}
+                  &middot; {{ delimit . ", " }}
+                {{ else }}
+                  &middot; {{ . }}
+                {{ end }}
+              {{ end }}
+            </div>
+            {{ with .Summary }}
+              <p class="summary">{{ . | plainify | truncate 200 }}</p>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
 {{ end }}

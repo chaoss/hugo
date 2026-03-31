@@ -1,7 +1,38 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <section class="hero">
+    <h1>Community Health Analytics<br>in <span class="accent">Open Source Software</span></h1>
+    <p>{{ site.Params.tagline | default "CHAOSS helps define, collect, and communicate metrics that make open source project health transparent to all." }}</p>
+    <div class="hero-actions">
+      <a href="/about-chaoss/" class="btn btn-primary">Learn More</a>
+      <a href="/posts/" class="btn btn-outline">Read the Blog</a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2>Latest Posts</h2>
+      <p>News, research, and updates from the CHAOSS community.</p>
+    </div>
+    <div class="post-grid">
+      {{ range first 6 (where site.RegularPages "Section" "posts") }}
+        <article class="post-card">
+          <div class="post-card-body">
+            <div class="post-card-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+              {{ with .Params.author }}
+                {{ if reflect.IsSlice . }}
+                  <span class="author">{{ delimit . ", " }}</span>
+                {{ else }}
+                  <span class="author">{{ . }}</span>
+                {{ end }}
+              {{ end }}
+            </div>
+            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            <p class="summary">{{ .Summary | plainify | truncate 150 }}</p>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+    <a href="/posts/" class="view-all">All posts</a>
+  </section>
 {{ end }}
