@@ -1,0 +1,171 @@
+---
+title: Practitioner Guide – Contributor Sustainability
+author: elizabeth
+type: page
+date: 2024-04-29T17:04:33+00:00
+nectar-metabox-portfolio-display:
+  - all
+nectar-metabox-portfolio-display-sortable:
+  - off
+ppma_authors_name:
+  - elizabeth
+
+---
+\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]
+
+# Practitioner Guide: Getting Started with Contributor Sustainability
+
+Primary metrics:
+
+  * [Contributor Absence Factor][1]
+  * [Contributors][2]
+  * [Types of Contributions][3]
+
+If you haven’t already read the [Practitioner Guide: Introduction - Things to Think about When Interpreting Metrics][4], please pause now and read that guide.
+
+Contributor sustainability is an important part of assessing whether an open source project and community have enough contributors for the project to be sustained over the long-term, so contributor sustainability has a large impact on overall project sustainability. There are a lot of projects with a single maintainer (see [xkcd Dependency][5]), and many projects struggle to find enough people to actively participate in their projects and continue to maintain them over the long term (Egbahl 2016). Avelino et al. (2019) found that even popular projects may become permanently abandoned and fail to recover from losing too many key contributors.
+
+The reality is that there are a lot of open source projects and not enough contributors, so maintainers are in desperate need for help across the various types of contributions needed to have a successful and sustainable open source project. However, it's important to think about how each new contribution will create additional work for maintainers to review and accept it, which can be mitigated by having appropriate automation, processes, and documentation to help contributors become successful, but eventually, some of these contributors will need to become maintainers to handle the additional workload from new contributors (Eghbal 2020). 
+
+If there are not enough contributors and maintainers to sustain a project, this increases the risks that the project will fail, which creates a variety of often significant challenges for the users and other projects that depend on it.
+
+# Step 1: Identify Trends
+
+There are a number of things that can impact contributor sustainability. By starting with [Contributor Absence Factor][1], you can assess the risk to the project if key contributors / maintainers decided to leave, but it’s also important to look at other trends related to [Contributors][2] along with the [Types of Contributions][3] that people are making to identify potential contributor risks that might impact the overall sustainability of your project.
+
+## Contributor Absence Factor
+
+Contributor Absence Factor is important for understanding contributor sustainability because it visualizes the question "how many contributors can we lose before a project stalls?" It helps to identify how widely the work in a project is distributed across contributors and identify the key people in a project that are doing the majority of the work. If the majority of work is being performed by a single person or small number of people, it increases the risk that a project could become unsustainable if that person or people were no longer working on the project (Avelino et al. 2019). 
+
+<img decoding="async" src="https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/bus-factor-bar-balanced.png?raw=true" alt="Contributor Absence Factor bar chart with balanced contributions ranging from 16% of commits to 6% of commits" title="Contributor Absence Factor - generated by Augur" /> 
+
+## Contributors
+
+The contributors metric looks broadly at who contributes to a project and can be visualized in many different ways. While you can look at this as a single number of contributors over time, it can help to break this down to help you understand how many contributors are active along with how many have increasing or decreasing activity over time. While the contributor absence factor metric is good at identifying key contributors, you should also try to understand contributor sustainability more broadly to look at overall trends across all contributors to see if you are experiencing contributor growth or decline. 
+
+<img decoding="async" src="https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/active-contrib-over-time-bar-trend.png?raw=true" alt="Active Contributors over time and growth analysis showing positive and negative contributor balances" title="Active Contributors over time - generated by GrimoireLab" /> 
+
+## Types of Contributions
+
+Multiple, varied contributions impact open source project health and sustainability, and contributions may include writing code, managing the community, triaging bugs, evangelizing the project, supporting users, or helping in other ways. A variety of contribution types can demonstrate that a project is mature and well-rounded with sufficient activity to sustain all aspects of the project, and enable paths to leadership that are supportive of a variety of contribution types and people with varying expertise beyond coding. 
+
+<img decoding="async" src="https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/contrib-by-data-source.png?raw=true" alt="Contributions by Data Source for various sources over time including GitHub, Twitter, pipermail, Slack" title="Contributions by Data Source - generated by GrimoireLab" /> 
+
+# Step 2: Diagnosis
+
+As mentioned in the Practitioner Guide Introduction, you should start by talking to a few people who are intimately involved in the project so that you can look together at the trends and interpret them in a way that makes sense for the project. For example, the image below shows that over 60% of the commits in this project in the past year were made by a single individual, which in most cases increases the risk that the project could become unsustainable if that person or people were no longer working on the project. However, it’s also important to think about this in light of other aspects of the project. For example, if this project is mostly documentation that many people have the knowledge to update or if it’s code that is fairly simple and easy for others to understand or if the project is mostly used by a single individual, then the risk is relatively low. On the other hand, if the project is complex, large, and / or widely used, then the risk is high and the project should focus on recruiting more contributors and maintainers to increase contributor sustainability.
+
+<img decoding="async" src="https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/bus-factor-pie-one-person.png?raw=true" alt="Bus Factor pie chart showing that one contributor has made 61.8% of the commits with next largest contributors making 10.8% and 9.77%" title="Bus Factor - generated by 8Knot / Augur" /> 
+
+It’s also important to look at other trends related to contributors. For example, the graph below shows that active contributors peaked and then declined for this project, so it would be important to diagnose why that might be the case. If the project was something bounded in time (e.g., related to a conference or workshop) that was completed or a project where most of the work has been completed and is not being lightly maintained, this would be a normal pattern to see. However, if this is a typical open source project, this could indicate that there are serious issues impacting the retention of contributors that should be diagnosed and addressed.
+
+<img decoding="async" src="https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/contributor-growth-by-engagement-bar.png?raw=true" alt="Contributor Growth by Engagement showing that the active contributors peaked in April 2023 and dwindled to nothing by October 2023" title="Contributor Growth by Engagement - generated by 8Knot / Augur" /> 
+
+# Step 3: Gather Additional Data if Needed
+
+CHAOSS has other metrics related to contributor sustainability that can help diagnose specific problems within your community.
+
+Additional Metrics: 
+
+  * [Inclusive Leadership][6]
+  * [Newcomer Experience][7]
+  * [New Contributors][8]
+  * [Project Burnout][9]
+  * [Project Demographics][10]
+
+# Step 4: Make Improvements
+
+Recruiting new contributors who can become maintainers is crucial for the success of projects where contributor sustainability is a concern, and it is even possible for some projects to recover from being abandoned by their primary developers by recruiting new maintainers (Avelino et al. 2019). By focusing on recruiting new contributors before you lose your key developer(s), you can have time to onboard contributors and proactively prevent a crisis later.
+
+There are a couple of things that the Contributor Absence Factor can tell you that can be used to help drive contributor improvements that make your project more sustainable. First, it helps you decide how sustainable your current contributor situation is. If one person is making most of the contributions and the project is large or complex, you should focus on ways to distribute the load and have more people involved in the project. Second, the Contributor Absence Factor metric can help you find people who might be contributing more than you realized, which can help you think about who you can encourage to contribute more or maybe find someone who could move into a leadership role (e.g., reviewer or maintainer). With respect to leadership roles, you might look at someone making ten percent of the contributions and decide that they are ready to become a maintainer. One way to do this is to reduce the scope for new maintainers. If they aren’t ready to be a maintainer for the entire project, maybe they can maintain a sub-project or a specific section of the project while they build their expertise in other areas. One way to do this is by using OWNERS or [CODEOWNERS files][11] to give people responsibility for different areas within your repository, including docs or community sections. People who are making fewer, but regular contributions might be good candidates for mentorship or becoming reviewers with an eye toward making them maintainers after they gain a bit more experience.
+
+It’s also important to look at your contribution guides or other onboarding documentation to make sure that new contributors can easily get started within your project (see Additional Reading section for links). Good documentation is how we scale the things that take up precious time for already overworked maintainers and free up their time to work on other things. At a minimum, a new contributor needs to understand how to spin up an environment where they can do their development, the expectations for testing and how to run tests, any processes or expectations that you have for pull requests, and instructions for other requirements. If this is well documented, new contributors can get started with a minimal amount of help from existing maintainers, which can save you a lot of time in the long run (Eghbal 2020). When a project doesn’t have good onboarding docs, maintainers can get frustrated by the amount of time they spend on new contributor questions, which can make it hard for new contributors to feel welcome and take a long time for them to become productive. This is how people get discouraged and drift away from your project. This doesn’t mean that you need to spend days and weeks writing perfect onboarding documents. Anything is better than nothing, and if you start with a few things that will help people get started quickly, new contributors can actually help make the onboarding documents better by adding more details and additional instructions for things that they found confusing or that they struggled with.
+
+While onboarding documentation is a great way to get people started at scale, mentoring has been shown to be an effective and efficient way onboard new contributors to help them be productive in your project more quickly (Fagerholm et al. 2014). However, mentoring takes time away from a maintainer in the short-term in the hope of making the project more sustainable over the long-term, so it's important to think about which repeat contributors might be good candidates for mentorship (Egbahl 2020).
+
+Having good first issues or help wanted labels are excellent places to start because these help people find something that they can work on while they learn more about the project, but you need to put some thought into crafting these issues into something with enough information for new contributors to use. Good first issues should be targeted as something simple that a brand new contributor could pick up and complete in a short amount of time to help them learn more about your contribution process. Help wanted labels can be for issues that are a little more involved so that people who have already started to contribute can find something else to work on. Good first issues and help wanted labels along with good contribution guides helps you build a sustainable pipeline of contributors for your project.
+
+However, good first issues and help wanted labels are passive requests for help, so I also encourage maintainers to also be proactive and specific about ways that people can help. Asking someone specific to review a PR or answer a question from a user demonstrates that you recognize their unique expertise and want their help. Knowing that we’re wanted and appreciated makes us feel good, which can be a strong motivator to contribute to an open source project or to continue contributing. Reaching out to someone and acknowledging their work while encouraging them to do more can help you recruit people who could take on increasing responsibilities (e.g., reviewer or maintainer) within your project. Don’t be afraid to reach out to your power users in addition to your contributors, and if you work at a company, you can use your corporate relationships with other organizations to find people who might be interested in contributing.
+
+Defining the roles and responsibilities for contributors, reviewers, and maintainers can help with recruiting new people into these roles. It can help to think about this as a [contributor ladder][12] where contributors can climb up to become reviewers and those reviewers can become maintainers. What’s important is to document this and make sure that people understand how they can climb the ladder and gain more responsibilities within the project. Moving more people into leadership roles, like reviewer and maintainer, can help reduce the bus factor and make your project more sustainable over time.
+
+The catch here and with many metrics is that we don’t want to just think about people who are making code contributions. This is a good start, but you should also be thinking about how you can move people into leadership positions to be responsible for things that might not show up in GitHub or GitLab, like documentation, community management, marketing and other important roles. This is why it is so important to also look at the Types of Contributions metric. It’s common to see maintainers underestimating the amount of time spent on some of these tasks, and recruiting more people into other roles can further distribute the workload and increase contributor sustainability.
+
+Maintainers for a project with a low Contributor Absence Factor, especially if they’re the only maintainer, should have some type of succession plan in place. At a minimum someone else should have admin access to everything needed to update the software and publish releases (including publishing to relevant package managers) along with documentation for how to do this. Ideally, there is another maintainer on the project who can share the responsibilities equally and already has the access, skills, and knowledge to perform all project tasks, which is one reason that the above discussions about building your contributor base and recruiting maintainers is so important. While not ideal, for single maintainer projects succession planning could include providing access and documentation to a trusted colleague or friend. The key to succession planning is to put it in place now, before you think you need it.
+
+# Step 5: Monitor Results
+
+How you monitor the results will depend on what improvements you decided to make. Continuing to monitor these 3 metrics are a good start. If you used other data from Step 3, you should also monitor those metrics.
+
+If you are recruiting new contributors, approvers, and maintainers, it might take a while to see the results of those efforts, so you might not see significant improvements for 3 to 6 months, so you’ll need to monitor this over a longer period of time.
+
+# Cautions and Considerations
+
+  * It’s critical to think about the human dynamics that can influence contributor sustainability and to treat people with kindness and respect as you work to make improvements.
+  * Short-term fluctuations in contributor activity (for example, during holidays or release freezes) are often mistaken for long-term trends.
+  * High numbers of drive-by contributors can mask a lack of dedicated maintainers.
+  * Focusing solely on code commits ignores valuable non-code contributions.
+
+For example, a project manager may notice a significant drop in contributions during December.  
+Rather than seeing this as a sign of community decline, this may simply reflect a seasonal  
+holiday pattern, with contribution levels normalising in January. This highlights why  
+contributor sustainability metrics should always be interpreted alongside contextual factors,  
+rather than in isolation.
+
+# Additional Reading
+
+  * We have a [short video][13] (< 3 minutes) devoted to this guide on the CHAOSS YouTube channel.
+  * [CHAOSScast podcast episode][14] about this guide.
+  * The CNCF has several [templates][15] for writing a good [CONTRIBUTING.md][16] guide and [Contributor Ladder][12].
+  * The [Responsiveness Practitioner Guide][17] also has some similar suggestions that can apply to contributor sustainability. 
+  * [Working in Public: The Making and Maintenance of Open Source Software][18] by [Nadia Eghbal][19] has quite a few good suggestions and references on this topic in Chapter 5, Managing the Costs of Production.
+
+# Feedback
+
+We would love to have feedback to learn more about how people are using the CHAOSS Practitioner Guides and how we can improve them over time. Please complete this [short survey][20] to provide your feedback.
+
+# Contributors
+
+The following people contributed to this guide:
+
+  * Dawn Foster
+  * Chan Voong
+  * Jeffrey Osier-Mixon
+  * Luis Cañas Díaz
+  * Dev (GitHub: @Dev10-sys)
+
+# References
+
+  * Avelino, G., Constantinou, E., Valente, M. T., & Serebrenik, A. (2019, September). [On the abandonment and survival of open source projects: An empirical investigation][21]. In 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-12). IEEE.
+  * Eghbal, N. (2016). [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure][22]. New York, NY: Ford Foundation.
+  * Eghbal, N. (2020). [Working in Public: The Making and Maintenance of Open Source Software][23]. Stripe Press.
+  * Fagerholm, F., Guinea, A. S., Münch, J., & Borenstein, J. (2014, September). [The role of mentoring and project characteristics for onboarding in open source software projects][24]. In Proceedings of the 8th ACM/IEEE international symposium on empirical software engineering and measurement (pp. 1-10). 
+
+CHAOSS Practitioner Guides are MIT licensed, living documents, and we welcome your feedback and input. You can suggest edits to this document at <https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/contributor-sustainability.md>
+
+\[/vc\_column\]\[/vc\_row\]
+
+ [1]: https://chaoss.community/?p=3944
+ [2]: https://chaoss.community/?p=3467
+ [3]: https://chaoss.community/?p=3432
+ [4]: https://chaoss.community/practitioner-guide-introduction/
+ [5]: https://xkcd.com/2347/
+ [6]: https://chaoss.community/kb/metric-inclusive-leadership/
+ [7]: https://chaoss.community/kb/metric-newcomer-experience/
+ [8]: https://chaoss.community/kb/metric-new-contributors/
+ [9]: https://chaoss.community/?p=3537
+ [10]: https://chaoss.community/kb/metric-project-demographics/
+ [11]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+ [12]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
+ [13]: https://www.youtube.com/watch?v=xTK2xsd4jZE&list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z&index=2
+ [14]: https://podcast.chaoss.community/88
+ [15]: https://contribute.cncf.io/maintainers/templates/
+ [16]: https://contribute.cncf.io/maintainers/templates/contributing/
+ [17]: https://chaoss.community/practitioner-guide-responsiveness/
+ [18]: https://www.amazon.com/dp/0578675862/
+ [19]: https://nadia.xyz/
+ [20]: https://forms.gle/w3B1gBH8kp3rPbhr8
+ [21]: https://arxiv.org/pdf/1906.08058
+ [22]: https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
+ [23]: https://nadia.xyz/oss/
+ [24]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2096b22e7a465eec6ece0933acefebffc286d1f2
