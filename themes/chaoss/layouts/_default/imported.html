@@ -1,0 +1,37 @@
+{{ define "main" }}
+<!-- <div class="page-header">
+    <div class="page-header-inner">
+        <h1>{{ .Title }}</h1>
+        <div class="meta">
+        {{ if not .Date.IsZero }}
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ .Date | time.Format ":date_long" }}</time>
+        {{ end }}
+        {{ with .Params.author }}
+          {{ if reflect.IsSlice . }}
+            <span class="author">{{ delimit . ", " }}</span>
+          {{ else }}
+            <span class="author">{{ . }}</span>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+</div> -->
+
+<div class="page-content">
+
+    {{ with .Params }}
+
+    {{ $url := printf "https://api.github.com/repos/%s/contents/%s" (.content_repo) (.content_path) }}
+    {{ $human_url := printf "https://github.com/%s/blob/main/%s" (.content_repo) (.content_path) }}
+    {{ $lang := default "plaintext" (.content_lang) }}
+    {{ with resources.GetRemote $url }}
+    {{ with transform.Unmarshal .Content }}
+    {{ .content | base64Decode | markdownify }}
+    {{ end }}
+    {{ end }}
+
+    <hr>
+    Comments and suggestions on this page can be made here: <a href="{{ $human_url }}">{{ $human_url }}</a>.
+    {{ end }}
+</div>
+{{ end }}
