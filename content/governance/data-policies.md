@@ -16,4 +16,4 @@ params:
   content_path: governance/data-policies.md
 ---
 
-This pages content is fetched from github. This text is ignored
+<!-- This pages content is fetched from github. This text is ignored -->

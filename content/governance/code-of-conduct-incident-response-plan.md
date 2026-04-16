@@ -16,4 +16,4 @@ params:
   content_path: governance/code-of-conduct-incident-response-plan.md
 ---
 
-This pages content is fetched from github. This text is ignored
+<!-- This pages content is fetched from github. This text is ignored -->
