@@ -5,13 +5,13 @@ title = 'CHAOSS'
 theme = 'chaoss'
 
 [params]
-  description = 'Community Health Analytics in Open Source Software'
-  tagline = 'Metrics, Models & Software for Open Source Community Health'
+description = 'Community Health Analytics in Open Source Software'
+tagline = 'Metrics, Models & Software for Open Source Community Health'
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menus.main]]
 name = 'Home'
