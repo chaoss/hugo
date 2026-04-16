@@ -87,7 +87,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -142,7 +142,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
  [17]: https://github.com/chaoss/wg-evolution
  [18]: https://github.com/chaoss/wg-risk
  [19]: https://github.com/chaoss/wg-value
- [20]: https://chaoss.local/
+ [20]: {{ baseURL }}
  [21]: https://github.com/chaoss
  [22]: https://tinyurl.com/y6bao886
  [23]: https://tinyurl.com/CHAOSScast

@@ -34,24 +34,24 @@ categories:
 Have you ever been in a position in your company or community where you would like to start getting a sense of the health of a project &#8211; but you don’t know where to begin?&nbsp;
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="https://chaoss.local/wp-content/uploads/2023/04/img_6438580ed4f9a.png" alt="" /></figure>
+  <figure class="aligncenter"><img decoding="async" src="{{ baseURL }}wp-content/uploads/2023/04/img_6438580ed4f9a.png" alt="" /></figure>
 </div>
 
 People often struggle to get started with measuring project health in a way that allows them to draw meaningful conclusions without becoming overwhelmed. Measuring key aspects of project health is an essential first step toward understanding how an open source project can be improved and deciding where to focus improvement efforts. The following four metrics are great ways to get started.The Starter Project Health Metrics Model was published by the CHAOSS project to address this very issue.&nbsp;
 
 <ul class="wp-block-list">
   <li>
-    <a href="https://chaoss.local/?p=3448">Time to First Response</a> Determine the amount of time between when an activity was opened (e.g. Issue or Change Request) and when it received the first response from a human. A quick response helps contributors feel welcome and appreciated.<br />
+    <a href="{{ baseURL }}?p=3448">Time to First Response</a> Determine the amount of time between when an activity was opened (e.g. Issue or Change Request) and when it received the first response from a human. A quick response helps contributors feel welcome and appreciated.<br />
   </li>
   <li>
-    <a href="https://chaoss.local/?p=4834">Change Request Closure Ratio</a> Measure the ratio between the total number of open change requests during a time period versus the total number of change requests closed in that same period. This helps to determine whether your project has enough maintainers to keep up with incoming contributions.<br />
+    <a href="{{ baseURL }}?p=4834">Change Request Closure Ratio</a> Measure the ratio between the total number of open change requests during a time period versus the total number of change requests closed in that same period. This helps to determine whether your project has enough maintainers to keep up with incoming contributions.<br />
   </li>
   <li>
-    <a href="https://chaoss.local/?p=3944">Bus Factor</a> Determine the smallest number of people that make 50% of contributions to understand whether your project would be in jeopardy if one or more key contributors left.<br />
+    <a href="{{ baseURL }}?p=3944">Bus Factor</a> Determine the smallest number of people that make 50% of contributions to understand whether your project would be in jeopardy if one or more key contributors left.<br />
   </li>
   <li>
-    <a href="https://chaoss.local/?p=3944">Release Frequency</a> Determine the frequency of project releases (including point releases with bug fixes) to make sure that security fixes, new features, and bug fixes are available to your users.<br />
+    <a href="{{ baseURL }}?p=3944">Release Frequency</a> Determine the frequency of project releases (including point releases with bug fixes) to make sure that security fixes, new features, and bug fixes are available to your users.<br />
   </li>
 </ul>
 
-The model is available at: <https://chaoss.local/kb/metrics-model-starter-project-health/>&nbsp;
+The model is available at: <{{ baseURL }}kb/metrics-model-starter-project-health/>&nbsp;

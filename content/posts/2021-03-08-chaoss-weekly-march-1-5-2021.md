@@ -29,7 +29,7 @@ This was one of our most productive releases yet, even in spite of all that the 
 
 Since we&#8217;ve been fielding some questions about the Google Summer of Code process, here&#8217;s a quick update for those who are interested. Google will announce the accepted projects this week, so until then, we are just waiting to hear if we&#8217;ve been accepted. We do have a list of ideas that we submitted, and you can find that list here: <https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md>.
 
-Anyone interested in being a part of the CHAOSS community (whether or not you are taking part in the GSOC project) is encouraged to participate in any way that makes the most sense for them. A comprehensive list of ways to engage with our community can be found here: <https://chaoss.local/participate/>. Thanks!\[/vc\_column\_text\]\[vc\_column\_text\]
+Anyone interested in being a part of the CHAOSS community (whether or not you are taking part in the GSOC project) is encouraged to participate in any way that makes the most sense for them. A comprehensive list of ways to engage with our community can be found here: <{{ baseURL }}participate/>. Thanks!\[/vc\_column\_text\]\[vc\_column\_text\]
 
 ### <span style="color: #980000;">Request for Social Interaction Stories for Upcoming Podcast</span>
 
@@ -102,7 +102,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
             </p>
             
             <p dir="ltr">
-              Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+              Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
             </p>
             
             <p>
@@ -166,7 +166,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
             
             <ul>
               <li>
-                CHAOSS on the Web: <a href="https://chaoss.local/">chaoss.community </a>
+                CHAOSS on the Web: <a href="{{ baseURL }}">chaoss.community </a>
               </li>
               <li>
                 CHAOSS on GitHub: <a href="https://github.com/chaoss">github.com/chaoss</a>

@@ -176,7 +176,7 @@ To consume these courses you will need to create **an account** on Moodle follow
   </li>
 </ol><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2025/02/AD_4nXfsWWBDUkwAWquTIPLNC1HdLoGEmRXu6Jpmf1pboBOovCcp9qaGSOUacIEPe9ReCKZVoV26oSha83sbxATy41XJ2kHe0yv0JTqEYxX2LqtJQCH_v2AGjqmEynPoEUhH4QuH93s_keyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2025/02/AD_4nXfsWWBDUkwAWquTIPLNC1HdLoGEmRXu6Jpmf1pboBOovCcp9qaGSOUacIEPe9ReCKZVoV26oSha83sbxATy41XJ2kHe0yv0JTqEYxX2LqtJQCH_v2AGjqmEynPoEUhH4QuH93s_keyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
 
 <ol class="wp-block-list" start="2">
   <li style="list-style-type: none;">
@@ -188,7 +188,7 @@ To consume these courses you will need to create **an account** on Moodle follow
   </li>
 </ol><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2025/02/AD_4nXfMhc-Tk4D-Y3s2NUwGah2vAALExdtZV5RDH4M1ZjYembc2v5nM8yLuGqvyizd_xaiznuwXZRgJMYjIbMgatA0tq_KADykInrJyMMiDmkStaNOa-Dhzix9Qx0iWAjk7HaeLnworFAkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2025/02/AD_4nXfMhc-Tk4D-Y3s2NUwGah2vAALExdtZV5RDH4M1ZjYembc2v5nM8yLuGqvyizd_xaiznuwXZRgJMYjIbMgatA0tq_KADykInrJyMMiDmkStaNOa-Dhzix9Qx0iWAjk7HaeLnworFAkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
 
 <ol class="wp-block-list" start="3">
   <li style="list-style-type: none;">
@@ -200,7 +200,7 @@ To consume these courses you will need to create **an account** on Moodle follow
   </li>
 </ol><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2025/02/AD_4nXfTMiolUcSW2QXQOWUy8vTxjILQRQ2QZqPaubGiyaObxlndd53wPADrbjswrwmnbILZQudSFaLNV7D4DXfuM8SaHi19LUeBb-Ec_upwxTpbI6ixILpP5zTfZeGbU0RmslvUgNjMgQkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2025/02/AD_4nXfTMiolUcSW2QXQOWUy8vTxjILQRQ2QZqPaubGiyaObxlndd53wPADrbjswrwmnbILZQudSFaLNV7D4DXfuM8SaHi19LUeBb-Ec_upwxTpbI6ixILpP5zTfZeGbU0RmslvUgNjMgQkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
 
 <ol class="wp-block-list" start="4">
   <li style="list-style-type: none;">
@@ -212,7 +212,7 @@ To consume these courses you will need to create **an account** on Moodle follow
   </li>
 </ol><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2025/02/AD_4nXdXNWMWQ7id3rwX-44wdwVIgjeMuQVh3QVdD1MLfITW_KnFCR816lndBW9V17HpCDwkL_VLURcvtQeQ0Nm537u33pVGboBRHHO-voPJOTQavk5nZYQHLB0fhUGahaVzsF8rr0vAqQkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2025/02/AD_4nXdXNWMWQ7id3rwX-44wdwVIgjeMuQVh3QVdD1MLfITW_KnFCR816lndBW9V17HpCDwkL_VLURcvtQeQ0Nm537u33pVGboBRHHO-voPJOTQavk5nZYQHLB0fhUGahaVzsF8rr0vAqQkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
 
 <ol class="wp-block-list" start="5">
   <li style="list-style-type: none;">
@@ -224,7 +224,7 @@ To consume these courses you will need to create **an account** on Moodle follow
   </li>
 </ol><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2025/02/AD_4nXdgedRkwyOgh90Hi-oPiZ22DAiSxSgSFJymyCgWdbVyZJRyPadCHho0oPF8rBek8fLiviYl-bdwhMmmJ7OGw4FbhWfbHat6SYIqxeUM9Mr-7L-PLcM4ROVdO0EaklOSE7p7qZ2MfQkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2025/02/AD_4nXdgedRkwyOgh90Hi-oPiZ22DAiSxSgSFJymyCgWdbVyZJRyPadCHho0oPF8rBek8fLiviYl-bdwhMmmJ7OGw4FbhWfbHat6SYIqxeUM9Mr-7L-PLcM4ROVdO0EaklOSE7p7qZ2MfQkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
 
 <ol class="wp-block-list" start="6">
   <li style="list-style-type: none;">
@@ -236,7 +236,7 @@ To consume these courses you will need to create **an account** on Moodle follow
   </li>
 </ol><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2025/02/AD_4nXebQsyj9SsGiezN5eCzKksuzaOJ87GBGVEpQSfLK5zQulk2WrBBhoWk30pFOzmICMNg1vJAl8iYfdIlvHO7lFMY0q635BQR1onUKfviEfG1Ark0ZkPlXoxOdHdJ-1Rw9Hib6-fDcAkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2025/02/AD_4nXebQsyj9SsGiezN5eCzKksuzaOJ87GBGVEpQSfLK5zQulk2WrBBhoWk30pFOzmICMNg1vJAl8iYfdIlvHO7lFMY0q635BQR1onUKfviEfG1Ark0ZkPlXoxOdHdJ-1Rw9Hib6-fDcAkeyW9rWMMg4DZzNrIjbK02R7A.png" alt="" /> </figure> 
 
 **Have fun Learning!**
 

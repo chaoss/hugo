@@ -8,7 +8,7 @@ excerpt: |
   |
     Thanks for everyone’s hard work in getting CHAOSScon set. This includes thanks to the keynotes, presenters, and behind-the-scenes organizing committee. You can check out the full schedule here:
     
-    https://chaoss.local/chaosscon-2019-na/
+    {{ baseURL }}chaosscon-2019-na/
 url: /chaoss-weekly-newsletter-2/
 nectar_blog_post_view_count:
   - 2433

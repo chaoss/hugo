@@ -37,7 +37,7 @@ This survey:
   </li>
 </ul>
 
-It is important to stress that this survey will remain completely anonymous. We will only share the results in an aggregated format, and high-level insights will be shared publicly by the <a href="https://chaoss.local/blog-post/2022/01/28/dei-audit-2021/" target="_blank" rel="noreferrer noopener">DEI Audit Team</a>. The results of this survey will be used to help the Audit Team develop recommendations for improving DEI within CHAOSS. 
+It is important to stress that this survey will remain completely anonymous. We will only share the results in an aggregated format, and high-level insights will be shared publicly by the <a href="{{ baseURL }}blog-post/2022/01/28/dei-audit-2021/" target="_blank" rel="noreferrer noopener">DEI Audit Team</a>. The results of this survey will be used to help the Audit Team develop recommendations for improving DEI within CHAOSS. 
 
 If you have ever considered yourself part of the community, we want to hear from you! You can take the survey until October 12 by [following this link][1].
 

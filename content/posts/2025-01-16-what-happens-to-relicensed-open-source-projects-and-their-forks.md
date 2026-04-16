@@ -97,8 +97,8 @@ _CHAOSS will take part in [State of Open Con][23], a conference covering open so
  [2]: https://thenewstack.io/open-source/
  [3]: https://redmonk.com/rstephens/2024/08/26/software-licensing-changes-and-their-impact-on-financial-outcomes/
  [4]: https://thenewstack.io/why-open-source-forking-is-a-hot-button-issue/
- [5]: https://chaoss.local/
- [6]: https://chaoss.local/practitioner-guide-organizational-participation/
+ [5]: {{ baseURL }}
+ [6]: {{ baseURL }}practitioner-guide-organizational-participation/
  [7]: https://thenewstack.io/opensearch-how-the-project-went-from-fork-to-foundation
  [8]: https://thenewstack.io/navigating-the-path-from-redis-to-valkey
  [9]: https://thenewstack.io/how-opentofu-happened-and-whats-next

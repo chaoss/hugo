@@ -46,17 +46,17 @@ All you need to join the Data Science WG is an interest in using data to underst
 
 Photo by [Claudio Schwarz][20] on [Unsplash][21]
 
- [1]: https://chaoss.local/chaoss-data-science-working-group-new-guides-research-and-more/
- [2]: https://chaoss.local/about-chaoss-practitioner-guides/
- [3]: https://chaoss.local/practitioner-guide-demonstrating-org-value
- [4]: https://chaoss.local/practitioner-guide-viability
- [5]: https://chaoss.local/practitioner-guide-introduction/
- [6]: https://chaoss.local/practitioner-guide-contributor-sustainability/
- [7]: https://chaoss.local/practitioner-guide-responsiveness/
- [8]: https://chaoss.local/practitioner-guide-organizational-participation/
- [9]: https://chaoss.local/practitioner-guide-security/
- [10]: https://chaoss.local/practitioner-guide-sunset
- [11]: https://chaoss.local/practitioner-guide-diverse-leadership
+ [1]: {{ baseURL }}chaoss-data-science-working-group-new-guides-research-and-more/
+ [2]: {{ baseURL }}about-chaoss-practitioner-guides/
+ [3]: {{ baseURL }}practitioner-guide-demonstrating-org-value
+ [4]: {{ baseURL }}practitioner-guide-viability
+ [5]: {{ baseURL }}practitioner-guide-introduction/
+ [6]: {{ baseURL }}practitioner-guide-contributor-sustainability/
+ [7]: {{ baseURL }}practitioner-guide-responsiveness/
+ [8]: {{ baseURL }}practitioner-guide-organizational-participation/
+ [9]: {{ baseURL }}practitioner-guide-security/
+ [10]: {{ baseURL }}practitioner-guide-sunset
+ [11]: {{ baseURL }}practitioner-guide-diverse-leadership
  [12]: https://github.com/chaoss/wg-data-science/issues/new/choose
  [13]: https://github.com/chaoss/wg-data-science/tree/main/dataset/foundational-stats-research
  [14]: https://github.com/chaoss/wg-data-science/issues/152

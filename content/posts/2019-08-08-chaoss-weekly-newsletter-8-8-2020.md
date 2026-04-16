@@ -7,7 +7,7 @@ date: 2019-08-08T19:05:30+00:00
 excerpt: |
   CHAOSS Version 1 Release is now available:
   
-  https://chaoss.local/metrics/ 
+  {{ baseURL }}metrics/ 
   
   Thanks to all who contributed to this effort!
 url: /chaoss-weekly-newsletter-8-8-2020/

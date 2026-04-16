@@ -22,7 +22,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
 <div class="mkb-home-topics mkb-columns mkb-columns-3 mkb-uuid-69cb2c57a3871">
   <div class="mkb-row">
     <div class="kb-topic topic-id-150 kb-topic--box-view">
-      <a href="https://chaoss.local/kbtopic/organization/"></p> 
+      <a href="{{ baseURL }}kbtopic/organization/"></p> 
       
       <div class="kb-topic__inner">
         <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -54,7 +54,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
         </a> </div> 
         
         <div class="kb-topic topic-id-149 kb-topic--box-view">
-          <a href="https://chaoss.local/kbtopic/platform/"></p> 
+          <a href="{{ baseURL }}kbtopic/platform/"></p> 
           
           <div class="kb-topic__inner">
             <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -86,7 +86,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
             </a> </div> 
             
             <div class="kb-topic topic-id-148 kb-topic--box-view">
-              <a href="https://chaoss.local/kbtopic/software/"></p> 
+              <a href="{{ baseURL }}kbtopic/software/"></p> 
               
               <div class="kb-topic__inner">
                 <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -119,7 +119,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                 
                 <div class="mkb-row">
                   <div class="kb-topic topic-id-145 kb-topic--box-view">
-                    <a href="https://chaoss.local/kbtopic/contribution/"></p> 
+                    <a href="{{ baseURL }}kbtopic/contribution/"></p> 
                     
                     <div class="kb-topic__inner">
                       <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -151,7 +151,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                       </a> </div> 
                       
                       <div class="kb-topic topic-id-143 kb-topic--box-view">
-                        <a href="https://chaoss.local/kbtopic/event/"></p> 
+                        <a href="{{ baseURL }}kbtopic/event/"></p> 
                         
                         <div class="kb-topic__inner">
                           <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -183,7 +183,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                           </a> </div> 
                           
                           <div class="kb-topic topic-id-144 kb-topic--box-view">
-                            <a href="https://chaoss.local/kbtopic/governance-and-leadership/"></p> 
+                            <a href="{{ baseURL }}kbtopic/governance-and-leadership/"></p> 
                             
                             <div class="kb-topic__inner">
                               <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -216,7 +216,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                               
                               <div class="mkb-row">
                                 <div class="kb-topic topic-id-147 kb-topic--box-view">
-                                  <a href="https://chaoss.local/kbtopic/lifecycle/"></p> 
+                                  <a href="{{ baseURL }}kbtopic/lifecycle/"></p> 
                                   
                                   <div class="kb-topic__inner">
                                     <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -248,7 +248,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                                     </a> </div> 
                                     
                                     <div class="kb-topic topic-id-151 kb-topic--box-view">
-                                      <a href="https://chaoss.local/kbtopic/contributor/"></p> 
+                                      <a href="{{ baseURL }}kbtopic/contributor/"></p> 
                                       
                                       <div class="kb-topic__inner">
                                         <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -280,7 +280,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                                         </a> </div> 
                                         
                                         <div class="kb-topic topic-id-174 kb-topic--box-view">
-                                          <a href="https://chaoss.local/kbtopic/community/"></p> 
+                                          <a href="{{ baseURL }}kbtopic/community/"></p> 
                                           
                                           <div class="kb-topic__inner">
                                             <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -313,7 +313,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                                             
                                             <div class="mkb-row">
                                               <div class="kb-topic topic-id-173 kb-topic--box-view">
-                                                <a href="https://chaoss.local/kbtopic/ecosystem/"></p> 
+                                                <a href="{{ baseURL }}kbtopic/ecosystem/"></p> 
                                                 
                                                 <div class="kb-topic__inner">
                                                   <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -345,7 +345,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                                                   </a> </div> 
                                                   
                                                   <div class="kb-topic topic-id-193 kb-topic--box-view">
-                                                    <a href="https://chaoss.local/kbtopic/all-metrics/"></p> 
+                                                    <a href="{{ baseURL }}kbtopic/all-metrics/"></p> 
                                                     
                                                     <div class="kb-topic__inner">
                                                       <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -377,7 +377,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
                                                       </a> </div> 
                                                       
                                                       <div class="kb-topic topic-id-194 kb-topic--box-view">
-                                                        <a href="https://chaoss.local/kbtopic/all-metrics-models/"></p> 
+                                                        <a href="{{ baseURL }}kbtopic/all-metrics-models/"></p> 
                                                         
                                                         <div class="kb-topic__inner">
                                                           <div class="kb-topic__box-header" style="color: #4a90e2;">

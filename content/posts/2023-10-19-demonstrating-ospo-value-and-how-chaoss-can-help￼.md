@@ -32,12 +32,12 @@ Photo by [patricia serna][11] on [Unsplash][12].
 
  [1]: https://github.com/todogroup/ospology/discussions/375
  [2]: https://github.com/todogroup/ospology/discussions/380
- [3]: https://chaoss.local/kbtopic/all-metrics-models/
+ [3]: {{ baseURL }}kbtopic/all-metrics-models/
  [4]: https://blogs.sap.com/2023/10/13/ospologylive-event-in-frankfurt-local-affordable-and-in-depth
  [5]: https://github.com/todogroup/ospology/blob/main/ospology-live/framework.md
  [6]: https://opensource.net/measure-open-source-project-health/
  [7]: https://opensource.net/
- [8]: https://chaoss.local/kb/metrics-model-starter-project-health/
+ [8]: {{ baseURL }}kb/metrics-model-starter-project-health/
  [9]: https://podcast.chaoss.community/71
  [10]: https://github.com/chaoss/wg-ospo
  [11]: https://unsplash.com/@sernarial?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash

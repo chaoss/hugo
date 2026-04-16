@@ -17,7 +17,7 @@ tags:
   - DEI Badging
 
 ---
- <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="CHAOSS Logo" class="wp-image-1914" srcset="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
+ <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="CHAOSS Logo" class="wp-image-1914" srcset="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
 
 Here at CHAOSS, we are excited to announce the launch of [CHAOSS DEI Project Badging][1]. CHAOSS DEI Project Badging is an initiative developed to recognize open source projects that prioritize diversity, equity, and inclusion (DEI) work within their respective communities. The initiative uses CHAOSS DEI metrics as a benchmark to reflect on DEI efforts in an open source project. The objectives of CHAOSS DEI Project Badging are to (1) enable people to signal their ongoing efforts in improving and prioritizing DEI within their communities, (2) to recognize projects and communities for their DEI efforts, and (3) to help communities make informed decisions and take thoughtful actions in creating more inclusive and equitable environments. CHAOSS DEI Project Badging welcomes participation by badged projects in the evolution of the program.&nbsp;
 
@@ -65,11 +65,11 @@ Once the badging process is completed, you can re-apply for a project badge &#82
 If you would like to help CHAOSS build the future of DEI Project Badging, we welcome your participation! You are encouraged to join our DEI Working Group meetings every Wednesday at 10:00 am US Central/Chicago Time. Details on how to join these meetings can be found on the [CHAOSS Calendar.][8] You are also welcome to join the [CHAOSS Community Slack][9] and connect with us there.
 
  [1]: https://badging.chaoss.community/
- [2]: https://chaoss.local/?p=4891
- [3]: https://chaoss.local/?p=3522
- [4]: https://chaoss.local/?p=4957
+ [2]: {{ baseURL }}?p=4891
+ [3]: {{ baseURL }}?p=3522
+ [4]: {{ baseURL }}?p=4957
  [5]: https://github.com/badging/badging/blob/main/Template.DEI.md
  [6]: https://github.com/badging/badging/blob/main/Guide.DEI.md
  [7]: https://badging.chaoss.community/badge
- [8]: https://chaoss.local/chaoss-calendar/
+ [8]: {{ baseURL }}chaoss-calendar/
  [9]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg

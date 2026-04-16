@@ -23,7 +23,7 @@ categories:
 ### <span style="color: #980000">Review Period for Next Metrics Release Candidates Has Begun &#8211; Please Review!</span>
 
 <p dir="ltr">
-  After months of hard work and preparation, we have released the next set of metrics releases for the public review period. We would love your help in reviewing the current candidates and we encourage you to visit our <a href="https://chaoss.local/metrics/">metrics page</a> and click on each item marked with the &#8220;under review&#8221; label. Any and all feedback is appreciated!
+  After months of hard work and preparation, we have released the next set of metrics releases for the public review period. We would love your help in reviewing the current candidates and we encourage you to visit our <a href="{{ baseURL }}metrics/">metrics page</a> and click on each item marked with the &#8220;under review&#8221; label. Any and all feedback is appreciated!
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -155,7 +155,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -201,7 +201,7 @@ categories:
  [9]: https://github.com/chaoss/wg-evolution
  [10]: https://github.com/chaoss/wg-risk
  [11]: https://github.com/chaoss/wg-value
- [12]: https://chaoss.local/
+ [12]: {{ baseURL }}
  [13]: https://github.com/chaoss
  [14]: https://tinyurl.com/y6bao886
  [15]: https://tinyurl.com/CHAOSScast

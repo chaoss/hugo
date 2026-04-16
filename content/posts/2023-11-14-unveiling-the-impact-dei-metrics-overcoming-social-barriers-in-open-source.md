@@ -30,7 +30,7 @@ DEI metrics and initiatives have been introduced to [play a crucial role in addr
 To gain a better understanding of how CHAOSS DEI metrics can impact Open Source community health, let&#8217;s dissect recent studies and findings that showcase the state of diversity, equity, and inclusion within open source.
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="https://chaoss.local/wp-content/uploads/2023/11/TaCGgoYXkDegrnNUw27YMPZmeYDMByQhQKXqM47E_NACiLNAisjOykCK-zvpzlyF7gvT3FuFjXTmtBM1yh7cQZaweP3YgbFHM13-dazIgw6EQzy1D5rh3QC2b0_lnl3maRSD3vFMinilDgCTnkQt-am_tsrg0umzDt_9X2Rj9Ok_EUCG-fTkTUExf56_ug.jpg" alt="" /> <figcaption><em>Social Barriers to Diversity & Inclusion</em></figcaption> </figure>
+  <figure class="aligncenter"><img decoding="async" src="{{ baseURL }}wp-content/uploads/2023/11/TaCGgoYXkDegrnNUw27YMPZmeYDMByQhQKXqM47E_NACiLNAisjOykCK-zvpzlyF7gvT3FuFjXTmtBM1yh7cQZaweP3YgbFHM13-dazIgw6EQzy1D5rh3QC2b0_lnl3maRSD3vFMinilDgCTnkQt-am_tsrg0umzDt_9X2Rj9Ok_EUCG-fTkTUExf56_ug.jpg" alt="" /> <figcaption><em>Social Barriers to Diversity & Inclusion</em></figcaption> </figure>
 </div>
 
 <ul class="wp-block-list">
@@ -75,7 +75,7 @@ To gain a better understanding of how CHAOSS DEI metrics can impact Open Source 
 
 <ul class="wp-block-list">
   <li>
-    <strong>Quantify Diversity: </strong>By collecting and evaluating data on the demographic makeup of contributors, <a href="https://chaoss.local/metrics-for-event-organizers/">DEI metrics initiatives</a> provide a clearer picture of the community&#8217;s diversity. This data can help identify gaps and track progress over time. This data can help our leaders make informed decisions that create safe, welcoming, and equitable developer environments.
+    <strong>Quantify Diversity: </strong>By collecting and evaluating data on the demographic makeup of contributors, <a href="{{ baseURL }}metrics-for-event-organizers/">DEI metrics initiatives</a> provide a clearer picture of the community&#8217;s diversity. This data can help identify gaps and track progress over time. This data can help our leaders make informed decisions that create safe, welcoming, and equitable developer environments.
   </li>
   <li>
     <strong>Reveal Disparities:</strong> DEI metrics could reveal/identify, to some extent, incidents of both explicit and <a href="https://thenewstack.io/how-implicit-bias-impacts-open-source-diversity-and-inclusion/">implicit bias</a> that might exist in a community. For instance, in communities where members with disabilities, women, or people of color are not considered for leadership roles, it could signal a bias in promotion or recognition. 
@@ -116,7 +116,7 @@ During the interviews, we got to ask participants to share their experiences wit
 Based on these interviews, we gained insights from participants who shared real-time examples of how these metrics have been instrumental. They shed light on how CHAOSS DEI metrics have positively impacted individuals and communities.
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="https://chaoss.local/wp-content/uploads/2023/11/QTP7aUw11OIKB0H6teM0MoUNvrH_f2P8giuNWhYyyDnxtmP4lumLeaLr_LwxUny2U3uq7ELBuu_LRTEOJ6ZZHhw4TxD6YDcEQeDaEshEHZExFdi-HirzigemP3MMHVgbRepgLyr_rHPp01qJzcUMeE-rohZiWhwRq1qMkLgPhpcXcFK5lFilgnGg8Fdalw.png" alt="" /> <figcaption><em>CHAOSS DEI Metrics Scope</em></figcaption> </figure>
+  <figure class="aligncenter"><img decoding="async" src="{{ baseURL }}wp-content/uploads/2023/11/QTP7aUw11OIKB0H6teM0MoUNvrH_f2P8giuNWhYyyDnxtmP4lumLeaLr_LwxUny2U3uq7ELBuu_LRTEOJ6ZZHhw4TxD6YDcEQeDaEshEHZExFdi-HirzigemP3MMHVgbRepgLyr_rHPp01qJzcUMeE-rohZiWhwRq1qMkLgPhpcXcFK5lFilgnGg8Fdalw.png" alt="" /> <figcaption><em>CHAOSS DEI Metrics Scope</em></figcaption> </figure>
 </div>
 
 <ul class="wp-block-list">
@@ -157,13 +157,13 @@ Following the conclusion of our interview campaign, it became certain that CHAOS
 
 <ul class="wp-block-list">
   <li>
-    Metrics on <a href="https://chaoss.local/kb/metrics-model-community-activity/">community activity</a> can be used to diversify the recruitment process and offer equal opportunities to contributors regardless of their differences.
+    Metrics on <a href="{{ baseURL }}kb/metrics-model-community-activity/">community activity</a> can be used to diversify the recruitment process and offer equal opportunities to contributors regardless of their differences.
   </li>
   <li>
-    Metrics on <a href="https://chaoss.local/kb/metric-labor-investment/">labor investment </a>can also be utilized by open-source leaders to understand how much value a potential candidate provides to a project as they contribute. 
+    Metrics on <a href="{{ baseURL }}kb/metric-labor-investment/">labor investment </a>can also be utilized by open-source leaders to understand how much value a potential candidate provides to a project as they contribute. 
   </li>
   <li>
-    Metrics on contributor onboarding, <a href="https://chaoss.local/kb/metric-mentorship/">mentorship</a>, and <a href="https://chaoss.local/kb/metric-contribution-attribution/">contribution attribution</a> can help community leaders identify a person suitable for a leadership role or full-time hire and subsequently craft a position that aligns with their strengths.
+    Metrics on contributor onboarding, <a href="{{ baseURL }}kb/metric-mentorship/">mentorship</a>, and <a href="{{ baseURL }}kb/metric-contribution-attribution/">contribution attribution</a> can help community leaders identify a person suitable for a leadership role or full-time hire and subsequently craft a position that aligns with their strengths.
   </li>
 </ul>
 
@@ -171,10 +171,10 @@ Following the conclusion of our interview campaign, it became certain that CHAOS
 
 <ul class="wp-block-list">
   <li>
-    Metrics can be used to diversify the <a href="https://chaoss.local/kb/metric-inclusive-leadership/">leadership board</a> and serve as a key performance indicator for community health.
+    Metrics can be used to diversify the <a href="{{ baseURL }}kb/metric-inclusive-leadership/">leadership board</a> and serve as a key performance indicator for community health.
   </li>
   <li>
-    Metrics on <a href="https://chaoss.local/kb/metric-board-council-diversity/">board and council diversity</a> can help in promoting inclusive representation within communities.
+    Metrics on <a href="{{ baseURL }}kb/metric-board-council-diversity/">board and council diversity</a> can help in promoting inclusive representation within communities.
   </li>
   <li>
     By improving the power structure within communities, most Open Source communities can avoid dictatorships among leaders.
@@ -191,13 +191,13 @@ Following the conclusion of our interview campaign, it became certain that CHAOS
     Metrics are helpful for their event, promoting inclusive events and cultures. 
   </li>
   <li>
-    Metrics on <a href="https://chaoss.local/kb/metric-public-health-and-safety/">public health and safety</a> can be used to ensure participants feel safe to attend in-person events regardless of their differences.
+    Metrics on <a href="{{ baseURL }}kb/metric-public-health-and-safety/">public health and safety</a> can be used to ensure participants feel safe to attend in-person events regardless of their differences.
   </li>
   <li>
-    Metrics on the<a href="https://chaoss.local/kb/metric-code-of-conduct-at-event/"> event code of conduct </a>are helpful to organizers in figuring out better ways to relate with attendees.
+    Metrics on the<a href="{{ baseURL }}kb/metric-code-of-conduct-at-event/"> event code of conduct </a>are helpful to organizers in figuring out better ways to relate with attendees.
   </li>
   <li>
-    Metrics on<a href="https://chaoss.local/kb/metric-diversity-access-tickets/"> diversity access tickets</a> also help participants from underrepresented groups in attending events.
+    Metrics on<a href="{{ baseURL }}kb/metric-diversity-access-tickets/"> diversity access tickets</a> also help participants from underrepresented groups in attending events.
   </li>
 </ul>
 
@@ -205,10 +205,10 @@ Following the conclusion of our interview campaign, it became certain that CHAOS
 
 <ul class="wp-block-list">
   <li>
-    Metrics on <a href="https://chaoss.local/kb/metric-psychological-safety/">psychological safety </a>and burnout are essential for creating <a href="https://chaoss.local/kb/metrics-model-safety/">a safer environment</a> in open source, where individuals can freely communicate their concerns
+    Metrics on <a href="{{ baseURL }}kb/metric-psychological-safety/">psychological safety </a>and burnout are essential for creating <a href="{{ baseURL }}kb/metrics-model-safety/">a safer environment</a> in open source, where individuals can freely communicate their concerns
   </li>
   <li>
-    Metrics also encourage the need to <a href="https://chaoss.local/kb/metric-sponsorship/">provide support</a> to all contributors and maintainers.
+    Metrics also encourage the need to <a href="{{ baseURL }}kb/metric-sponsorship/">provide support</a> to all contributors and maintainers.
   </li>
 </ul>
 
@@ -219,10 +219,10 @@ Following the conclusion of our interview campaign, it became certain that CHAOS
     Metrics on mentorship can be employed to help mentors and mentees collaborate better. 
   </li>
   <li>
-    Metrics on leadership and <a href="https://chaoss.local/kb/metric-mentorship/">mentorship</a> can help encourage more folks to participate, also giving equal opportunities to contributors regardless of the differences.
+    Metrics on leadership and <a href="{{ baseURL }}kb/metric-mentorship/">mentorship</a> can help encourage more folks to participate, also giving equal opportunities to contributors regardless of the differences.
   </li>
   <li>
-    Metrics relating to contributor onboarding and <a href="https://chaoss.local/kb/metric-conversion-rate/">conversion rates</a> can be used to <a href="https://chaoss.local/kb/metric-sponsorship/">discern the progression of new community</a> members as they evolve into enduring and engaged contributors.
+    Metrics relating to contributor onboarding and <a href="{{ baseURL }}kb/metric-conversion-rate/">conversion rates</a> can be used to <a href="{{ baseURL }}kb/metric-sponsorship/">discern the progression of new community</a> members as they evolve into enduring and engaged contributors.
   </li>
   <li>
     Metrics on mentorship address the common barrier of entry for contributors, especially those from underrepresented groups.
@@ -250,7 +250,7 @@ Following the conclusion of our interview campaign, it became certain that CHAOS
     Metrics can be used to gather data on demographics, diversity in contribution roles, and psychological safety.
   </li>
   <li>
-    Metrics can help communities in creating  & enforcing <a href="https://chaoss.local/kb/metric-code-of-conduct-for-a-project/">code of conduct.</a>
+    Metrics can help communities in creating  & enforcing <a href="{{ baseURL }}kb/metric-code-of-conduct-for-a-project/">code of conduct.</a>
   </li>
   <li>
     Metrics enable communities to make informed decisions to address specific DEI challenges.
@@ -278,8 +278,8 @@ Finally, a big shout-out to the CHAOSS community members for their ongoing effor
  [5]: https://thenewstack.io/look-past-the-bros-and-concerns-about-open-source-inclusion-remain/
  [6]: https://thenewstack.io/how-chaoss-di-can-help-diversity-in-the-open-source-community/
  [7]: https://medium.com/@Anita-ihuman/call-to-participate-chaoss-dei-interview-campaign-with-underrepresented-groups-in-open-source-ce5578f8919a?source=user_profile---------8----------------------------
- [8]: https://chaoss.local/kb-metrics-and-metrics-models/
- [9]: https://chaoss.local/kbtopic/software/
- [10]: https://chaoss.local/kbtopic/governance-and-leadership/
+ [8]: {{ baseURL }}kb-metrics-and-metrics-models/
+ [9]: {{ baseURL }}kbtopic/software/
+ [10]: {{ baseURL }}kbtopic/governance-and-leadership/
  [11]: https://github.com/badging/event-diversity-and-inclusion
- [12]: https://chaoss.local/kbtopic/community/
+ [12]: {{ baseURL }}kbtopic/community/

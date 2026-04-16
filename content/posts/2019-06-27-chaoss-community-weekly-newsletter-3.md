@@ -8,7 +8,7 @@ excerpt: |
   |
     It’s official! CHAOSS Metric release candidates are open for public comment for the next four weeks. You can check out the candidate metrics here:
     
-    https://chaoss.local/metrics-rc/
+    {{ baseURL }}metrics-rc/
 url: /chaoss-community-weekly-newsletter-3/
 nectar_blog_post_view_count:
   - 2668

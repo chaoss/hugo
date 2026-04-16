@@ -39,7 +39,7 @@ tags:
 
 CHAOSScon 2023 Europe is now complete! Thanks to everyone who helped put on another wonderful event and thanks to everyone who took the time to attend and participate! It was really great to connect with everyone in the beautiful city of Brussels.&nbsp;<figure class="wp-block-image is-resized">
 
-<img loading="lazy" decoding="async" src="https://chaoss.local/wp-content/uploads/2023/04/img_6430652503e4b.jpg" alt="" width="799" height="533" /> <figcaption>_Photo Credit: Sean Goggins_</figcaption></figure> 
+<img loading="lazy" decoding="async" src="{{ baseURL }}wp-content/uploads/2023/04/img_6430652503e4b.jpg" alt="" width="799" height="533" /> <figcaption>_Photo Credit: Sean Goggins_</figcaption></figure> 
 
 This CHAOSScon, we led several discussions centering on two key questions. We asked participants to reflect on the questions in small groups and report back. This post will highlight a few of the key takeaways &#8212; and also provide captured comments that maybe didn’t make it into this post.&nbsp;
 
@@ -102,7 +102,7 @@ The full set of recorded comments for the first question with general categoriza
   </li>
 </ul><figure class="wp-block-image">
 
-<img decoding="async" src="https://chaoss.local/wp-content/uploads/2023/04/img_64306526147df.jpg" alt="" /> <figcaption>_Photo Credit: Sean Goggins_</figcaption></figure> 
+<img decoding="async" src="{{ baseURL }}wp-content/uploads/2023/04/img_64306526147df.jpg" alt="" /> <figcaption>_Photo Credit: Sean Goggins_</figcaption></figure> 
 
 **What should the CHAOSS project be working on in the future?**
 
@@ -224,7 +224,7 @@ The full set of recorded comments for the second question with general categoriz
 Thanks again to everyone for an amazing CHAOSScon 2023 in Brussels! We hope to see you soon!!
 
 <p class="has-text-align-justify">
-  <img loading="lazy" decoding="async" width="624" height="416" src="https://chaoss.local/wp-content/uploads/2023/04/img_64306526f4126.jpg" />
+  <img loading="lazy" decoding="async" width="624" height="416" src="{{ baseURL }}wp-content/uploads/2023/04/img_64306526f4126.jpg" />
 </p>
 
 _Photo Credit: Sean Goggins_

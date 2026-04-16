@@ -1163,7 +1163,7 @@ Copyright © CHAOSS a Linux Foundation® project. All rights reserved. The Linux
  [26]: https://twitter.com/sociallycompute
  [27]: https://twitter.com/tom_mens
  [28]: https://twitter.com/yoyehudi
- [29]: https://chaoss.local/wp-content/uploads/2019/08/CHAOSSconEU20_funding_prospectus.pdf
+ [29]: {{ baseURL }}wp-content/uploads/2019/08/CHAOSSconEU20_funding_prospectus.pdf
  [30]: https://chaoss.community/chaosscon-2022-eu/
  [31]: https://chaoss.community/chaosscon-2021-na/
  [32]: https://chaoss.community/chaosscon-2020-eu/

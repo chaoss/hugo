@@ -19,7 +19,7 @@ categories:
 
 The CHAOSScon CfP will be open until **August 13**, so you have just a few more days to [submit a talk][1]! Some suggested topics are:
 
-<a id="user-content-software-related-metrics-topics" class="anchor" href="https://chaoss.local/chaosscon-2021-na/#software-related-metrics-topics" aria-hidden="true"></a>**Software related metrics topics:**
+<a id="user-content-software-related-metrics-topics" class="anchor" href="{{ baseURL }}chaosscon-2021-na/#software-related-metrics-topics" aria-hidden="true"></a>**Software related metrics topics:**
 
   * tutorials
   * walk throughs
@@ -27,7 +27,7 @@ The CHAOSScon CfP will be open until **August 13**, so you have just a few more 
   * how-to&#8217;s
   * new features
 
-#### <a id="user-content-metrics-related-topics" class="anchor" href="https://chaoss.local/chaosscon-2021-na/#metrics-related-topics" aria-hidden="true"></a>Metrics related topics:
+#### <a id="user-content-metrics-related-topics" class="anchor" href="{{ baseURL }}chaosscon-2021-na/#metrics-related-topics" aria-hidden="true"></a>Metrics related topics:
 
   * metrics strategy
   * deep dive into the use of metrics
@@ -110,7 +110,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -169,7 +169,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
  [20]: https://github.com/chaoss/wg-evolution
  [21]: https://github.com/chaoss/wg-risk
  [22]: https://github.com/chaoss/wg-value
- [23]: https://chaoss.local/
+ [23]: {{ baseURL }}
  [24]: https://github.com/chaoss
  [25]: https://tinyurl.com/y6bao886
  [26]: https://tinyurl.com/CHAOSScast

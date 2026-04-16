@@ -28,19 +28,19 @@ To address this challenge, we created the [Practitioner Guide Series][5], which 
 
 <ul class="wp-block-list">
   <li>
-    <a href="https://chaoss.local/practitioner-guide-introduction/">Practitioner Guide: Introduction &#8211; Things to Think about When Interpreting Metrics</a>
+    <a href="{{ baseURL }}practitioner-guide-introduction/">Practitioner Guide: Introduction &#8211; Things to Think about When Interpreting Metrics</a>
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-contributor-sustainability/">Practitioner Guide: Contributor Sustainability</a>
+    <a href="{{ baseURL }}practitioner-guide-contributor-sustainability/">Practitioner Guide: Contributor Sustainability</a>
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-responsiveness/">Practitioner Guide: Responsiveness</a>
+    <a href="{{ baseURL }}practitioner-guide-responsiveness/">Practitioner Guide: Responsiveness</a>
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-organizational-participation/">Practitioner Guide: Organizational Participation</a>
+    <a href="{{ baseURL }}practitioner-guide-organizational-participation/">Practitioner Guide: Organizational Participation</a>
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-security/">Practitioner Guide: Security</a>
+    <a href="{{ baseURL }}practitioner-guide-security/">Practitioner Guide: Security</a>
   </li>
 </ul>
 
@@ -54,7 +54,7 @@ All you need to join the Data Science WG is an interest in using data to underst
  [2]: https://unsplash.com/photos/a-heart-is-shown-on-a-computer-screen-KgLtFCgfC28?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
  [3]: https://github.com/chaoss/wg-data-science
  [4]: https://github.com/chaoss/wg-data-science/tree/main/challenges_survey
- [5]: https://chaoss.local/about-chaoss-practitioner-guides/
+ [5]: {{ baseURL }}about-chaoss-practitioner-guides/
  [6]: https://github.com/chaoss/wg-data-science/labels/practitioner%20guide
  [7]: https://github.com/chaoss/wg-data-science/issues/new/choose
  [8]: https://www.youtube.com/playlist?list=PL60k37cxI-HSHV4-rEsWMzExw2y2Oq79Z

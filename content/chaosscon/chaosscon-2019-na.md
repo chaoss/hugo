@@ -692,7 +692,7 @@ Copyright © CHAOSS a Linux Foundation® project. All rights reserved. The Linux
  [11]: https://twitter.com/sduenasd
  [12]: https://twitter.com/sociallycompute
  [13]: https://twitter.com/_valcos_
- [14]: https://chaoss.local/wp-content/uploads/2019/05/CHAOSScon_sponsor_prospectus.pdf
+ [14]: {{ baseURL }}wp-content/uploads/2019/05/CHAOSScon_sponsor_prospectus.pdf
  [15]: https://chaoss.community/chaosscon-2022-eu/
  [16]: https://chaoss.community/chaosscon-2021-na/
  [17]: https://chaoss.community/chaosscon-2020-eu/

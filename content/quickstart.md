@@ -55,6 +55,6 @@ If you find you still aren&#8217;t sure where to go or how to contribute to CHAO
 
  [1]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-35ir7w0jr-aiwTPYShbj~mMsMbzhGWWQ
  [2]: https://zoom.us/my/chaoss
- [3]: https://chaoss.local/chaoss-calendar/
+ [3]: {{ baseURL }}chaoss-calendar/
  [4]: https://www.youtube.com/@CHAOSStube/playlists
- [5]: https://chaoss.local/chaoss-education/
+ [5]: {{ baseURL }}chaoss-education/

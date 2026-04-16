@@ -19,15 +19,15 @@ categories:
 
 Now is the time for you to offer last-minute feedback on our metrics candidates prior to their release in April. You don&#8217;t have to have worked on metrics, or participated in the CHAOSS Community before; we value feedback from everyone. This release will include 8 new metrics and 1 metric that will be moving to a metrics model.
 
-  * Occasional Contributors &#8211; <https://chaoss.local/metric-occasional-contributors/> ([Issue for feedback][1])
-  * Event Accessibility &#8211; <https://chaoss.local/metric-event-accessibility/> ([Issue for feedback][2])
-  * Project Demographics &#8211; <https://chaoss.local/metric-project-demographics/> ([Issue for feedback][3])
-  * Change Request Commits &#8211; <https://chaoss.local/metric-change-request-commits/> ([Issue for feedback][4])
-  * Change Request Reviews &#8211; <https://chaoss.local/metric-change-request-reviews/> ([Issue for feedback][5])
-  * Conversion Rate &#8211; <https://chaoss.local/metric-conversion-rate>/ ([Issue for feedback][6])
-  * Defect Resolution Time &#8211; <https://chaoss.local/metric-defect-resolution-time/> ([Issue for feedback][7])
-  * Contributor Recommendability &#8211; <https://chaoss.local/metric-contributor-recommendibility/> ([Issue for feedback][8])
-  * Project Popularity &#8211; <https://chaoss.local/metric-project-popularity> (moving to metric model)
+  * Occasional Contributors &#8211; <{{ baseURL }}metric-occasional-contributors/> ([Issue for feedback][1])
+  * Event Accessibility &#8211; <{{ baseURL }}metric-event-accessibility/> ([Issue for feedback][2])
+  * Project Demographics &#8211; <{{ baseURL }}metric-project-demographics/> ([Issue for feedback][3])
+  * Change Request Commits &#8211; <{{ baseURL }}metric-change-request-commits/> ([Issue for feedback][4])
+  * Change Request Reviews &#8211; <{{ baseURL }}metric-change-request-reviews/> ([Issue for feedback][5])
+  * Conversion Rate &#8211; <{{ baseURL }}metric-conversion-rate>/ ([Issue for feedback][6])
+  * Defect Resolution Time &#8211; <{{ baseURL }}metric-defect-resolution-time/> ([Issue for feedback][7])
+  * Contributor Recommendability &#8211; <{{ baseURL }}metric-contributor-recommendibility/> ([Issue for feedback][8])
+  * Project Popularity &#8211; <{{ baseURL }}metric-project-popularity> (moving to metric model)
 
 Thanks for helping make our metrics the best they can be!\[/vc\_column\_text\]\[vc\_column\_text\]
 
@@ -93,7 +93,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss> (excep
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -141,7 +141,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss> (excep
  [9]: mailto:elizabeth@chaoss.community
  [10]: https://www.youtube.com/watch?v=UN9Zxir0VtM
  [11]: https://docs.google.com/document/d/1iqIMpLBwuKSnE0BbQTgbsb9Im87IoN7IUzukochClCw/edit?pli=1#
- [12]: https://chaoss.local/metric-defect-resolution-time/
+ [12]: {{ baseURL }}metric-defect-resolution-time/
  [13]: https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=605223194
  [14]: https://www.youtube.com/playlist?list=PL60k37cxI-HQ5iMe1NvXNkECw11KGSkrV
  [15]: https://chaoss-workspace.slack.com/archives/C024LSSBFPF
@@ -164,7 +164,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss> (excep
  [32]: https://github.com/chaoss/wg-evolution
  [33]: https://github.com/chaoss/wg-risk
  [34]: https://github.com/chaoss/wg-value
- [35]: https://chaoss.local/
+ [35]: {{ baseURL }}
  [36]: https://github.com/chaoss
  [37]: https://tinyurl.com/y6bao886
  [38]: https://tinyurl.com/CHAOSScast

@@ -21,7 +21,7 @@ This week we celebrated the anniversary of CHAOSScast, as it started a year ago!
 
 ### <span style="color: #800000;">Tracking Non-Code Contributions Blog Post</span>
 
-Over the weekend, Georg Link published a super interesting blog post about his conversation with Marco Villegas. Marco has developed the [Open Source Contribution Log][1] tool that helps capture and quantify non-code contributions, and his work was based on CHAOSS metrics! If this is something you&#8217;d like to read more about, you can see the blog post here: [https://chaoss.local/blog-post/2021/05/08/tracking-contributions-to-open-source/.][2]\[/vc\_column\_text\]\[vc\_column\_text\]
+Over the weekend, Georg Link published a super interesting blog post about his conversation with Marco Villegas. Marco has developed the [Open Source Contribution Log][1] tool that helps capture and quantify non-code contributions, and his work was based on CHAOSS metrics! If this is something you&#8217;d like to read more about, you can see the blog post here: [{{ baseURL }}blog-post/2021/05/08/tracking-contributions-to-open-source/.][2]\[/vc\_column\_text\]\[vc\_column\_text\]
 
 ### <span style="color: #800000;">Reminder: Come Join us in Slack!</span>
 
@@ -88,7 +88,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -126,7 +126,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
 \[/vc\_column\_text\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation animation=&#8221;Fade In&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\]\[/vc_row\]
 
  [1]: https://github.com/adaptdk/contrib
- [2]: https://chaoss.local/blog-post/2021/05/08/tracking-contributions-to-open-source/
+ [2]: {{ baseURL }}blog-post/2021/05/08/tracking-contributions-to-open-source/
  [3]: https://ti.to/chaoss/chaoss-software-workshop-may-24-2021
  [4]: https://ti.to/chaoss/chaoss-software-workshop-june-5-2021
  [5]: https://ti.to/chaoss/chaoss-software-workshop-june-19-2021
@@ -144,7 +144,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
  [17]: https://github.com/chaoss/wg-evolution
  [18]: https://github.com/chaoss/wg-risk
  [19]: https://github.com/chaoss/wg-value
- [20]: https://chaoss.local/
+ [20]: {{ baseURL }}
  [21]: https://github.com/chaoss
  [22]: https://tinyurl.com/y6bao886
  [23]: https://tinyurl.com/CHAOSScast

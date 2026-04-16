@@ -24,7 +24,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
 <div class="mkb-home-topics mkb-columns mkb-columns-3 mkb-uuid-69cb2c61c4688">
   <div class="mkb-row">
     <div class="kb-topic topic-id-194 kb-topic--box-view">
-      <a href="https://chaoss.local/kbtopic/all-metrics-models/"></p> 
+      <a href="{{ baseURL }}kbtopic/all-metrics-models/"></p> 
       
       <div class="kb-topic__inner">
         <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -56,7 +56,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
         </a> </div> 
         
         <div class="kb-topic topic-id-193 kb-topic--box-view">
-          <a href="https://chaoss.local/kbtopic/all-metrics/"></p> 
+          <a href="{{ baseURL }}kbtopic/all-metrics/"></p> 
           
           <div class="kb-topic__inner">
             <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -88,7 +88,7 @@ CHAOSS _metrics_ they are meant to answer one single question about the health o
             </a> </div> 
             
             <div class="kb-topic topic-id-124 kb-topic--box-view">
-              <a href="https://chaoss.local/kbtopic/metrics-and-metrics-models-by-topic/"></p> 
+              <a href="{{ baseURL }}kbtopic/metrics-and-metrics-models-by-topic/"></p> 
               
               <div class="kb-topic__inner">
                 <div class="kb-topic__box-header" style="color: #4a90e2;">

@@ -148,17 +148,17 @@ We categorized 45 out of 729 projects as part of the hackathon, and here are the
                 </h2>
                 
                 <p>
-                  All of these are ongoing projects that people can get involved with by joining the <a href="https://github.com/chaoss/wg-data-science">CHAOSS Data Science WG</a>! You can learn more about what we’ve been up to by reading our <a href="https://chaoss.local/chaoss-data-science-working-group-new-guides-research-and-more/">latest update from June</a> on the CHAOSS blog.
+                  All of these are ongoing projects that people can get involved with by joining the <a href="https://github.com/chaoss/wg-data-science">CHAOSS Data Science WG</a>! You can learn more about what we’ve been up to by reading our <a href="{{ baseURL }}chaoss-data-science-working-group-new-guides-research-and-more/">latest update from June</a> on the CHAOSS blog.
                 </p>
                 
                 <p>
                   Photo by <a href="https://unsplash.com/@project2204?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leif Christoph Gottwald</a> on <a href="https://unsplash.com/photos/a-bunch-of-television-screens-hanging-from-the-ceiling-iM8dxccK1sY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
                 </p> [/vc_column_text][/vc_column][/vc_row]
 
- [1]: https://chaoss.local/chaoss-data-science-hackathon-2025/
+ [1]: {{ baseURL }}chaoss-data-science-hackathon-2025/
  [2]: https://ossna2025.sched.com/
- [3]: https://chaoss.local/chaosscon-2025-na/
- [4]: https://chaoss.local/chaoss-data-science-working-group-new-guides-research-and-more/
+ [3]: {{ baseURL }}chaosscon-2025-na/
+ [4]: {{ baseURL }}chaoss-data-science-working-group-new-guides-research-and-more/
  [5]: https://github.com/chaoss/wg-data-science/tree/main/dataset/license-changes/fork-case-study#hackathon-project-details
  [6]: https://github.com/chaoss/wg-data-science/tree/main/dataset/archive#hackathon-project-details
  [7]: https://colab.research.google.com/drive/1AebzquGmtsQ6c1JtC4Koj82lHQ39l-OD?usp=sharing

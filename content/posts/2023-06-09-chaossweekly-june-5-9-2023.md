@@ -31,7 +31,7 @@ categories:
   - News
 
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" class="wp-image-1914" srcset="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" class="wp-image-1914" srcset="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
 
 ### Reminder: CHAOSScon Africa happening June 14 {.has-vivid-red-color.has-text-color.wp-block-heading}
 
@@ -100,7 +100,7 @@ You can subscribe to the [#meeting-recap tag][6] or the [Meeting Summaries categ
 ### Let&#8217;s Celebrate our CHAOTIC of the Week &#8211; Yehui Wang! {.has-vivid-red-color.has-text-color.wp-block-heading}
 
 <div class="wp-block-image">
-  <figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="219" src="https://chaoss.local/wp-content/uploads/2023/06/yehui-1-300x219.png" alt="" class="wp-image-5052" srcset="https://chaoss.local/wp-content/uploads/2023/06/yehui-1-300x219.png 300w, https://chaoss.local/wp-content/uploads/2023/06/yehui-1-1024x749.png 1024w, https://chaoss.local/wp-content/uploads/2023/06/yehui-1-768x561.png 768w, https://chaoss.local/wp-content/uploads/2023/06/yehui-1-1536x1123.png 1536w, https://chaoss.local/wp-content/uploads/2023/06/yehui-1-2048x1497.png 2048w, https://chaoss.local/wp-content/uploads/2023/06/yehui-1-200x146.png 200w, https://chaoss.local/wp-content/uploads/2023/06/yehui-1-1320x965.png 1320w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption><em>Yehui Wang</em></figcaption></figure>
+  <figure class="alignleft size-medium"><img loading="lazy" decoding="async" width="300" height="219" src="{{ baseURL }}wp-content/uploads/2023/06/yehui-1-300x219.png" alt="" class="wp-image-5052" srcset="{{ baseURL }}wp-content/uploads/2023/06/yehui-1-300x219.png 300w, {{ baseURL }}wp-content/uploads/2023/06/yehui-1-1024x749.png 1024w, {{ baseURL }}wp-content/uploads/2023/06/yehui-1-768x561.png 768w, {{ baseURL }}wp-content/uploads/2023/06/yehui-1-1536x1123.png 1536w, {{ baseURL }}wp-content/uploads/2023/06/yehui-1-2048x1497.png 2048w, {{ baseURL }}wp-content/uploads/2023/06/yehui-1-200x146.png 200w, {{ baseURL }}wp-content/uploads/2023/06/yehui-1-1320x965.png 1320w" sizes="auto, (max-width: 300px) 100vw, 300px" /><figcaption><em>Yehui Wang</em></figcaption></figure>
 </div>
 
 **_A little about Yehui:_** 
@@ -153,7 +153,7 @@ All calls use our CHAOSS Community Zoom link (<https://zoom.us/my/chaoss>). All 
 
 12:00 pm Scientific Software Working Group ([Minutes and Agenda][20])
 
- [1]: https://chaoss.local/chaosscon-2023-africa/
+ [1]: {{ baseURL }}chaosscon-2023-africa/
  [2]: https://tix.africa/discover/chaoss
  [3]: https://chaoss-workspace.slack.com/archives/C02EMK6RAKT
  [4]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw
@@ -164,7 +164,7 @@ All calls use our CHAOSS Community Zoom link (<https://zoom.us/my/chaoss>). All 
  [9]: https://www.linkedin.com/in/yehuiwang/
  [10]: https://twitter.com/YehuiWang1
  [11]: https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64
- [12]: https://chaoss.local/chaoss-calendar/
+ [12]: {{ baseURL }}chaoss-calendar/
  [13]: https://chaoss-workspace.slack.com/archives/CV03ATA05
  [14]: https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit
  [15]: https://www.google.com/url?q=https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit%23&sa=D&source=calendar&usd=2&usg=AOvVaw1OHinJY34HdgUtM62_oBqC

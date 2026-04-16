@@ -49,8 +49,8 @@ With these goals set for 2024, we’re excited about the growth we’ve witnesse
 &nbsp; \[/vc\_column\_text\]\[/vc\_column\][/vc\_row]
 
  [1]: https://podcast.chaoss.community/76
- [2]: https://chaoss.local/software/
- [3]: https://chaoss.local/chaoss-guide-oss-viability/
+ [2]: {{ baseURL }}software/
+ [3]: {{ baseURL }}chaoss-guide-oss-viability/
  [4]: https://compass.gitee.com/
- [5]: https://chaoss.local/kb-getting-started/
- [6]: https://chaoss.local/artificial-intelligence-an-open-source-disruptor/
+ [5]: {{ baseURL }}kb-getting-started/
+ [6]: {{ baseURL }}artificial-intelligence-an-open-source-disruptor/

@@ -27,7 +27,7 @@ Companies who use open source software (so, all of them) have been thinking more
 When Verizon, and the OSPO within, looked through our own SBOM’s and assessed which dependencies we should update. We found that common practice sparsely dictates relative priority. Barely any priority is set as industry practice for updating dependencies. Outside of CVE’s (with their own criticality rating), and licensing resolution (usually a hard yes/no from legal teams). Old dependencies without any open vulnerabilities are regularly put behind new features and critical breakages. That felt **wrong** to us. Over time, dependencies that had “never needed updating&#8221; find themselves painfully entrenched in our applications. When they _do_ need upgrading the effort to do so can take dramatic time away from other development. We thought for sure, there has to be a way to identify (and reduce) that risk.
 
 <div class="wp-block-image is-style-default">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://chaoss.local/wp-content/uploads/2023/11/zaini-izzuddin-55btQzyDiO8-unsplash-768x1024.jpg" alt="" class="wp-image-5468" width="649" height="867" srcset="https://chaoss.local/wp-content/uploads/2023/11/zaini-izzuddin-55btQzyDiO8-unsplash-225x300.jpg 225w, https://chaoss.local/wp-content/uploads/2023/11/zaini-izzuddin-55btQzyDiO8-unsplash-200x267.jpg 200w" sizes="auto, (max-width: 649px) 100vw, 649px" /><figcaption><em>A visual representation of open source libraries available to accomplish a minor engineering task</em><br />Photo by <a href="https://unsplash.com/@izzuddindanial?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zaini Izzuddin</a> on <a href="https://unsplash.com/photos/books-on-shelves-55btQzyDiO8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></figcaption></figure>
+  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="{{ baseURL }}wp-content/uploads/2023/11/zaini-izzuddin-55btQzyDiO8-unsplash-768x1024.jpg" alt="" class="wp-image-5468" width="649" height="867" srcset="{{ baseURL }}wp-content/uploads/2023/11/zaini-izzuddin-55btQzyDiO8-unsplash-225x300.jpg 225w, {{ baseURL }}wp-content/uploads/2023/11/zaini-izzuddin-55btQzyDiO8-unsplash-200x267.jpg 200w" sizes="auto, (max-width: 649px) 100vw, 649px" /><figcaption><em>A visual representation of open source libraries available to accomplish a minor engineering task</em><br />Photo by <a href="https://unsplash.com/@izzuddindanial?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zaini Izzuddin</a> on <a href="https://unsplash.com/photos/books-on-shelves-55btQzyDiO8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></figcaption></figure>
 </div>
 
 What else should we be looking for in our open source software **choices**? What guidance can we give to encourage good decisions not just when maintaining software? Should that guidance be different than when people decide on software to use? Software technologists regularly make decisions about which software they should use in their project. Rarely is this done with an SCA tool, SAST tool, or an SBOM. Could we provide tools and metrics to guide decisions? How can we create less risk in our choices, providing more sustainable software infrastructure? From these question we set to develop a model to make sense of the complexity.
@@ -50,10 +50,10 @@ I’m excited to share this model with everyone; it’s been a while in the maki
  [2]: https://en.wikipedia.org/wiki/Software_supply_chain
  [3]: https://en.wikipedia.org/wiki/Static_application_security_testing
  [4]: https://en.wikipedia.org/wiki/Software_composition_analysis
- [5]: https://chaoss.local/kbtopic/all-metrics-models/
- [6]: https://chaoss.local/kb/metrics-model-oss-project-viability-community/
- [7]: https://chaoss.local/kb/metrics-model-oss-project-viability-strategy/
- [8]: https://chaoss.local/kb/metrics-model-oss-project-viability-governance/
- [9]: https://chaoss.local/kb/metrics-model-oss-project-viability-compliance-security/
- [10]: https://chaoss.local/kbtopic/all-metrics/
+ [5]: {{ baseURL }}kbtopic/all-metrics-models/
+ [6]: {{ baseURL }}kb/metrics-model-oss-project-viability-community/
+ [7]: {{ baseURL }}kb/metrics-model-oss-project-viability-strategy/
+ [8]: {{ baseURL }}kb/metrics-model-oss-project-viability-governance/
+ [9]: {{ baseURL }}kb/metrics-model-oss-project-viability-compliance-security/
+ [10]: {{ baseURL }}kbtopic/all-metrics/
  [11]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw

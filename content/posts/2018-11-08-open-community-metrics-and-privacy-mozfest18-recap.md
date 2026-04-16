@@ -22,7 +22,7 @@ _This post was originally published here and on [Software Sustainability Institu
 
 _Image by Raniere Silva._
 
-###<img loading="lazy" decoding="async" class="size-full wp-image-610 alignright" src="https://chaoss.local/wp-content/uploads/2018/11/IMG_20181027_120618.jpg" alt="" width="400" height="300" srcset="https://chaoss.local/wp-content/uploads/2018/11/IMG_20181027_120618.jpg 400w, https://chaoss.local/wp-content/uploads/2018/11/IMG_20181027_120618-300x225.jpg 300w" sizes="auto, (max-width: 400px) 100vw, 400px" /> TL;DR
+###<img loading="lazy" decoding="async" class="size-full wp-image-610 alignright" src="{{ baseURL }}wp-content/uploads/2018/11/IMG_20181027_120618.jpg" alt="" width="400" height="300" srcset="{{ baseURL }}wp-content/uploads/2018/11/IMG_20181027_120618.jpg 400w, {{ baseURL }}wp-content/uploads/2018/11/IMG_20181027_120618-300x225.jpg 300w" sizes="auto, (max-width: 400px) 100vw, 400px" /> TL;DR
 
 _Open communities lack a shared language to talk about metrics and share best practices. Metrics are aggregate information that summarise raw data into a single number, stripping away any context of data. Pedagogical metric displays are an idea for metrics that include an explanation and educates the user on how to interpret the metric. Metrics are inherently biased and can lead to discrimination. Many problems brought up during the MozFest session are worked on in the CHAOSS project._
 
@@ -100,4 +100,4 @@ We are thankful to the attendees that help us to brainstorm open community metri
  [2]: https://mozillafestival.org/
  [3]: https://www.mozilla.org/en-GB/
  [4]: https://github.com/chaoss/grimoirelab-perceval
- [5]: https://chaoss.local/
+ [5]: {{ baseURL }}

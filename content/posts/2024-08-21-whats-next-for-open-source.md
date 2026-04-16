@@ -117,7 +117,7 @@ tags:
 <span style="font-weight: 400;">To continue your journey in open source success, we encourage you to explore the following resources:</span>
 
 <li style="font-weight: 400;" aria-level="1">
-  <span style="font-weight: 400;">Join the CHAOSS Community: Dive into the world of community health analytics and learn how to apply metrics to your projects. Visit CHAOSS’s </span><a href="https://chaoss.local/kb-getting-started/"><span style="font-weight: 400;">Quick Start for New Contributors</span></a><span style="font-weight: 400;"> to get started and </span><a href="https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg"><span style="font-weight: 400;">join CHAOSS on Slack</span></a><span style="font-weight: 400;">.</span>
+  <span style="font-weight: 400;">Join the CHAOSS Community: Dive into the world of community health analytics and learn how to apply metrics to your projects. Visit CHAOSS’s </span><a href="{{ baseURL }}kb-getting-started/"><span style="font-weight: 400;">Quick Start for New Contributors</span></a><span style="font-weight: 400;"> to get started and </span><a href="https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg"><span style="font-weight: 400;">join CHAOSS on Slack</span></a><span style="font-weight: 400;">.</span>
 </li>
 <li style="font-weight: 400;" aria-level="1">
   <span style="font-weight: 400;">Participate in OSPOs4Good: </span><a href="https://join.slack.com/t/osposforgood/shared_invite/zt-2mf82q0wm-jiVOfnbXp3iPiracBlHiCg"><span style="font-weight: 400;">Join the Slack community</span></a><span style="font-weight: 400;"> for ongoing discussions, support, and collaboration.</span>

@@ -26,7 +26,7 @@ The CHAOSS community was formed as result of a Birds-of-a-Feather on Community H
   * CHAOSS project breakout session; Tuesday (Oct. 24th) at 12pm &#8211; 5pm local time; Room London
 
 <div id="attachment_183" style="width: 1034px" class="wp-caption aligncenter">
-  <img loading="lazy" decoding="async" aria-describedby="caption-attachment-183" class="size-large wp-image-183" src="https://chaoss.local/wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017-1024x256.png" alt="CHAOSS group picture at OSSEU2017." width="1024" height="256" srcset="https://chaoss.local/wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017.png 1024w, https://chaoss.local/wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017-300x75.png 300w, https://chaoss.local/wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017-768x192.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p> 
+  <img loading="lazy" decoding="async" aria-describedby="caption-attachment-183" class="size-large wp-image-183" src="{{ baseURL }}wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017-1024x256.png" alt="CHAOSS group picture at OSSEU2017." width="1024" height="256" srcset="{{ baseURL }}wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017.png 1024w, {{ baseURL }}wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017-300x75.png 300w, {{ baseURL }}wp-content/uploads/2018/01/2017-10-24_chaoss-at-osseu2017-768x192.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p> 
   
   <p id="caption-attachment-183" class="wp-caption-text">
     CHAOSS group picture at OSSEU2017.
@@ -57,7 +57,7 @@ The CHAOSS community was formed as result of a Birds-of-a-Feather on Community H
   </ul>
   
   <div id="attachment_186" style="width: 1034px" class="wp-caption aligncenter">
-    <img loading="lazy" decoding="async" aria-describedby="caption-attachment-186" class="size-large wp-image-186" src="https://chaoss.local/wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017-1024x258.png" alt="CHAOSS group picture at OSSNA2017." width="1024" height="258" srcset="https://chaoss.local/wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017.png 1024w, https://chaoss.local/wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017-300x76.png 300w, https://chaoss.local/wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017-768x194.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p> 
+    <img loading="lazy" decoding="async" aria-describedby="caption-attachment-186" class="size-large wp-image-186" src="{{ baseURL }}wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017-1024x258.png" alt="CHAOSS group picture at OSSNA2017." width="1024" height="258" srcset="{{ baseURL }}wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017.png 1024w, {{ baseURL }}wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017-300x76.png 300w, {{ baseURL }}wp-content/uploads/2018/01/2017-09-12_chaoss-at-ossna2017-768x194.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p> 
     
     <p id="caption-attachment-186" class="wp-caption-text">
       CHAOSS group picture at OSSNA2017.

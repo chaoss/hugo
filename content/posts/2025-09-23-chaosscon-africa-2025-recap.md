@@ -124,7 +124,7 @@ This year’s CHAOSScon Africa made some significant strides. We experienced doi
 
 For a complete breakdown of the metrics and detailed insights on CHAOSScon Africa, you can explore the [full report presentation][4].<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="819" src="https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-1024x819.png" alt="10 pictures showing moments shared at CHAOSScon Africa 2025." class="wp-image-6215" srcset="https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-1024x819.png 1024w, https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-300x240.png 300w, https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-768x614.png 768w, https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-1536x1229.png 1536w, https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-200x160.png 200w, https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word-1320x1056.png 1320w, https://chaoss.local/wp-content/uploads/2025/09/10-pics-one-word.png 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="819" src="{{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-1024x819.png" alt="10 pictures showing moments shared at CHAOSScon Africa 2025." class="wp-image-6215" srcset="{{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-1024x819.png 1024w, {{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-300x240.png 300w, {{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-768x614.png 768w, {{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-1536x1229.png 1536w, {{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-200x160.png 200w, {{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word-1320x1056.png 1320w, {{ baseURL }}wp-content/uploads/2025/09/10-pics-one-word.png 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 
 
@@ -152,13 +152,13 @@ To keep improving, the program committee will review feedback from speakers and 
 We hope that more contributors can join us in the CHAOSS community and get involved in the metrics, inclusion, and sustainability conversations. To stay up-to-date on the CHAOSS Africa chapter activities and initiatives, consider joining the CHAOSS Project [Slack community][11].
 
  [1]: https://github.com/orgs/chaoss/projects/24
- [2]: https://chaoss.local/charter/
+ [2]: {{ baseURL }}charter/
  [3]: https://www.youtube.com/watch?v=8hXPbg3hIpQ&list=PL60k37cxI-HSaJBsRZafh08Uo_UPgAm6Y
  [4]: https://docs.google.com/presentation/d/1BU49GY4k4PC29O3E_D9u7hOIWh_VrV4IVEdAUI-8jW0/edit?usp=sharing
  [5]: https://www.redhat.com/en/about
  [6]: https://www.linkedin.com/in/accessibility-nigeria-939681297/
  [7]: https://www.linkedin.com/in/maryblessingokolie/
  [8]: https://www.linkedin.com/in/busayo-ojo-533a66198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
- [9]: https://chaoss.local/chaosscon-africa-2025/
+ [9]: {{ baseURL }}chaosscon-africa-2025/
  [10]: https://forms.gle/RLypNkk7CcDfj5gr8
  [11]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw

@@ -116,7 +116,7 @@ All meetings are in US Central Time (UTC-5) and are held at [unomaha.zoom.us/j/7
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -165,7 +165,7 @@ All meetings are in US Central Time (UTC-5) and are held at [unomaha.zoom.us/j/7
  [11]: https://github.com/chaoss/wg-evolution
  [12]: https://github.com/chaoss/wg-risk
  [13]: https://github.com/chaoss/wg-value
- [14]: https://chaoss.local/
+ [14]: {{ baseURL }}
  [15]: https://github.com/chaoss
  [16]: https://tinyurl.com/y6bao886
  [17]: https://tinyurl.com/CHAOSScast

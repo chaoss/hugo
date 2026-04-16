@@ -72,7 +72,7 @@ All calls use our CHAOSS community Zoom link: [https://zoom.us/my/chaoss.][6] Al
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -135,7 +135,7 @@ All calls use our CHAOSS community Zoom link: [https://zoom.us/my/chaoss.][6] Al
  [24]: https://github.com/chaoss/wg-risk
  [25]: https://github.com/chaoss/wg-value
  [26]: https://github.com/chaoss/wg-metrics-models
- [27]: https://chaoss.local/
+ [27]: {{ baseURL }}
  [28]: https://github.com/chaoss
  [29]: https://tinyurl.com/CHAOSScast
  [30]: https://www.youtube.com/c/CHAOSStube

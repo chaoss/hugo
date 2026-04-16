@@ -110,7 +110,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -150,7 +150,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
  [1]: https://www.facebook.com/amfoss.in/posts/4170035743104290
  [2]: https://events.linuxfoundation.org/open-source-summit-north-america/
  [3]: https://docs.google.com/forms/d/14oG7HdBS7eQDi3tDoBSiKpm5FaUqYWj5FV-puxmZtzg/viewform?edit_requested=true
- [4]: https://chaoss.local/chaosscon-2021-na/
+ [4]: {{ baseURL }}chaosscon-2021-na/
  [5]: https://g.eqxiu.com/s/XFfuVS3g?eqrcode=1
  [6]: https://chaoss-workspace.slack.com/archives/C0258G98SSX
  [7]: https://ritik18406.medium.com/coding-period-1-week-4-11c9d4daeebc
@@ -170,7 +170,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
  [21]: https://github.com/chaoss/wg-evolution
  [22]: https://github.com/chaoss/wg-risk
  [23]: https://github.com/chaoss/wg-value
- [24]: https://chaoss.local/
+ [24]: {{ baseURL }}
  [25]: https://github.com/chaoss
  [26]: https://tinyurl.com/y6bao886
  [27]: https://tinyurl.com/CHAOSScast

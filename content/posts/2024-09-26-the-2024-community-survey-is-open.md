@@ -56,5 +56,5 @@ tags:
 Thank you for your participation and for helping us center diversity, equity, and inclusion in the CHAOSS community!\[/vc\_column\_text\]\[/vc\_column\][/vc\_row]
 
  [1]: https://chaossproject.limesurvey.net/925339?lang=en
- [2]: https://chaoss.local/chaoss-community-survey-is-open/
- [3]: https://chaoss.local/chaoss-dei-self-reflection-summary/
+ [2]: {{ baseURL }}chaoss-community-survey-is-open/
+ [3]: {{ baseURL }}chaoss-dei-self-reflection-summary/

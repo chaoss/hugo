@@ -66,15 +66,15 @@ Chan is running the [CHAOSS Data Science Hackathon][20], which will be&nbsp; co-
 
 All you need to join the Data Science WG is an interest in using data to understand the open source world around us. Most of our work is analysis of data, writing guides, and discussions about using metrics. You don’t need any special skills, and you don’t need to know any advanced statistics, machine learning, or AI. To learn more, visit our [repository][22], join our [meetings][23], or reach out to us in the #wg-data-science channel in CHAOSS Slack. We hope you’ll join us!
 
- [1]: https://chaoss.local/inside-the-chaoss-data-science-working-group/
- [2]: https://chaoss.local/practitioner-guide-sunset
- [3]: https://chaoss.local/practitioner-guide-diverse-leadership
+ [1]: {{ baseURL }}inside-the-chaoss-data-science-working-group/
+ [2]: {{ baseURL }}practitioner-guide-sunset
+ [3]: {{ baseURL }}practitioner-guide-diverse-leadership
  [4]: https://www.linkedin.com/in/peculiar-c-umeh/
- [5]: https://chaoss.local/practitioner-guide-introduction/
- [6]: https://chaoss.local/practitioner-guide-contributor-sustainability/
- [7]: https://chaoss.local/practitioner-guide-responsiveness/
- [8]: https://chaoss.local/practitioner-guide-organizational-participation/
- [9]: https://chaoss.local/practitioner-guide-security/
+ [5]: {{ baseURL }}practitioner-guide-introduction/
+ [6]: {{ baseURL }}practitioner-guide-contributor-sustainability/
+ [7]: {{ baseURL }}practitioner-guide-responsiveness/
+ [8]: {{ baseURL }}practitioner-guide-organizational-participation/
+ [9]: {{ baseURL }}practitioner-guide-security/
  [10]: https://doi.org/10.1109/MC.2025.3530556
  [11]: https://ieeexplore.ieee.org/iel8/2/11014249/11014256.pdf
  [12]: https://github.com/chaoss/wg-data-science/issues/new/choose
@@ -85,7 +85,7 @@ All you need to join the Data Science WG is an interest in using data to underst
  [17]: https://www.linkedin.com/in/salkimmich/
  [18]: https://github.com/chaoss/wg-data-science/issues/45
  [19]: https://github.com/chaoss/wg-data-science/tree/main/dataset/taxonomies
- [20]: https://chaoss.local/chaoss-data-science-hackathon-2025/
+ [20]: {{ baseURL }}chaoss-data-science-hackathon-2025/
  [21]: https://forms.gle/PLxqUwqGSwdzxxjg9
  [22]: https://github.com/chaoss/wg-data-science
  [23]: https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?tab=t.51o90d5gbq9i

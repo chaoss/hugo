@@ -29,7 +29,7 @@ categories:
   - News
 
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" class="wp-image-1914" srcset="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" class="wp-image-1914" srcset="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
 
 ### CHAOSScon Africa Schedule and Keynotes Announced! {.has-vivid-red-color.has-text-color.wp-block-heading}
 
@@ -66,7 +66,7 @@ This week&#8217;s meeting summaries are here:
 This week we celebrate Kevin Lumbard, a long time CHAOSS contributor who has been with CHAOSS since the very beginning!
 
 <div class="wp-block-image">
-  <figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy.png" alt="" class="wp-image-5009" width="310" height="310" srcset="https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy.png 864w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-300x300.png 300w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-150x150.png 150w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-768x768.png 768w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-200x200.png 200w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-100x100.png 100w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-140x140.png 140w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-500x500.png 500w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-350x350.png 350w, https://chaoss.local/wp-content/uploads/2023/06/Kevin_8879-copy-800x800.png 800w" sizes="auto, (max-width: 310px) 100vw, 310px" /><figcaption><em>Kevin Lumbard</em></figcaption></figure>
+  <figure class="alignleft size-full is-resized"><img loading="lazy" decoding="async" src="{{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy.png" alt="" class="wp-image-5009" width="310" height="310" srcset="{{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy.png 864w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-300x300.png 300w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-150x150.png 150w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-768x768.png 768w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-200x200.png 200w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-100x100.png 100w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-140x140.png 140w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-500x500.png 500w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-350x350.png 350w, {{ baseURL }}wp-content/uploads/2023/06/Kevin_8879-copy-800x800.png 800w" sizes="auto, (max-width: 310px) 100vw, 310px" /><figcaption><em>Kevin Lumbard</em></figcaption></figure>
 </div>
 
 _**A little about Kevin:**_
@@ -126,7 +126,7 @@ If you&#8217;d like to keep up with or connect to Kevin you can find him on [Lin
   9:00 am Communications Working Group (<a href="https://docs.google.com/document/u/4/d/1_2hErJemNCLgIBaOW0ODIdwfbgBqTfw25aJ7E1ijzWc/edit">Minutes and Agenda</a>)<br />10:00 am Common Working Group Meeting (<a href="https://docs.google.com/document/d/1xsii5tfmmDwWpuhrFcBJMeYeT3RipJdiCdHrbi0NalQ/edit">Minutes and Agenda</a>)<br />1:00 pm Risk Working Group (<a href="https://docs.google.com/document/d/1iqIMpLBwuKSnE0BbQTgbsb9Im87IoN7IUzukochClCw/edit?pli=1#">Minutes and Agenda</a>)
 </p>
 
- [1]: https://chaoss.local/chaosscon-2023-africa/
+ [1]: {{ baseURL }}chaosscon-2023-africa/
  [2]: https://tix.africa/discover/chaoss
  [3]: https://www.youtube.com/playlist?list=PLbzoR-pLrL6oY_PO8wegbw3zRe4WmIZ6q
  [4]: https://www.linkedin.com/in/kevin-m-lumbard/

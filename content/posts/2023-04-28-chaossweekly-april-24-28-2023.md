@@ -33,7 +33,7 @@ tags:
   - news
 
 ---
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" class="wp-image-1914" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" width="473" height="128" srcset="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 473px) 100vw, 473px" /></figure> <!-- /wp:post-content -->
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" class="wp-image-1914" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" width="473" height="128" srcset="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 473px) 100vw, 473px" /></figure> <!-- /wp:post-content -->
 
 <!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
 
@@ -121,16 +121,16 @@ tags:
 
 [Minutes and Agenda][15]) 11:00 am OSPO Working Group ([Minutes and Agenda][16]) <!-- /wp:paragraph -->
 
- [1]: https://chaoss.local/chaosscon-2023-na/
+ [1]: {{ baseURL }}chaosscon-2023-na/
  [2]: https://events.linuxfoundation.org/open-source-summit-north-america/register/
  [3]: https://github.com/chaoss/website/blob/main/CHAOSScon/2023NA/CHAOSScon.NA.2023_funding_prospectus.pdf
  [4]: https://festival.oscafrica.org/
- [5]: https://chaoss.local/?p=4834
- [6]: https://chaoss.local/?p=4765
- [7]: https://chaoss.local/?p=4811
- [8]: https://chaoss.local/?p=4807
- [9]: https://chaoss.local/?p=4891
- [10]: https://chaoss.local/chaoss-calendar/
+ [5]: {{ baseURL }}?p=4834
+ [6]: {{ baseURL }}?p=4765
+ [7]: {{ baseURL }}?p=4811
+ [8]: {{ baseURL }}?p=4807
+ [9]: {{ baseURL }}?p=4891
+ [10]: {{ baseURL }}chaoss-calendar/
  [11]: https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64
  [12]: https://chaoss-workspace.slack.com/archives/CV03ATA05
  [13]: https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1#heading=h.oznzkn3t2ext

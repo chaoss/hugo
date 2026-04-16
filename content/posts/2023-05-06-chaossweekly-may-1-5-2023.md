@@ -31,7 +31,7 @@ categories:
   - News
 
 ---
-<figure class="wp-block-image is-resized" id="block-c8cc41c3-8151-4d6c-8b15-47d6fd186d17"><img loading="lazy" decoding="async" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="This image has an empty alt attribute; its file name is Chaoss_Logo_Pantone1-1024x277.jpg" width="413" height="112" /></figure> 
+<figure class="wp-block-image is-resized" id="block-c8cc41c3-8151-4d6c-8b15-47d6fd186d17"><img loading="lazy" decoding="async" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="This image has an empty alt attribute; its file name is Chaoss_Logo_Pantone1-1024x277.jpg" width="413" height="112" /></figure> 
 
 ### **(Most) Meetings Canceled the week of May 8-12 for OSSNA and CHAOSScon NA 2023** {#block-5ccd1618-fe8f-4520-a8f9-4072fbcb6c08.has-vivid-red-color.has-text-color.wp-block-heading}
 
@@ -61,7 +61,7 @@ The CHAOSSAfrica Community is also looking for speakers for this event! **The Cf
 We are starting a new feature in our newsletter called the &#8220;CHAOTIC of the Week&#8221; where we highlight one of our amazing community members. For our first CHAOTIC, we learn more about Anita Human and the wonderful work she&#8217;s been contributing to CHAOSS. 
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-769x1024.jpg" alt="" class="wp-image-4945" width="222" height="295" srcset="https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-769x1024.jpg 769w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-225x300.jpg 225w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-768x1022.jpg 768w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-1154x1536.jpg 1154w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-1539x2048.jpg 1539w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-200x266.jpg 200w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-1320x1757.jpg 1320w, https://chaoss.local/wp-content/uploads/2023/05/Anita-linkedin-scaled.jpg 1923w" sizes="auto, (max-width: 222px) 100vw, 222px" /><figcaption><em>Anita Ihuman</em></figcaption></figure>
+  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="{{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-769x1024.jpg" alt="" class="wp-image-4945" width="222" height="295" srcset="{{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-769x1024.jpg 769w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-225x300.jpg 225w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-768x1022.jpg 768w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-1154x1536.jpg 1154w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-1539x2048.jpg 1539w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-200x266.jpg 200w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-1320x1757.jpg 1320w, {{ baseURL }}wp-content/uploads/2023/05/Anita-linkedin-scaled.jpg 1923w" sizes="auto, (max-width: 222px) 100vw, 222px" /><figcaption><em>Anita Ihuman</em></figcaption></figure>
 </div>
 
 _**A little about Anita:**_
@@ -86,7 +86,7 @@ Anita has been in CHAOSS for a few years now, and she&#8217;s brought so much to
 ### Upcoming Meetings {.has-vivid-red-color.has-text-color.wp-block-heading}
 
 <p id="block-a55cad70-d0e8-4738-8b84-31adff77bf98">
-  All calls use our CHAOSS Community Zoom link (<a href="https://zoom.us/my/chaoss">https://zoom.us/my/chaoss</a>). Unless noted otherwise, all meetings listed here are in US Central / Chicago Time Zone, currently on Daylight Savings Time (UTC -5). You can convert to your local time <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64">here</a>. You can also subscribe to the <a href="https://chaoss.local/chaoss-calendar/">CHAOSS Calendar</a> or watch for meeting reminders that are posted daily in the <a href="https://chaoss-workspace.slack.com/archives/CV03ATA05">#general channel</a> in Slack.
+  All calls use our CHAOSS Community Zoom link (<a href="https://zoom.us/my/chaoss">https://zoom.us/my/chaoss</a>). Unless noted otherwise, all meetings listed here are in US Central / Chicago Time Zone, currently on Daylight Savings Time (UTC -5). You can convert to your local time <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64">here</a>. You can also subscribe to the <a href="{{ baseURL }}chaoss-calendar/">CHAOSS Calendar</a> or watch for meeting reminders that are posted daily in the <a href="https://chaoss-workspace.slack.com/archives/CV03ATA05">#general channel</a> in Slack.
 </p>
 
 **Monday, May 8**
@@ -101,5 +101,5 @@ Anita has been in CHAOSS for a few years now, and she&#8217;s brought so much to
 
  [1]: https://events.linuxfoundation.org/open-source-summit-north-america/register/
  [2]: https://chaoss-workspace.slack.com/archives/C02EMK6RAKT
- [3]: https://chaoss.local/chaoss-calendar/
+ [3]: {{ baseURL }}chaoss-calendar/
  [4]: https://forms.gle/hnKtvkq8ky8S9wi49

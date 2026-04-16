@@ -58,7 +58,7 @@ By moving the location of CHAOSScon to the Commons Hub Brussels, it opens up inc
 
 To give you an impression of the space, here is a floor plan with all the rooms.<figure class="wp-block-image size-full">
 
-<img loading="lazy" decoding="async" width="1007" height="838" src="https://chaoss.local/wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM.png" alt="map of the commons hub coworking space" class="wp-image-6372" srcset="https://chaoss.local/wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM.png 1007w, https://chaoss.local/wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM-300x250.png 300w, https://chaoss.local/wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM-768x639.png 768w" sizes="auto, (max-width: 1007px) 100vw, 1007px" /> </figure> 
+<img loading="lazy" decoding="async" width="1007" height="838" src="{{ baseURL }}wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM.png" alt="map of the commons hub coworking space" class="wp-image-6372" srcset="{{ baseURL }}wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM.png 1007w, {{ baseURL }}wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM-300x250.png 300w, {{ baseURL }}wp-content/uploads/2025/12/Screenshot-2025-11-26-at-9.22.41-AM-768x639.png 768w" sizes="auto, (max-width: 1007px) 100vw, 1007px" /> </figure> 
 
 #### **CHAOSScon&#8217;s Main Program** {.wp-block-heading}
 
@@ -120,4 +120,4 @@ CHAOSScon Organizing Committee
 <sub>Photo by <a href="https://unsplash.com/@perventuator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bibhash (Polygon.Cafe) Banerjee</a> on <a href="https://unsplash.com/photos/people-walking-on-street-near-brown-concrete-building-during-daytime-4sTr22a97uQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
 
  [1]: https://opensourcevillage.org/
- [2]: https://chaoss.local/chaosscon-2026-eu/agenda/
+ [2]: {{ baseURL }}chaosscon-2026-eu/agenda/

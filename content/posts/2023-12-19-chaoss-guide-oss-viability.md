@@ -20,7 +20,7 @@ tags:
   - viability
 
 ---
- <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="596" src="https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1024x596.jpg" alt="" class="wp-image-5517" srcset="https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1024x596.jpg 1024w, https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-300x175.jpg 300w, https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-768x447.jpg 768w, https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1536x894.jpg 1536w, https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-2048x1191.jpg 2048w, https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-200x116.jpg 200w, https://chaoss.local/wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1320x768.jpg 1320w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption>_Photo by [William Bout][1] on [Unsplash][2]_</figcaption></figure> 
+ <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="596" src="{{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1024x596.jpg" alt="" class="wp-image-5517" srcset="{{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1024x596.jpg 1024w, {{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-300x175.jpg 300w, {{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-768x447.jpg 768w, {{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1536x894.jpg 1536w, {{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-2048x1191.jpg 2048w, {{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-200x116.jpg 200w, {{ baseURL }}wp-content/uploads/2023/12/william-bout-7cdFZmLlWOM-unsplash-1320x768.jpg 1320w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption>_Photo by [William Bout][1] on [Unsplash][2]_</figcaption></figure> 
 
 _This guide is part of a three part series. This is part three. Read part [one][3] or [two][4] for [context][3] and a [deep][4]_[ _dive_][5] _into the metrics respectively._
 
@@ -791,8 +791,8 @@ Until then, you can find me on CHAOSS community slack, as Gary White. Thanks for
 
  [1]: https://unsplash.com/@williambout?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
  [2]: https://unsplash.com/photos/gray-lighthouse-on-islet-with-concrete-pathway-at-daytime-7cdFZmLlWOM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
- [3]: https://chaoss.local/oss-viability-metric-supermodel/
- [4]: https://chaoss.local/viability-metrics-what-its-made-of/
+ [3]: {{ baseURL }}oss-viability-metric-supermodel/
+ [4]: {{ baseURL }}viability-metrics-what-its-made-of/
  [5]: https://docs.google.com/document/d/1_5cMkDYmi7wvO8PV2ZUxme5je2Cxxskbs8dx8j9r79Q/edit#heading=h.iik92t6gkfct
  [6]: https://github.com/chaoss/grimoirelab
  [7]: https://github.com/chaoss/augur

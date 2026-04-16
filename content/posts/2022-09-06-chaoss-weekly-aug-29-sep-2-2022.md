@@ -62,7 +62,7 @@ Nothing to see here because of CHAOSScon.  See you in 2 weeks! ☺️\[/vc\_col
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -110,7 +110,7 @@ Nothing to see here because of CHAOSScon.  See you in 2 weeks! ☺️\[/vc\_col
  [10]: https://github.com/chaoss/wg-risk
  [11]: https://github.com/chaoss/wg-value
  [12]: https://github.com/chaoss/wg-metrics-models
- [13]: https://chaoss.local/
+ [13]: {{ baseURL }}
  [14]: https://github.com/chaoss
  [15]: https://tinyurl.com/y6bao886
  [16]: https://tinyurl.com/CHAOSScast

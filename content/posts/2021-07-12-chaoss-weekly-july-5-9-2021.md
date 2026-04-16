@@ -25,7 +25,7 @@ You can now register for [Open Source Summit][1], and the CHAOSScon add-on. CHAO
 
 Also, we encourage you to check out our Call for Proposals and [submit a talk][2]! Read on for ideas around suggested topics:
 
-#### <a id="user-content-software-related-metrics-topics" class="anchor" href="https://chaoss.local/chaosscon-2021-na/#software-related-metrics-topics" aria-hidden="true"></a>Software related metrics topics:
+#### <a id="user-content-software-related-metrics-topics" class="anchor" href="{{ baseURL }}chaosscon-2021-na/#software-related-metrics-topics" aria-hidden="true"></a>Software related metrics topics:
 
   * tutorials
   * walk throughs
@@ -33,7 +33,7 @@ Also, we encourage you to check out our Call for Proposals and [submit a talk][2
   * how-to&#8217;s
   * new features
 
-#### <a id="user-content-metrics-related-topics" class="anchor" href="https://chaoss.local/chaosscon-2021-na/#metrics-related-topics" aria-hidden="true"></a>Metrics related topics:
+#### <a id="user-content-metrics-related-topics" class="anchor" href="{{ baseURL }}chaosscon-2021-na/#metrics-related-topics" aria-hidden="true"></a>Metrics related topics:
 
   * metrics strategy
   * deep dive into the use of metrics
@@ -130,7 +130,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -187,7 +187,7 @@ All calls use our CHAOSS community Zoom link: <https://zoom.us/my/chaoss>. All m
  [18]: https://github.com/chaoss/wg-evolution
  [19]: https://github.com/chaoss/wg-risk
  [20]: https://github.com/chaoss/wg-value
- [21]: https://chaoss.local/
+ [21]: {{ baseURL }}
  [22]: https://github.com/chaoss
  [23]: https://tinyurl.com/y6bao886
  [24]: https://tinyurl.com/CHAOSScast

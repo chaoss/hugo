@@ -31,7 +31,7 @@ categories:
   - News
 
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" class="wp-image-1914" srcset="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" class="wp-image-1914" srcset="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
 
 ### CHAOSS at FOSSY in Portland, OR {.has-vivid-red-color.has-text-color.wp-block-heading}
 
@@ -135,7 +135,7 @@ CANCELED <s>12:00 pm Scientific Software Working Group ([Minutes and Agenda][15]
  [4]: https://chaoss.discourse.group/tag/meeting-recap
  [5]: https://chaoss.discourse.group/c/community/meeting-summaries/14
  [6]: https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64
- [7]: https://chaoss.local/chaoss-calendar/
+ [7]: {{ baseURL }}chaoss-calendar/
  [8]: https://chaoss-workspace.slack.com/archives/CV03ATA05
  [9]: https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit
  [10]: https://www.google.com/url?q=https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit%23&sa=D&source=calendar&usd=2&usg=AOvVaw1OHinJY34HdgUtM62_oBqC

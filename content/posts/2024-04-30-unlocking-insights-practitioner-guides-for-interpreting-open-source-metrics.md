@@ -26,16 +26,16 @@ Today, we have released the first four guides in the series:
 
 <ul class="wp-block-list">
   <li>
-    <a href="https://chaoss.local/practitioner-guide-introduction/">Introduction &#8211; Things to Think about When Interpreting Metrics</a> (Please start here)
+    <a href="{{ baseURL }}practitioner-guide-introduction/">Introduction &#8211; Things to Think about When Interpreting Metrics</a> (Please start here)
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-responsiveness/">Responsiveness</a>
+    <a href="{{ baseURL }}practitioner-guide-responsiveness/">Responsiveness</a>
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-contributor-sustainability/">Contributor Sustainability</a>
+    <a href="{{ baseURL }}practitioner-guide-contributor-sustainability/">Contributor Sustainability</a>
   </li>
   <li>
-    <a href="https://chaoss.local/practitioner-guide-organizational-participation/">Organizational Participation</a>
+    <a href="{{ baseURL }}practitioner-guide-organizational-participation/">Organizational Participation</a>
   </li>
 </ul>
 
@@ -47,6 +47,6 @@ These guides are being developed within the [CHAOSS Data Science Working Group][
 
  [1]: https://unsplash.com/@mwilner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
  [2]: https://unsplash.com/photos/selective-focus-photography-of-clear-light-bulb-J1ActGs9Qzg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
- [3]: https://chaoss.local/about-chaoss-practitioner-guides/
+ [3]: {{ baseURL }}about-chaoss-practitioner-guides/
  [4]: https://github.com/chaoss/wg-data-science/tree/main/practitioner-guides#contributions
  [5]: https://github.com/chaoss/wg-data-science

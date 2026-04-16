@@ -106,7 +106,7 @@ No meetings &#8211; US Holiday
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -178,7 +178,7 @@ No meetings &#8211; US Holiday
  [33]: https://github.com/chaoss/wg-evolution
  [34]: https://github.com/chaoss/wg-risk
  [35]: https://github.com/chaoss/wg-value
- [36]: https://chaoss.local/
+ [36]: {{ baseURL }}
  [37]: https://github.com/chaoss
  [38]: https://tinyurl.com/y6bao886
  [39]: https://tinyurl.com/CHAOSScast

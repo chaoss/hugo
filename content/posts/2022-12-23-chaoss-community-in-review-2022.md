@@ -33,16 +33,16 @@ Every year seems like a big year for CHAOSS, and this year was no exception. Her
     To date, we have issued <a href="https://github.com/badging/event-diversity-and-inclusion#readme">nearly 100 DEI event badges</a>, and we doubled our team of Badgers! (We are so appreciative of our Badging Team and all those who filled out an application to get their event badged.)&nbsp;
   </li>
   <li>
-    We officially released our first Metrics Model: <a href="https://chaoss.local/kb/metrics-model-code-quality-guarantee/">Code Quality Guarantee</a>! (This group has been working hard to define what should be included in our Metrics Model definitions and what those look like.)
+    We officially released our first Metrics Model: <a href="{{ baseURL }}kb/metrics-model-code-quality-guarantee/">Code Quality Guarantee</a>! (This group has been working hard to define what should be included in our Metrics Model definitions and what those look like.)
   </li>
   <li>
-    Although we are still putting on the finishing touches, we redesigned <a href="https://chaoss.local/">the website</a> and launched a new knowledge base! (Shoutout to <a href="https://github.com/orgs/chaoss/people/klumb">Kevin Lumbard</a>, <a href="https://github.com/orgs/chaoss/people/yash-yp">Yash Prakash</a>, <a href="https://github.com/Ruth-ikegah">Ruth Ikegah</a>, <a href="https://github.com/xiaoya-yaya">Xiaoya Xia</a>, <a href="https://chaoss-workspace.slack.com/team/U03JZ6RSX63">Kingsley Mkpandiok</a>, and <a href="https://chaoss-workspace.slack.com/team/U03FC2G74VA">Belema Georg</a>e for making this happen.)
+    Although we are still putting on the finishing touches, we redesigned <a href="{{ baseURL }}">the website</a> and launched a new knowledge base! (Shoutout to <a href="https://github.com/orgs/chaoss/people/klumb">Kevin Lumbard</a>, <a href="https://github.com/orgs/chaoss/people/yash-yp">Yash Prakash</a>, <a href="https://github.com/Ruth-ikegah">Ruth Ikegah</a>, <a href="https://github.com/xiaoya-yaya">Xiaoya Xia</a>, <a href="https://chaoss-workspace.slack.com/team/U03JZ6RSX63">Kingsley Mkpandiok</a>, and <a href="https://chaoss-workspace.slack.com/team/U03FC2G74VA">Belema Georg</a>e for making this happen.)
   </li>
   <li>
     We started an <a href="https://chaoss-workspace.slack.com/archives/C03J3S2RNDS">OSPO Working Group</a>! (Thanks to all who have helped support the transition from Value to OSPOs.)
   </li>
   <li>
-    We launched new <a href="https://chaoss.local/chaoss-calendar/">Monthly Onboarding Calls</a>! (Thanks to Ruth Ikegah and all the newcomers who have attended these.)
+    We launched new <a href="{{ baseURL }}chaoss-calendar/">Monthly Onboarding Calls</a>! (Thanks to Ruth Ikegah and all the newcomers who have attended these.)
   </li>
   <li>
     We began collaborating with new friends: <a href="https://compass.gitee.com/">Compass</a> and <a href="https://todogroup.org/associates/">TODO Group</a>!

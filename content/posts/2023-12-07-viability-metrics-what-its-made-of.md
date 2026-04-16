@@ -23,7 +23,7 @@ tags:
 [In the last post][1], we gave a background on Viability in Open Source. We covered the motivation, and implementation plan of how we’ll collect and measure metrics about open source that we use or might use at Verizon.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="678" height="1024" class="wp-image-5489" src="https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-678x1024.jpg" alt="Metrics on a list next to a laptop, ruler, and calendar" srcset="https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-678x1024.jpg 678w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-199x300.jpg 199w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-768x1160.jpg 768w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-1017x1536.jpg 1017w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-1356x2048.jpg 1356w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-200x302.jpg 200w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-1320x1993.jpg 1320w, https://chaoss.local/wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-scaled.jpg 1696w" sizes="auto, (max-width: 678px) 100vw, 678px" /></p> <figcaption><em>Considering all these metrics together takes a list and a laptop, and maybe a ruler.</em><br />Photo by <a href="https://unsplash.com/@stilclassis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marissa Grootes</a> on <a href="https://unsplash.com/photos/silver-laptop-computer-near-notebook-ck0i9Dnjtj0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></figcaption> </figure>
+  <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="678" height="1024" class="wp-image-5489" src="{{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-678x1024.jpg" alt="Metrics on a list next to a laptop, ruler, and calendar" srcset="{{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-678x1024.jpg 678w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-199x300.jpg 199w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-768x1160.jpg 768w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-1017x1536.jpg 1017w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-1356x2048.jpg 1356w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-200x302.jpg 200w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-1320x1993.jpg 1320w, {{ baseURL }}wp-content/uploads/2023/12/marissa-grootes-ck0i9Dnjtj0-unsplash-scaled.jpg 1696w" sizes="auto, (max-width: 678px) 100vw, 678px" /></p> <figcaption><em>Considering all these metrics together takes a list and a laptop, and maybe a ruler.</em><br />Photo by <a href="https://unsplash.com/@stilclassis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marissa Grootes</a> on <a href="https://unsplash.com/photos/silver-laptop-computer-near-notebook-ck0i9Dnjtj0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></figcaption> </figure>
 </div>
 
 In this post, we will cover the nitty-gritty details of which metrics we’re using in our model, and why they fit together. Rather than covering each metric individually, I’ll summarize what metrics are in each model, and give an overview on why they fit together for a good picture of the model. We’ll also cover the value proposition of metrics that cross between the categories comprising the full model.
@@ -418,26 +418,26 @@ Tune in next time for us to share a guide on OSS viability. We include recommend
 
 &nbsp; \[/vc\_column\_text\]\[/vc\_column\][/vc\_row]
 
- [1]: https://chaoss.local/oss-viability-metric-supermodel/
- [2]: https://chaoss.local/?p=3939
- [3]: https://chaoss.local/?p=3961
- [4]: https://chaoss.local/?p=3963
- [5]: https://chaoss.local/?p=3962
- [6]: https://chaoss.local/?p=4727
- [7]: https://chaoss.local/?p=3977
- [8]: https://chaoss.local/?p=3976
- [9]: https://chaoss.local/?p=3533
- [10]: https://chaoss.local/?p=3532
- [11]: https://chaoss.local/?p=3446
- [12]: https://chaoss.local/?p=3629
- [13]: https://chaoss.local/?p=4834
- [14]: https://chaoss.local/?p=3573
- [15]: https://chaoss.local/?p=4765
- [16]: https://chaoss.local/?p=3429
- [17]: https://chaoss.local/?p=3431
- [18]: https://chaoss.local/?p=3432
- [19]: https://chaoss.local/?p=3610
- [20]: https://chaoss.local/?p=3945
- [21]: https://chaoss.local/?p=3430
- [22]: https://chaoss.local/?p=3940
- [23]: https://chaoss.local/?p=3560
+ [1]: {{ baseURL }}oss-viability-metric-supermodel/
+ [2]: {{ baseURL }}?p=3939
+ [3]: {{ baseURL }}?p=3961
+ [4]: {{ baseURL }}?p=3963
+ [5]: {{ baseURL }}?p=3962
+ [6]: {{ baseURL }}?p=4727
+ [7]: {{ baseURL }}?p=3977
+ [8]: {{ baseURL }}?p=3976
+ [9]: {{ baseURL }}?p=3533
+ [10]: {{ baseURL }}?p=3532
+ [11]: {{ baseURL }}?p=3446
+ [12]: {{ baseURL }}?p=3629
+ [13]: {{ baseURL }}?p=4834
+ [14]: {{ baseURL }}?p=3573
+ [15]: {{ baseURL }}?p=4765
+ [16]: {{ baseURL }}?p=3429
+ [17]: {{ baseURL }}?p=3431
+ [18]: {{ baseURL }}?p=3432
+ [19]: {{ baseURL }}?p=3610
+ [20]: {{ baseURL }}?p=3945
+ [21]: {{ baseURL }}?p=3430
+ [22]: {{ baseURL }}?p=3940
+ [23]: {{ baseURL }}?p=3560

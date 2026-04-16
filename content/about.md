@@ -78,7 +78,7 @@ The following organizations are not directly part of the CHAOSS project but repr
 \[/vc\_column\_text\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[vc\_row\_inner column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; text\_align=&#8221;left&#8221;\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/2&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column_text\]
 
 <p style="text-align: center;">
-  <img loading="lazy" decoding="async" class="wp-image-5366 size-medium aligncenter" src="https://chaoss.local/wp-content/uploads/2023/09/augur-300x70.png" alt="" width="300" height="40" />
+  <img loading="lazy" decoding="async" class="wp-image-5366 size-medium aligncenter" src="{{ baseURL }}wp-content/uploads/2023/09/augur-300x70.png" alt="" width="300" height="40" />
 </p>
 
 <p style="text-align: center;">

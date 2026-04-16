@@ -104,7 +104,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -142,7 +142,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
 \[/vc\_column\_text\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation animation=&#8221;Fade In&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\]\[/vc_row\]
 
  [1]: https://docs.google.com/spreadsheets/d/1cMBPSaQYSh0ibIBBbYufvDeTsa7ddDKic1f4QpEr2U4/edit#gid=0.
- [2]: https://chaoss.local/metric-documentation-discoverability/
+ [2]: {{ baseURL }}metric-documentation-discoverability/
  [3]: https://ti.to/chaoss/chaoss-software-workshop-june-10-2021
  [4]: https://ti.to/chaoss/chaoss-software-workshop-july-17-2021
  [5]: https://ti.to/chaoss/chaoss-software-workshop-july-31-2021
@@ -158,7 +158,7 @@ All calls (except the D&I Badging Outreach call) use our CHAOSS community Zoom l
  [15]: https://github.com/chaoss/wg-evolution
  [16]: https://github.com/chaoss/wg-risk
  [17]: https://github.com/chaoss/wg-value
- [18]: https://chaoss.local/
+ [18]: {{ baseURL }}
  [19]: https://github.com/chaoss
  [20]: https://tinyurl.com/y6bao886
  [21]: https://tinyurl.com/CHAOSScast

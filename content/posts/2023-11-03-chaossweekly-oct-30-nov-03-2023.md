@@ -15,7 +15,7 @@ categories:
   - News
 
 ---
-\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_column\_text] <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" class="wp-image-1914" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" srcset="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
+\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_column\_text] <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="277" class="wp-image-1914" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="" srcset="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg 1024w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-300x81.jpg 300w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-768x208.jpg 768w, {{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1.jpg 1108w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure> 
 
 ### Daylight Savings Time Nonsense is Upon Us Again
 
@@ -33,7 +33,7 @@ We are thrilled to be announcing the next CHAOSScon! The next will be held on Fe
 
 In celebration of Open Source Day, CHAOSS Africa teamed up with OSCA in the Lome chapter in Togo to encourage open source participation and educate folks about what it means to be part of an open source community. The event was a huge success and everyone seemed to have an amazing time! Thanks to all those who took part in the day &#8211; it was great meeting you, and a huge welcome to those who became CHAOTICs! 
 
-###<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-5436" src="https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-300x225.jpg" alt="" width="300" height="225" srcset="https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-300x225.jpg 300w, https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-1024x768.jpg 1024w, https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-768x576.jpg 768w, https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-1536x1152.jpg 1536w, https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-2048x1536.jpg 2048w, https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-200x150.jpg 200w, https://chaoss.local/wp-content/uploads/2023/11/IMG_6035-1320x990.jpg 1320w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+###<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-5436" src="{{ baseURL }}wp-content/uploads/2023/11/IMG_6035-300x225.jpg" alt="" width="300" height="225" srcset="{{ baseURL }}wp-content/uploads/2023/11/IMG_6035-300x225.jpg 300w, {{ baseURL }}wp-content/uploads/2023/11/IMG_6035-1024x768.jpg 1024w, {{ baseURL }}wp-content/uploads/2023/11/IMG_6035-768x576.jpg 768w, {{ baseURL }}wp-content/uploads/2023/11/IMG_6035-1536x1152.jpg 1536w, {{ baseURL }}wp-content/uploads/2023/11/IMG_6035-2048x1536.jpg 2048w, {{ baseURL }}wp-content/uploads/2023/11/IMG_6035-200x150.jpg 200w, {{ baseURL }}wp-content/uploads/2023/11/IMG_6035-1320x990.jpg 1320w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 ### New CHAOSScast Episode Released: #73 &#8211; Reflections on the LF OSS Maintainer Report
 
@@ -129,17 +129,17 @@ All calls use our CHAOSS Community Zoom link (<https://zoom.us/my/chaoss>). All 
 
 &nbsp; \[/vc\_column\_text\]\[/vc\_column\][/vc\_row]
 
- [1]: https://chaoss.local/chaosscon-2024-eu/
+ [1]: {{ baseURL }}chaosscon-2024-eu/
  [2]: https://podcast.chaoss.community/73
- [3]: https://chaoss.local/kb/metric-conflict-resolution-and-mediation/
- [4]: https://chaoss.local/kb/metrics-model-oss-project-viability-compliance-security/
- [5]: https://chaoss.local/kb/metrics-model-oss-project-viability-governance/
- [6]: https://chaoss.local/kb/metrics-model-oss-project-viability-community/
- [7]: https://chaoss.local/kb/metrics-model-oss-project-viability-strategy/
+ [3]: {{ baseURL }}kb/metric-conflict-resolution-and-mediation/
+ [4]: {{ baseURL }}kb/metrics-model-oss-project-viability-compliance-security/
+ [5]: {{ baseURL }}kb/metrics-model-oss-project-viability-governance/
+ [6]: {{ baseURL }}kb/metrics-model-oss-project-viability-community/
+ [7]: {{ baseURL }}kb/metrics-model-oss-project-viability-strategy/
  [8]: https://docs.google.com/forms/d/e/1FAIpQLScm7C8dkYbo7to1Ex3_V0H9UG4SwY3eBICo5oJ7pjw3ug8_OQ/viewform?usp=sf_link
  [9]: https://chaoss-workspace.slack.com/archives/C05J8JVLMAB
  [10]: https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64
- [11]: https://chaoss.local/chaoss-calendar/
+ [11]: {{ baseURL }}chaoss-calendar/
  [12]: https://chaoss-workspace.slack.com/archives/CV03ATA05
  [13]: https://docs.google.com/document/d/1qE2duE73NbEOHzRRAbqgPSUSAfdH-AmvLruOu7uCIYg/edit
  [14]: https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit

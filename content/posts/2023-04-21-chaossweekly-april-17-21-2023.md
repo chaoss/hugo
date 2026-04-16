@@ -29,7 +29,7 @@ categories:
   - News
 
 ---
-<figure class="wp-block-image is-resized" id="block-c8cc41c3-8151-4d6c-8b15-47d6fd186d17"><img loading="lazy" decoding="async" src="https://chaoss.local/wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="This image has an empty alt attribute; its file name is Chaoss_Logo_Pantone1-1024x277.jpg" width="413" height="112" /></figure> 
+<figure class="wp-block-image is-resized" id="block-c8cc41c3-8151-4d6c-8b15-47d6fd186d17"><img loading="lazy" decoding="async" src="{{ baseURL }}wp-content/uploads/2020/09/Chaoss_Logo_Pantone1-1024x277.jpg" alt="This image has an empty alt attribute; its file name is Chaoss_Logo_Pantone1-1024x277.jpg" width="413" height="112" /></figure> 
 
 ### **Getting Started with Open Source Software &#8211; Webinar Series from CHAOSS Africa** {#block-1b5fa92d-f478-42b8-8a90-3d34997b2922.has-vivid-red-color.has-text-color.wp-block-heading}
 
@@ -40,7 +40,7 @@ categories:
 ### **Reminder! Schedule is Published for CHAOSScon NA 2023** {#block-bcedad3e-fc7d-4976-9b1b-87f352d4290a.has-vivid-red-color.has-text-color.wp-block-heading}
 
 <p id="block-2353b134-f4cd-4dd3-a3e6-76a50d064753">
-  The CHAOSScon planning committee has released the schedule for CHAOSScon NA 2023, to be held&nbsp;in the <strong>afternoon of May 9, 2023</strong> in conjunction with Open Source Summit North America in Vancouver BC, Canada. You can view the schedule <a href="https://chaoss.local/chaosscon-2023-na/">here</a>.
+  The CHAOSScon planning committee has released the schedule for CHAOSScon NA 2023, to be held&nbsp;in the <strong>afternoon of May 9, 2023</strong> in conjunction with Open Source Summit North America in Vancouver BC, Canada. You can view the schedule <a href="{{ baseURL }}chaosscon-2023-na/">here</a>.
 </p>
 
 <p id="block-c794a58a-e893-4ab1-be17-1f1a5992ad62">
@@ -60,7 +60,7 @@ categories:
 ### **Upcoming Meetings** {#block-4f2e48fe-4703-437c-bcf2-e08b198c855f.has-vivid-red-color.has-text-color.wp-block-heading}
 
 <p id="block-a55cad70-d0e8-4738-8b84-31adff77bf98">
-  All calls use our CHAOSS Community Zoom link (<a href="https://zoom.us/my/chaoss">https://zoom.us/my/chaoss</a>). All meetings listed here are in US Central / Chicago Time Zone, currently on Daylight Savings Time (UTC -5). You can convert to your local time <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64">here</a>. You can also subscribe to the <a href="https://chaoss.local/chaoss-calendar/">CHAOSS Calendar</a> or watch for meeting reminders that are posted daily in the <a href="https://chaoss-workspace.slack.com/archives/CV03ATA05">#general channel</a> in Slack.
+  All calls use our CHAOSS Community Zoom link (<a href="https://zoom.us/my/chaoss">https://zoom.us/my/chaoss</a>). All meetings listed here are in US Central / Chicago Time Zone, currently on Daylight Savings Time (UTC -5). You can convert to your local time <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20230414T170000&p1=64">here</a>. You can also subscribe to the <a href="{{ baseURL }}chaoss-calendar/">CHAOSS Calendar</a> or watch for meeting reminders that are posted daily in the <a href="https://chaoss-workspace.slack.com/archives/CV03ATA05">#general channel</a> in Slack.
 </p>
 
 #### Tuesday, April 25 {#block-294305b7-ba63-4151-a575-eb6365cabb32.wp-block-heading}

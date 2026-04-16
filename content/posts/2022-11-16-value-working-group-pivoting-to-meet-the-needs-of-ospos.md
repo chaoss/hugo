@@ -30,7 +30,7 @@ If you are interested in joining this conversation, we invite you to do 2 things
     Join the CHAOSS<a href="https://chaoss-workspace.slack.com/archives/C03J3S2RNDS" target="_blank" rel="noreferrer noopener"> #wg-</a>ospo Slack channel
   </li>
   <li>
-    Join the OSPO Working Group Bi-weekly meeting (The next one is November 17 at 11:00 am US Central/Chicago Time). Connection details can be found <a href="https://chaoss.local/participate" target="_blank" rel="noreferrer noopener">here</a>. 
+    Join the OSPO Working Group Bi-weekly meeting (The next one is November 17 at 11:00 am US Central/Chicago Time). Connection details can be found <a href="{{ baseURL }}participate" target="_blank" rel="noreferrer noopener">here</a>. 
   </li>
 </ul>
 

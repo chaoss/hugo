@@ -172,7 +172,7 @@ July 24 &#8211; Augur mentoring Support, 4pm CDT
 </p>
 
 <p dir="ltr">
-  Calendar at: <a href="https://chaoss.local/chaoss-calendar/">https://chaoss.local/chaoss-calendar/</a>
+  Calendar at: <a href="{{ baseURL }}chaoss-calendar/">{{ baseURL }}chaoss-calendar/</a>
 </p>
 
 \[/vc\_column\_text\]\[vc\_column\_text\]
@@ -223,7 +223,7 @@ July 24 &#8211; Augur mentoring Support, 4pm CDT
  [13]: https://github.com/chaoss/wg-risk
  [14]: https://github.com/chaoss/wg-value
  [15]: https://github.com/chaoss/wg-metrics-models
- [16]: https://chaoss.local/
+ [16]: {{ baseURL }}
  [17]: https://github.com/chaoss
  [18]: https://tinyurl.com/y6bao886
  [19]: https://tinyurl.com/CHAOSScast
