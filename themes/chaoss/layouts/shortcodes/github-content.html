@@ -1,0 +1,7 @@
+{{ $url := printf "https://api.github.com/repos/%s/contents/%s" (.Get "repo") (.Get "path") }}
+{{ $lang := default "plaintext" (.Get "lang") }}
+{{ with resources.GetRemote $url }}
+{{ with transform.Unmarshal .Content }}
+{{ .content | base64Decode | markdownify }}
+{{ end }}
+{{ end }}
