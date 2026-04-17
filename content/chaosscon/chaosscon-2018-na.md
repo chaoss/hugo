@@ -61,7 +61,21 @@ Tuesday, August 28, 2018
   * Nicole Huesman, Intel
   * Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
 
-\[/vc\_column\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/2&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]\[vc\_raw\_html]JTNDaDMlM0VEaXJlY3Rpb25zJTNDJTJGaDMlM0UlMEElM0NpZnJhbWUlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRnd3dy5nb29nbGUuY29tJTJGbWFwcyUyRmVtYmVkJTNGcGIlM0QlMjExbTE0JTIxMW0xMiUyMTFtMyUyMTFkMzk1NDkuOTQ5NjgzODYwMjglMjEyZC0xMjMuMTkyODU5NDEyNzA2NDclMjEzZDQ5LjI2MTczMzE4MjQ2NjU4NSUyMTJtMyUyMTFmMCUyMTJmMCUyMTNmMCUyMTNtMiUyMTFpMTAyNCUyMTJpNzY4JTIxNGYxMy4xJTIxNWUwJTIxM20yJTIxMXNlbiUyMTJzdXMlMjE0djE1MjU3MTgyMDAzMTYlMjIlMjB3aWR0aCUzRCUyMjYwMCUyMiUyMGhlaWdodCUzRCUyMjQ1MCUyMiUyMGZyYW1lYm9yZGVyJTNEJTIyMCUyMiUyMHN0eWxlJTNEJTIyYm9yZGVyJTNBMCUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQyUyRmlmcmFtZSUzRQ==[/vc\_raw\_html\]\[vc\_raw\_html\]JTNDaDQlM0VDb25mZXJlbmNlJTIwUHJlc2VudGF0aW9ucyUzQyUyRmg0JTNFJTNDYnIlM0UlMEElM0NpZnJhbWUlMjB3aWR0aCUzRCUyMjU2MCUyMiUyMGhlaWdodCUzRCUyMjMxNSUyMiUyMHNyYyUzRCUyMmh0dHBzJTNBJTJGJTJGd3d3LnlvdXR1YmUuY29tJTJGZW1iZWQlMkZ2aWRlb3NlcmllcyUzRmxpc3QlM0RQTDYwazM3Y3hJLUhSZ0kzTVVGdFFNbnR5VzhQNHVmemJnJTIyJTIwZnJhbWVib3JkZXIlM0QlMjIwJTIyJTIwYWxsb3clM0QlMjJhdXRvcGxheSUzQiUyMGVuY3J5cHRlZC1tZWRpYSUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQyUyRmlmcmFtZSUzRQ==\[/vc\_raw\_html\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]\[vc\_raw\_html\]JTNDJTIxLS1TY2hlZHVsZS0tJTNF[/vc\_raw\_html]
+\[/vc\_column\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/2&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]
+
+<h3>Directions</h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d39549.94968386028!2d-123.19285941270647!3d49.261733182466585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1525718200316" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
+<h4>Conference Presentations</h4><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL60k37cxI-HRgI3MUFtQMntyW8P4ufzbg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]
+
+<!--Schedule-->
+
+
 
 # Schedule: Tuesday, August 28, 2018
 
@@ -107,7 +121,25 @@ Tuesday, August 28, 2018
 |               |                                                                                                  |                                                                                                                          |                |
 | 5:30 -        | Adjourn somewhere for more networking                                                            |                                                                                                                          |                |
 
-\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\][vc\_raw\_html]JTNDJTIxLS1TcGVha2Vycy0tJTNFJTBBJTNDc3R5bGUlM0UlMEEuYW5jaG9yJTIwJTdCJTBBJTIwJTIwJTIwJTIwZGlzcGxheSUzQSUyMGJsb2NrJTNCJTBBJTIwJTIwJTIwJTIwaGVpZ2h0JTNBJTIwODVweCUzQiUwQSUyMCUyMCUyMCUyMG1hcmdpbi10b3AlM0ElMjAtODVweCUzQiUwQSUyMCUyMCUyMCUyMHZpc2liaWxpdHklM0ElMjBoaWRkZW4lM0IlMEElN0QlMEF0ZCUzQWZpcnN0LWNoaWxkJTIwJTdCJTBBd2hpdGUtc3BhY2UlM0ElMjBub3dyYXAlM0IlMEElN0QlMEF0ZCUyMCU3QiUwQWZvbnQtc2l6ZSUzQSUyMDE4cHglMjAlMjFpbXBvcnRhbnQlM0IlMEElN0QlMEElM0MlMkZzdHlsZSUzRQ==[/vc\_raw_html]
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]
+
+<!--Speakers-->
+<style>
+.anchor {
+    display: block;
+    height: 85px;
+    margin-top: -85px;
+    visibility: hidden;
+}
+td:first-child {
+white-space: nowrap;
+}
+td {
+font-size: 18px !important;
+}
+</style>
+
+
 
 ## Speakers
 

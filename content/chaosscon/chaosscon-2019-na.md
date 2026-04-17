@@ -25,7 +25,25 @@ url: /chaosscon-2019-na
   <span style="color: #003300"><span style="color: #ffffff">Tuesday, August 20th</span><br /> </span>
 </h4>
 
-\[/vc\_column\_text\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;25&#8243;\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_link\_target=&#8221;\_self&#8221; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDJTIxLS1EZXNjLS0lM0UlMEElM0NzdHlsZSUzRSUwQS5hbmNob3IlMjAlN0IlMEElMjAlMjAlMjAlMjBkaXNwbGF5JTNBJTIwYmxvY2slM0IlMEElMjAlMjAlMjAlMjBoZWlnaHQlM0ElMjA4NXB4JTNCJTBBJTIwJTIwJTIwJTIwbWFyZ2luLXRvcCUzQSUyMC04NXB4JTNCJTBBJTIwJTIwJTIwJTIwdmlzaWJpbGl0eSUzQSUyMGhpZGRlbiUzQiUwQSU3RCUwQXRkJTNBZmlyc3QtY2hpbGQlMjAlN0IlMEF3aGl0ZS1zcGFjZSUzQSUyMG5vd3JhcCUzQiUwQSU3RCUwQXRkJTIwJTdCJTBBZm9udC1zaXplJTNBJTIwMThweCUyMCUyMWltcG9ydGFudCUzQiUwQSU3RCUwQSUzQyUyRnN0eWxlJTNF[/vc\_raw\_html]
+\[/vc\_column\_text\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;25&#8243;\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_link\_target=&#8221;\_self&#8221; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]
+
+<!--Desc-->
+<style>
+.anchor {
+    display: block;
+    height: 85px;
+    margin-top: -85px;
+    visibility: hidden;
+}
+td:first-child {
+white-space: nowrap;
+}
+td {
+font-size: 18px !important;
+}
+</style>
+
+
 
 ## About CHAOSScon
 
@@ -57,7 +75,16 @@ Dawn Foster
 Vinod Ahuja  
 Kevin Lumbard
 
-\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_link\_target=&#8221;\_self&#8221; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDc3R5bGUlM0UlMEEud3BiX3dyYXBwZXIlMjAlM0UlMjBkaXYlM0FsYXN0LWNoaWxkJTdCJTBBb3ZlcmZsb3cteCUzQWF1dG8lM0IlMEElN0QlMEElMEElM0MlMkZzdHlsZSUzRQ==[/vc\_raw\_html]
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_link\_target=&#8221;\_self&#8221; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]
+
+<style>
+.wpb_wrapper > div:last-child{
+overflow-x:auto;
+}
+
+</style>
+
+
 
 # Schedule: August 20, 2019
 
@@ -411,7 +438,19 @@ Kevin Lumbard
   </table>
 </div>
 
-\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_link\_target=&#8221;\_self&#8221; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDc3R5bGUlM0UlMEFpbWclMjAlN0IlMEElMjAlMjAlMjAlMjBmbG9hdCUzQSUyMGxlZnQlM0IlMEElMjAlMjAlMjAlMjBtYXJnaW4tcmlnaHQlM0ElMjAxMHB4JTNCJTBBJTdEJTBBaDMlMjAlN0IlMEElMjAlMjAlMjAlMjBjbGVhciUzQSUyMGxlZnQlM0IlMEElN0QlMEElM0MlMkZzdHlsZSUzRQ==[/vc\_raw\_html]
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_link\_target=&#8221;\_self&#8221; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]
+
+<style>
+img {
+    float: left;
+    margin-right: 10px;
+}
+h3 {
+    clear: left;
+}
+</style>
+
+
 
 ## Speakers and Session Descriptions
 

@@ -25,7 +25,25 @@ url: /chaosscon-2019-eu
   <span style="color: #003300"><span style="color: #ffffff">Friday, February 1st</span><br /> </span>
 </h4>
 
-\[/vc\_column\_text\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;25&#8243;\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\][vc\_raw\_html]JTNDJTIxLS1TcGVha2Vycy0tJTNFJTBBJTNDc3R5bGUlM0UlMEEuYW5jaG9yJTIwJTdCJTBBJTIwJTIwJTIwJTIwZGlzcGxheSUzQSUyMGJsb2NrJTNCJTBBJTIwJTIwJTIwJTIwaGVpZ2h0JTNBJTIwODVweCUzQiUwQSUyMCUyMCUyMCUyMG1hcmdpbi10b3AlM0ElMjAtODVweCUzQiUwQSUyMCUyMCUyMCUyMHZpc2liaWxpdHklM0ElMjBoaWRkZW4lM0IlMEElN0QlMEF0ZCUzQWZpcnN0LWNoaWxkJTIwJTdCJTBBd2hpdGUtc3BhY2UlM0ElMjBub3dyYXAlM0IlMEElN0QlMEF0ZCUyMCU3QiUwQWZvbnQtc2l6ZSUzQSUyMDE4cHglMjAlMjFpbXBvcnRhbnQlM0IlMEElN0QlMEElM0MlMkZzdHlsZSUzRQ==[/vc\_raw_html]
+\[/vc\_column\_text\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;25&#8243;\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]
+
+<!--Speakers-->
+<style>
+.anchor {
+    display: block;
+    height: 85px;
+    margin-top: -85px;
+    visibility: hidden;
+}
+td:first-child {
+white-space: nowrap;
+}
+td {
+font-size: 18px !important;
+}
+</style>
+
+
 
 ## About CHAOSScon
 
@@ -87,7 +105,19 @@ Friday, February 1st, 2019
 |               |                                                                                |                                                       |           |             |
 | 17:50         | Adjourn to FOSDEM Beer Event                                                   |                                                       |           |             |
 
-\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\][vc\_raw\_html]JTNDc3R5bGUlM0UlMEFpbWclMjAlN0IlMEElMjAlMjAlMjAlMjBmbG9hdCUzQSUyMGxlZnQlM0IlMEElMjAlMjAlMjAlMjBtYXJnaW4tcmlnaHQlM0ElMjAxMHB4JTNCJTBBJTdEJTBBaDMlMjAlN0IlMEElMjAlMjAlMjAlMjBjbGVhciUzQSUyMGxlZnQlM0IlMEElN0QlMEElM0MlMkZzdHlsZSUzRQ==[/vc\_raw_html]
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; overlay\_strength=&#8221;0.3&#8243; shape\_divider\_position=&#8221;bottom&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; width=&#8221;1/1&#8243; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221;\]
+
+<style>
+img {
+    float: left;
+    margin-right: 10px;
+}
+h3 {
+    clear: left;
+}
+</style>
+
+
 
 ## Speakers and Session Descriptions
 
