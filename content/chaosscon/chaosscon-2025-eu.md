@@ -1,0 +1,246 @@
+---
+title: CHAOSScon-2025-EU
+author: elizabeth
+type: page
+date: 2024-10-14T16:04:55+00:00
+ppma_authors_name:
+  - elizabeth
+  - elizabeth
+  - elizabeth
+  - elizabeth
+nectar-metabox-portfolio-display:
+  - all
+nectar-metabox-portfolio-display-sortable:
+  - off
+page-specific-menu-items_currentpage_items:
+  - 'a:1:{i:0;s:0:"";}'
+url: /chaosscon-2025-eu
+---
+\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; bg\_image=&#8221;131&#8243; bg\_position=&#8221;left top&#8221; bg\_repeat=&#8221;repeat&#8221; scene\_position=&#8221;center&#8221; top\_padding=&#8221;75&#8243; bottom\_padding=&#8221;50&#8243; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-1-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_column\_text]
+
+## <span style="color: #ffffff;">CHAOSScon Europe 2025<br /> </span>
+
+### <span style="color: #ffffff;">Co-located with FOSDEM</span>
+
+### <span style="color: #ffffff;">Brussels, Belgium<br /> </span>
+
+### <span style="color: #ffffff;">January 30, 2025</span>
+
+\[/vc\_column\_text\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;25&#8243;\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#edfaff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDc3R5bGUlM0UlMEEuYW5jaG9yJTIwJTdCJTBBJTIwJTIwJTIwJTIwZGlzcGxheSUzQSUyMGJsb2NrJTNCJTBBJTIwJTIwJTIwJTIwaGVpZ2h0JTNBJTIwODVweCUzQiUwQSUyMCUyMCUyMCUyMG1hcmdpbi10b3AlM0ElMjAtODVweCUzQiUwQSUyMCUyMCUyMCUyMHZpc2liaWxpdHklM0ElMjBoaWRkZW4lM0IlMEElN0QlMEF0ZCUzQWZpcnN0LWNoaWxkJTIwJTdCJTBBd2hpdGUtc3BhY2UlM0ElMjBub3dyYXAlM0IlMEElN0QlMEF0ZCUyMCU3QiUwQWZvbnQtc2l6ZSUzQSUyMDE4cHglMjAlMjFpbXBvcnRhbnQlM0IlMEElN0QlMEElM0MlMkZzdHlsZSUzRSUwQSUzQyUyMS0tQWJvdXQtLSUzRQ==[/vc\_raw_html]
+
+## About CHAOSScon
+
+Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work. This conference will provide a venue for discussing open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. We will also share insights from the CHAOSS context working groups including OSPOs, University Open Source, and Open Source in Science and Research.
+
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_row\_inner column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; text\_align=&#8221;left&#8221;\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/2&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]
+
+### Where
+
+[Bedford Hotel & Congress Centre][1]  
+Rue du Midi 135  
+Brussels, 1000, Belgium
+
+Phone: +1 469-610-3608 
+
+### When
+
+January 30, 2025
+
+Time: 8:00 to 19:00 CET (UTC +1)
+
+### Live Streaming
+
+This CHAOSScon will be live-streamed via Youtube. You can access the stream here: [<https://www.youtube.com/@CHAOSStube>][2]
+
+### Registration
+
+Registration is now open! Tickets cost $10, and include access to a post-conference social event. Lunch is not provided. Click below to reserve your spot at CHAOSScon!
+
+\[nectar\_cta btn\_style=&#8221;see-through&#8221; heading\_tag=&#8221;h6&#8243; text\_color=&#8221;#27ccc0&#8243; button\_color=&#8221;default&#8221; link\_type=&#8221;new\_tab&#8221; alignment=&#8221;left&#8221; display=&#8221;block&#8221; link\_text=&#8221;Register Now!&#8221; url=&#8221;https://www.eventbrite.com/e/chaosscon-europe-2025-brussels-belgium-registration-1047148317807?aff=oddtdtcreator&#8221;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/2&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_raw\_html\]JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDI1MTkuMjk0MTUyNTA0MTM0NyUyMTJkNC4zNDUyMjA5MTU1MzEzNzclMjEzZDUwLjg0NDIzNjk2Njc5MzM1JTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4NDdjM2M0Nzk5NWMwNGIzOSUyNTNBMHhhM2M0NmZhOWI1MDNjNDliJTIxMnNCZWRmb3JkJTI1MjBIb3RlbCUyNTIwJTI1MjYlMjUyMENvbmdyZXNzJTI1MjBDZW50cmUlMjE1ZTAlMjEzbTIlMjExc2VuJTIxMnN1cyUyMTR2MTY2ODc0NDQxMDE1NiUyMTVtMiUyMTFzZW4lMjEyc3VzJTIyJTIwd2lkdGglM0QlMjI2MDAlMjIlMjBoZWlnaHQlM0QlMjI0NTAlMjIlMjBzdHlsZSUzRCUyMmJvcmRlciUzQTAlM0IlMjIlMjBhbGxvd2Z1bGxzY3JlZW4lM0QlMjIlMjIlMjBsb2FkaW5nJTNEJTIybGF6eSUyMiUyMHJlZmVycmVycG9saWN5JTNEJTIybm8tcmVmZXJyZXItd2hlbi1kb3duZ3JhZGUlMjIlM0UlM0MlMkZpZnJhbWUlM0U=\[/vc\_raw\_html\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_raw\_html\]JTNDJTIxLS1FdmVudCUyMERldGFpbHMtLSUzRQ==[/vc\_raw_html]
+
+## Event Details
+
+### Code of Conduct at Event
+
+All speakers and attendees are required to adhere to CHAOSS's [Code of Conduct][3]. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported in accordance with our [Procedure for Making a Code of Conduct Report][4]. You can also read our [Incident Response Plan][5] for more information about how we handle Code of Conduct reports.
+
+### Emergency Services
+
+**_For Emergency Services at the event, please dial (112)._**
+
+### Social Media and Conference Updates
+
+Subscribe to our [Slack Channel][6] #CHAOSScon for updates about the conference and to coordinate meetups. 
+
+Follow us on [Linked In][7] for more information during the conference. We encourage you to use the hashtag #chaosscon if you are posting about our conference on social media. 
+
+### Diversity Access Tickets and Family Friendliness
+
+Please email Elizabeth Barron <elizabeth@chaoss.community> for more information on how to get a Diversity Access Ticket. Diversity Access Tickets have graciously been donated by our friends at [OLS][8].
+
+CHAOSScon is a family-friendly event, and children under 18 are welcome to attend.
+
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDJTIxLS1TY2hlZHVsZS0tJTNF[/vc\_raw_html]
+
+## Schedule
+
+| Time        | Topic and Speaker                                                                                                    |
+| ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| 8:30-9:00   | Check-In, Networking with coffee and pastries                                                                        |
+| 9:00-9:30   | [What is CHAOSS and an Overview of GrimoireLab 2.0 - Daniel Izquierdo][9]                                            |
+| 9:30-9:50   | [Introducing The CHAOSS Education Project - Dawn Foster, Peculiar C. Umeh][10]                                       |
+| 9:50-10:10  | [Blueprint for Success: How Local Chapters Empower Global Communities - Ruth Ikegah, Tosan Okome][11]                |
+| 10:10-10:30 | [Toolkit for Measuring the Impacts of Public Funding for FOSS - Paul Sharratt, Cailean Osborne][12]                  |
+| 10:30-10:50 | [Who does the dev? or: How we failed to make a taxonomy of open source contribution - Katie McLaughlin][13]          |
+| 10:50-11:00 | Break                                                                                                                |
+| 11:00-11:20 | [CORSA: Supporting open source research software projects via foundations and metrics - Daniel S. Katz][14]          |
+| 11:20-11:40 | [Analyzing Risk from an OSS Project Health Perspective: Tools, Traces, and Threats - Georg Link][15]                 |
+| 11:40-12:00 | [OpenChain Capability Model - Moving Beyond Compliance - Stephen Pollard][16]                                        |
+| 12:00-1:30  | Group Picture, then Lunch (on your own)                                                                              |
+| 1:30-3:00   | Afternoon Breakout Sessions - 3 options! (CHAOSS Software Workshop, Unconference, Academic OSS sponsored by CURIOSS) |
+| 3:00-3:15   | Break                                                                                                                |
+| 3:15-3:50   | Keynote: Evaluating ways of assessing community health of open infrastructure - Katherine Skinner                    |
+| 3:50-5:00   | Afternoon Breakout Sessions - 3 options! (CHAOSS Software Workshop, Unconference, Academic OSS sponsored by CURIOSS) |
+| 5:00-7:00   | Social Activity - Rooftop Bar (The 8) at the Bedford Hotel & Congress Centre                                         |
+
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDc3R5bGUlM0UlMEFpbWclMjAlN0IlMEElMjAlMjAlMjAlMjBmbG9hdCUzQSUyMGxlZnQlM0IlMEElMjAlMjAlMjAlMjBtYXJnaW4tcmlnaHQlM0ElMjAxMHB4JTNCJTBBJTdEJTBBaDMlMjAlN0IlMEElMjAlMjAlMjAlMjBjbGVhciUzQSUyMGxlZnQlM0IlMEElN0QlMEElM0MlMkZzdHlsZSUzRSUwQSUzQyUyMS0tU3BlYWtlcnMtLSUzRQ==[/vc\_raw_html]
+
+## Speakers
+
+### Dr. Dawn Foster
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/foster.jpg?raw=true" alt="Dawn Foster" /> 
+
+Dr. Dawn Foster works as the Director of Data Science for CHAOSS where she is also a board member / maintainer. She is co-chair of CNCF TAG Contributor Strategy and an OpenUK board member. She has 20+ years of experience at companies like VMware and Intel with expertise in community, strategy, governance, metrics, and more. She has spoken at over 100 industry events and has a BS in computer science, an MBA, and a PhD. In her spare time she enjoys reading science fiction, running, and traveling.
+
+### Ruth Ikegah
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/ikegah.jpg?raw=true" alt="Ruth Ikegah" /> 
+
+Ruth Ikegah is the Community Lead at CHAOSS Africa, working to engage African open source contributors and increase the adoption of metrics to improve the health of Open Source communities in the continent. She is also a co-chair at the CHAOSS board and a maintainer in the Diversity, Equity, and Inclusion (DEI) working group.
+
+Ruth's impressive professional journey is marked by her unwavering commitment to open source technology; as an open source advocate, she has made significant contributions to numerous projects and has played a pivotal role in fostering a collaborative and inclusive environment within the community. Through her advocacy efforts, she has inspired countless individuals to embrace open source principles and contribute their own unique skill sets to the ever-evolving landscape of technology.
+
+### Daniel Izquierdo
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/izquierdo.jpeg?raw=true" alt="Daniel Izquierdo" /> 
+
+Daniel Izquierdo is a researcher and co-founder of Bitergia and currently holding the position of CEO, he is focused on the quality of the data, research of new metrics, analysis and studies of interest for Bitergia customers via data mining and processing. Daniel earned a PhD in free software engineering in 2012 focused on the analysis of buggy developers activity patterns in the Mozilla community. He is board member at CHAOSS community and President of the InnerSource Commons Foundation. |
+
+### Daniel S. Katz
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/katz.png?raw=true" alt="Daniel S. Katz" /> 
+
+Daniel S. Katz is Chief Scientist at NCSA and a Research Associate Professor in Computing and Data Science, and in Information Sciences at the University of Illinois Urbana-Champaign. He works on issues at the triple point of research software, people, and policies. He is a co-lead of the [Parsl project][17], co-founder and current Associate Editor-in-Chief of the [Journal of Open Source Software][18], co-founder of the [US Research Software Engineer Association (US-RSE)][19], and co-founder and steering committee chair of the [Research Software Alliance (ReSA)][20].
+
+### Georg Link
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/link.jpeg?raw=true" alt="Georg Link" /> 
+
+Georg’s mission is to make open source more professional by using community metrics and analytics. Georg co-founded the CHAOSS Project to advance analytics and metrics for open source project health. Georg is an active contributor to several projects and has often presents on open source topics. Georg has an MBA and a Ph.D. in Information Technology. As the Director of Sales at Bitergia, Georg helps organizations and communities adopt metrics and make open source more sustainable.
+
+### Katie McLaughlin
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/mclaughlin.png?raw=true" alt="Katie McLaughlin" /> 
+
+Katie has worn many different hats over the years. They have been a software developer for many languages, systems administrator for multiple operating systems, and speaker on many different topics. They work as a collaborator on the Open Source Complex Ecosystems and Networks (OCEAN) project, and is the primary developer of octohatrack. When they're not changing the world, they enjoy trail running, embroidery, and seeing just how well various application stacks handle emoji.
+
+### Tosan Okome
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/okome.jpeg?raw=true" alt="Tosan Okome" /> 
+
+Tosan is a registered nurse and licensed public health nurse from Nigeria whose passion for data and research inspired her to pursue opportunities beyond the bedside. Her journey into open source and open science began with a dedication to self-learning, where she developed skills in programming for data analysis, statistics, and foundational research principles. She actively contributes to open source projects, continually enhancing her expertise while creating meaningful impact. 
+
+She leads the Researchers Focus Group within CHAOSS Africa, a community where passionate aspiring researchers across Africa build their skills by engaging in impactful research on open source issues. 
+
+Tosan also serves as the Director of Curriculum for the Pre-Seeds Project, an introductory research course designed to empower underrepresented individuals in the research landscape. Furthermore, she is a scholar in the MIT Emerging Talent Program in Computer and Data Science, advancing her mission to leverage technology and research to drive transformative change.
+
+### Cailean Osborne
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/osborne.jpg?raw=true" alt="Cailean Osborne" /> 
+
+Cailean Osborne is a Senior Researcher at the Linux Foundation and a PhD Candidate in Social Data Science at the University of Oxford. At the Linux Foundation, Cailean leads research projects on various open source trends and policy topics, with a focus on open source AI and funding. His PhD concerns the political economy of open source AI, and in his free time he is a contributor to scikit-learn and the Generative AI Commons. In 2023-2024, Cailean was a visiting researcher at Peking University’s Open Source Software Data Analytics Lab. Previously, Cailean worked in AI policy at the UK Government and was a UK Government Delegate at the OECD’s Global Partnership on AI and Council of Europe’s Committee on AI. He is an avid language learner and can be reached in English, German, French, and Spanish.
+
+### Stephen Pollard
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/pollard.jpg?raw=true" alt="Stephen Pollard" /> 
+
+Stephen Pollard – Director & FOSS Management advisor. Stephen is a director at Orcro Ltd. His skillset and experience are focused on the capabilities needed to put new strategies into action. Stephen advises clients on how to achieve their strategic goals and acts as a partner in helping drive through change. Originally a systems architect Stephen has been a technology management consultant for over 30 years. He is leading the work in the development of the OpenChain capability model - which is the focus of the presentation.
+
+### Paul Sharratt
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/sharratt.jpg?raw=true" alt="Paul Sharratt" /> 
+
+Paul Sharratt is the Policy and Research Manager at the Sovereign Tech Agency, where he leads research on digital infrastructure and open-source ecosystems, contributing to broader conversations on technology development in the public interest. His work centres on assessing the impact of public investments in open-source digital infrastructure projects, with a focus on strengthening digital sovereignty for individuals, industries, and governments.
+
+Before joining the Sovereign Tech Agency, Paul worked as a digitalization consultant and a product manager. He holds a Master of Science in Data Science for Public Policy from the Hertie School.
+
+### Katherine Skinner
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/skinner.png?raw=true" alt="Katherine Skinner" /> 
+
+Dr. Katherine Skinner is the Director of Programs at Invest in Open Infrastructure. She is an open-knowledge researcher-activist with deep commitments to community building, organizational resilience, and systems thinking. Her passion for facilitating, empowering, and cultivating communities led her to co-found and direct the Educopia Institute for more than 15 years, where she provided scaffolding, training, and systems to support such collaborative groups as Library Publishing Coalition, MetaArchive Cooperative, BitCurator Consortium, C4DISC, Software Preservation Network, and Maintainers. She also co-authored Community Cultivation: A Field Guide (2018) to provide an open, practical guide to this type of work.
+
+She received her PhD from Emory University in 2005, and she has authored and co-authored three books and numerous reports and articles. She has served as Principal Investigator for 25 research projects funded by foundations and federal grants and awards on topics like education (Nexus LAB, BitCurator.edu), digital curation (Chronicles in Newspaper Preservation, OSSArcFlow), and scholarly communication (Library Publishing Workflows, Mapping the Scholarly Communication Infrastructure). She lives in Greensboro, NC, in the US, on the unceded, stolen lands of a number of Indigenous peoples including the Catawba, Eno, Sappony, Shakori, Keyauwee, and Saura/Cheraw.
+
+### Peculiar C Umeh
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/umeh.jpg?raw=true" alt="Peculiar C Umeh" /> 
+
+Peculiar C Umeh is an Open-Source Advocate, Software Developer, Project Manager for the CHAOSS Education Project and CHAOSS Project Management Co-Chair  
+Peculiar is an experienced software engineer with a versatile background in software development, project management and a community builder with proven track record of leading cross-functional teams, driving innovations and contributing to open-source projects. She loves mentoring young people and early-career professionals on open-source contribution.
+
+### Dmitry Vinnik
+
+<img decoding="async" src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/vinnik.jpeg?raw=true" alt="Dmitry Vinnik" /> 
+
+Dmitry Vinnik is a Lead Developer Advocate at Meta, focused primarily on open source. With a decade of experience in the tech industry, Dmitry is recognized for his expertise in developer relations, dev tools, programming languages, and open source technologies. He is a regular speaker at conferences and meetups on various topics related to software development, open source, and engineering leadership.
+
+\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_column_text]
+
+## Sponsors
+
+This is a community-organized event, and we rely on sponsors to cover costs for coffee and other refreshments. If you are interested in sponsoring, please have a look at our [sponsor prospectus][21]. Thank you to our past sponsors!\[/vc\_column\_text\]\[vc\_row\_inner equal\_height=&#8221;yes&#8221; content\_placement=&#8221;bottom&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; text\_align=&#8221;center&#8221;\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;20&#8243;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_custom\_heading text=&#8221;Gold Level Sponsors&#8221; font\_container=&#8221;tag:h2|text\_align:center|color:%23e2d000&#8243;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation image\_url=&#8221;6067&#8243; animation=&#8221;None&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;center&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation image\_url=&#8221;4452&#8243; animation=&#8221;None&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;center&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[vc\_row\_inner equal\_height=&#8221;yes&#8221; content\_placement=&#8221;bottom&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; text\_align=&#8221;center&#8221;\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;40&#8243;\]\[vc\_custom\_heading text=&#8221;Silver Level Sponsors&#8221; font\_container=&#8221;tag:h2|text\_align:center|color:%23a4ada1&#8243;\]\[vc\_column\_text\]
+
+<p style="text-align: center;">
+  Silver sponsorships are still available! Contact us to learn more about this sponsorship opportunity.
+</p>
+
+\[/vc\_column\_text\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[vc\_row\_inner column\_margin=&#8221;50px&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; top\_padding=&#8221;0&#8243; left\_padding\_desktop=&#8221;0&#8243; text\_align=&#8221;center&#8221;\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;40&#8243;\]\[vc\_custom\_heading text=&#8221;Bronze Level Sponsors&#8221; font\_container=&#8221;tag:h2|text\_align:center|color:%23a0502e&#8221;\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;30&#8243;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation image\_url=&#8221;2686&#8243; animation=&#8221;None&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation image\_url=&#8221;4609&#8243; animation=&#8221;None&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;center&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221; margin\_top=&#8221;10&#8243; margin\_left=&#8221;10&#8243;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[vc\_row\_inner content\_placement=&#8221;bottom&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; text\_align=&#8221;left&#8221;\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[divider line\_type=&#8221;No Line&#8221; custom\_height=&#8221;40&#8243;\]\[vc\_custom\_heading text=&#8221;Other Fabulous Sponsors&#8221; font\_container=&#8221;tag:h2|text\_align:center|color:%234364e8&#8243;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation image\_url=&#8221;6084&#8243; animation=&#8221;None&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;center&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[image\_with\_animation image\_url=&#8221;6073&#8243; animation=&#8221;None&#8221; hover\_animation=&#8221;none&#8221; alignment=&#8221;center&#8221; border\_radius=&#8221;none&#8221; box\_shadow=&#8221;none&#8221; image\_loading=&#8221;default&#8221; max\_width=&#8221;100%&#8221; max\_width\_mobile=&#8221;default&#8221;\]\[/vc\_column\_inner\]\[vc\_column\_inner column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/3&#8243; tablet\_width\_inherit=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[/vc\_column\]\[/vc\_row\]\[vc\_row type=&#8221;full\_width\_background&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; bg\_color=&#8221;#ffffff&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221; shape\_type=&#8221;&#8221;\]\[vc\_column column\_padding=&#8221;padding-3-percent&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_raw\_html]JTNDJTIxLS1Db21taXR0ZWUtLSUzRQ==[/vc\_raw_html]
+
+## CHAOSScon EU 2025 Organizing Committee
+
+  * Dawn Foster 
+  * Elizabeth Barron
+  * Georg Link
+  * Matt Germonprez
+  * Sean Goggins
+  * Sophia Vargas
+  * Clare Dillon
+  * Cali Dolfi
+  * Kevin Lumbard
+  * Vinod Ahuja
+
+\[/vc\_column\]\[/vc\_row\]
+
+ [1]: http://www.bedfordhotelcongresscentre.com/
+ [2]: https://www.youtube.com/@CHAOSStube
+ [3]: https://chaoss.community/about/code-of-conduct/
+ [4]: https://chaoss.community/procedure-for-making-a-code-of-conduct-report/
+ [5]: https://chaoss.community/code-of-conduct-incident-response-plan/
+ [6]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g
+ [7]: https://www.linkedin.com/company/chaoss/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3BE3M4AtN0SRmzxVMBJ%2FfHGQ%3D%3D
+ [8]: https://we-are-ols.org/
+ [9]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/CHAOSScon%20EU%202025%20Keynote.pdf
+ [10]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Introducing%20the%20CHAOSS%20Education%20.pdf
+ [11]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Blueprint%20for%20Success_%20How%20Local%20Chapters%20Empower%20Global%20Communities.pdf
+ [12]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/20250130-CHAOSSCon-Toolkit.pdf
+ [13]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/glasnt%20-%20talks%20-%20who%20does%20the%20dev.pdf
+ [14]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/CORSA%20-%20CHAOSSCon-EU.pdf
+ [15]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Link%20-%20CHAOSScon%20EU%2025%20-%20Analyzing%20Risk%20from%20an%20OSS%20Project%20Health%20Perspective_%20Tools%2C%20Traces%2C%20and%20Threats.pdf
+ [16]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Orcro%20%40%20CHAOSSCON%20-%20OpenChain%20Capability%20Model%20-%2030th%20Jan%202025.pdf.pdf
+ [17]: https://parsl-project.org
+ [18]: https://joss.theoj.org/
+ [19]: https://us-rse.org/
+ [20]: https://www.researchsoft.org/
+ [21]: https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/CHAOSScon.Europe.2025_funding_prospectus.pdf
