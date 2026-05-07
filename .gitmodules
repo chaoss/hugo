@@ -1,0 +1,5 @@
+[submodule "external/chaoss-website"]
+	path = external/chaoss-website
+	url = https://github.com/chaoss/website.git
+	branch = main
+	shallow = true
