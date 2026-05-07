@@ -1,5 +1,6 @@
 ---
 title: CHAOSScon-2026-EU
+draft: true
 author: elizabeth
 type: page
 date: 2025-10-06T17:18:21+00:00
