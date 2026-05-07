@@ -43,26 +43,6 @@ source = 'external/chaoss-website/CHAOSScon/2026Europe/faq.md'
 target = 'content/chaosscon-2026-eu/faq.md'
 
 [[module.mounts]]
-source = 'external/chaoss-website/CHAOSScon/2026Europe/committee.md'
-target = 'content/chaosscon-2026-eu/committee.md'
-
-[[module.mounts]]
-source = 'external/chaoss-website/CHAOSScon/2026Europe/event_details.md'
-target = 'content/chaosscon-2026-eu/event-details.md'
-
-[[module.mounts]]
-source = 'external/chaoss-website/CHAOSScon/2026Europe/event_location_time.md'
-target = 'content/chaosscon-2026-eu/event-location-time.md'
-
-[[module.mounts]]
-source = 'external/chaoss-website/CHAOSScon/2026Europe/info_for_speakers.md'
-target = 'content/chaosscon-2026-eu/info-for-speakers.md'
-
-[[module.mounts]]
-source = 'external/chaoss-website/CHAOSScon/2026Europe/speakers.md'
-target = 'content/chaosscon-2026-eu/speakers.md'
-
-[[module.mounts]]
 source = 'external/chaoss-website/CHAOSScon/2026Europe/images'
 target = 'static/chaosscon-2026-eu/images'
 
@@ -97,31 +77,6 @@ path = '/chaosscon-2026-eu/travel'
 title = 'Frequently Asked Questions'
 [cascade.target]
 path = '/chaosscon-2026-eu/faq'
-
-[[cascade]]
-title = 'Committee'
-[cascade.target]
-path = '/chaosscon-2026-eu/committee'
-
-[[cascade]]
-title = 'Event Details'
-[cascade.target]
-path = '/chaosscon-2026-eu/event-details'
-
-[[cascade]]
-title = 'Event Location and Time'
-[cascade.target]
-path = '/chaosscon-2026-eu/event-location-time'
-
-[[cascade]]
-title = 'Info for Speakers'
-[cascade.target]
-path = '/chaosscon-2026-eu/info-for-speakers'
-
-[[cascade]]
-title = 'Speakers'
-[cascade.target]
-path = '/chaosscon-2026-eu/speakers'
 
 [[menus.main]]
 name = 'Home'

@@ -24,7 +24,7 @@ Some content is mounted from external repositories. To include the CHAOSScon pro
 
 ```shell
 git submodule update --init --depth 1 --filter=blob:none external/chaoss-website
-git -C external/chaoss-website sparse-checkout set CHAOSScon/2026Europe
+git -C external/chaoss-website sparse-checkout set CHAOSScon
 ```
 
 **Note about Offline Builds**
