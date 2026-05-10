@@ -1,6 +1,6 @@
 <div class="header-inner">
   <a href="{{ "/" | relURL }}" class="site-brand">
-    <img src="{{ "/wp-content/uploads/2022/08/chaoss-white-2.png" | relURL }}" alt="CHAOSS Logo">
+    <img src="{{ "assets/images/chaoss-white-2.png" | relURL }}" alt="CHAOSS Logo">
   </a>
   <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.site-nav').classList.toggle('open')">&#9776;</button>
   {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
