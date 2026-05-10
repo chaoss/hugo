@@ -1,4 +1,4 @@
-baseURL = 'https://chaoss.community/'
+baseURL = 'https://chaoss.github.io/hugo'
 locale = 'en-us'
 title = 'CHAOSS'
 
