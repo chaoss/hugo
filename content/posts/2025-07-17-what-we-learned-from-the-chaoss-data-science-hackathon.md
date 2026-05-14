@@ -17,7 +17,9 @@ tags:
   - hackathon
 
 ---
-\[vc\_row type=&#8221;in\_container&#8221; full\_screen\_row\_position=&#8221;middle&#8221; column\_margin=&#8221;default&#8221; column\_direction=&#8221;default&#8221; column\_direction\_tablet=&#8221;default&#8221; column\_direction\_phone=&#8221;default&#8221; scene\_position=&#8221;center&#8221; text\_color=&#8221;dark&#8221; text\_align=&#8221;left&#8221; row\_border\_radius=&#8221;none&#8221; row\_border\_radius\_applies=&#8221;bg&#8221; overlay\_strength=&#8221;0.3&#8243; gradient\_direction=&#8221;left\_to\_right&#8221; shape\_divider\_position=&#8221;bottom&#8221; bg\_image\_animation=&#8221;none&#8221;\]\[vc\_column column\_padding=&#8221;no-extra-padding&#8221; column\_padding\_tablet=&#8221;inherit&#8221; column\_padding\_phone=&#8221;inherit&#8221; column\_padding\_position=&#8221;all&#8221; background\_color\_opacity=&#8221;1&#8243; background\_hover\_color\_opacity=&#8221;1&#8243; column\_shadow=&#8221;none&#8221; column\_border\_radius=&#8221;none&#8221; column\_link\_target=&#8221;\_self&#8221; gradient\_direction=&#8221;left\_to\_right&#8221; overlay\_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet\_width\_inherit=&#8221;default&#8221; tablet\_text\_alignment=&#8221;default&#8221; phone\_text\_alignment=&#8221;default&#8221; column\_border\_width=&#8221;none&#8221; column\_border\_style=&#8221;solid&#8221; bg\_image\_animation=&#8221;none&#8221;\][vc\_column\_text]This blog post was co-authored by Chan Voong, Sal Kimmich, Nandana Krishnan, and Ishan Juneja</p> 
+![A bunch of televisions screens hanging from the ceiling and displaying data](/hugo/wp-content/uploads/2025/07/leif-christoph-gottwald-iM8dxccK1sY-unsplash-scaled.jpg)
+
+<p>This blog post was co-authored by Chan Voong, Sal Kimmich, Nandana Krishnan, and Ishan Juneja</p> 
 
 We held our first ever [CHAOSS Data Science Hackathon][1] in Denver co-located with the Linux Foundation’s [Open Source Summit][2] and [CHAOSScon NA][3]. Some first time hackathon participants had a really good time! We felt like it was successful overall, and we hope some of the participants will stick around and continue to participate in the [CHAOSS Data Science Working Group][4].
 
@@ -153,7 +155,7 @@ We categorized 45 out of 729 projects as part of the hackathon, and here are the
                 
                 <p>
                   Photo by <a href="https://unsplash.com/@project2204?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leif Christoph Gottwald</a> on <a href="https://unsplash.com/photos/a-bunch-of-television-screens-hanging-from-the-ceiling-iM8dxccK1sY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-                </p> [/vc_column_text][/vc_column][/vc_row]
+                </p>
 
  [1]: {{ baseURL }}chaoss-data-science-hackathon-2025/
  [2]: https://ossna2025.sched.com/
