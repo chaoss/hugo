@@ -17,8 +17,8 @@ tags:
   - hackathon
 
 ---
-<img src="https://chaoss.community/wp-content/uploads/2025/07/leif-christoph-gottwald-iM8dxccK1sY-unsplash-2048x1152.jpg">
-<br>
+![A bunch of televisions screens hanging from the ceiling and displaying data](/hugo/wp-content/uploads/2025/07/leif-christoph-gottwald-iM8dxccK1sY-unsplash-scaled.jpg)
+
 <p>This blog post was co-authored by Chan Voong, Sal Kimmich, Nandana Krishnan, and Ishan Juneja</p> 
 
 We held our first ever [CHAOSS Data Science Hackathon][1] in Denver co-located with the Linux Foundation’s [Open Source Summit][2] and [CHAOSScon NA][3]. Some first time hackathon participants had a really good time! We felt like it was successful overall, and we hope some of the participants will stick around and continue to participate in the [CHAOSS Data Science Working Group][4].
