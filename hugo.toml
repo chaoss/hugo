@@ -43,6 +43,10 @@ source = 'external/chaoss-website/CHAOSScon/2026Europe/faq.md'
 target = 'content/chaosscon-2026-eu/faq.md'
 
 [[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/event_location_time.md'
+target = 'content/chaosscon-2026-eu/event-location-time.md'
+
+[[module.mounts]]
 source = 'external/chaoss-website/CHAOSScon/2026Europe/images'
 target = 'static/chaosscon-2026-eu/images'
 
@@ -60,6 +64,8 @@ target = 'static/chaosscon-2026-eu/CHAOSScon.Europe.2026_funding_prospectus.pdf'
 
 [[cascade]]
 title = 'CHAOSScon Europe 2026'
+layout = 'chaosscon-home'
+event_location_content_path = 'external/chaoss-website/CHAOSScon/2026Europe/event_location_time.md'
 [cascade.target]
 path = '/chaosscon-2026-eu'
 
@@ -77,6 +83,12 @@ path = '/chaosscon-2026-eu/travel'
 title = 'Frequently Asked Questions'
 [cascade.target]
 path = '/chaosscon-2026-eu/faq'
+
+[[cascade]]
+[cascade.build]
+render = 'never'
+[cascade.target]
+path = '/chaosscon-2026-eu/event-location-time'
 
 [[menus.main]]
 name = 'Home'
