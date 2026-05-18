@@ -22,7 +22,7 @@ The CHAOSS community is dedicated to fostering an open and welcoming environment
 <div class="mkb-home-topics mkb-columns mkb-columns-2 mkb-uuid-69cb2c579bf91">
   <div class="mkb-row">
     <div class="kb-topic topic-id-189 kb-topic--box-view">
-      <a href="{{ baseURL }}kbtopic/how-to-contribute/"></p> 
+      <a href='{{< ref "kbtopic/how-to-contribute/" >}}'></p> 
       
       <div class="kb-topic__inner">
         <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -54,7 +54,7 @@ The CHAOSS community is dedicated to fostering an open and welcoming environment
         </a> </div> 
         
         <div class="kb-topic topic-id-190 kb-topic--box-view">
-          <a href="{{ baseURL }}kbtopic/templates/"></p> 
+          <a href='{{< ref "kbtopic/templates/" >}}'></p> 
           
           <div class="kb-topic__inner">
             <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -83,7 +83,7 @@ The CHAOSS community is dedicated to fostering an open and welcoming environment
             
             <div class="mkb-row">
               <div class="kb-topic topic-id-462 kb-topic--box-view">
-                <a href="{{ baseURL }}kbtopic/chaoss-groups/"></p> 
+                <a href='{{< ref "kbtopic/chaoss-groups/" >}}'></p> 
                 
                 <div class="kb-topic__inner">
                   <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -111,7 +111,7 @@ The CHAOSS community is dedicated to fostering an open and welcoming environment
                   </a> </div> 
                   
                   <div class="kb-topic topic-id-520 kb-topic--box-view">
-                    <a href="{{ baseURL }}kbtopic/media-and-outreach/"></p> 
+                    <a href='{{< ref "kbtopic/media-and-outreach/" >}}'></p> 
                     
                     <div class="kb-topic__inner">
                       <div class="kb-topic__box-header" style="color: #4a90e2;">
@@ -147,5 +147,5 @@ The CHAOSS community is dedicated to fostering an open and welcoming environment
                       </p>
 
  [1]: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg
- [2]: {{ baseURL }}kb-getting-started/
+ [2]: {{< ref "kb-getting-started/" >}}
  [3]: mailto:elizabeth@eb-tc.com
