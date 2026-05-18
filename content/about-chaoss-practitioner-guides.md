@@ -41,7 +41,7 @@ Short videos about the guides can be found in the [Practitioner Guides Playlist]
 
 We also have more guides coming soon. You can see the work in progress guides, contribute to them, and propose new guides in the [Practitioner Guides][13] section of the CHAOSS Data Science Working Group repository. These guides are under the MIT License, so you can use them in a variety of ways that best meet your needs, including copying and modifying them for your organization.
 
-\[/vc\_column\]\[/vc\_row\]
+
 
  [1]: https://chaoss.community/practitioner-guide-introduction/
  [2]: https://chaoss.community/practitioner-guide-contributor-sustainability/
