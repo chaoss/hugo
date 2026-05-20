@@ -10,6 +10,8 @@ nectar-metabox-portfolio-display-sortable:
   - off
 ppma_authors_name:
   - CHAOSS Community
+aliases:
+  - /about/code-of-conduct/
 url: /code-of-conduct
 params:
   content_repo: chaoss/.github
