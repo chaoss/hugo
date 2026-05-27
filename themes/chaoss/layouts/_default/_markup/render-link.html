@@ -1,0 +1,25 @@
+{{- $destination := .Destination -}}
+{{- $linkPrefix := "https://chaoss.community/" -}}
+{{- if strings.HasPrefix $destination $linkPrefix -}}
+  {{- $path := strings.TrimPrefix $linkPrefix $destination -}}
+  {{- $path = strings.TrimRight "/" $path -}}
+  {{- /* Only rewrite practitioner guide URLs that we have locally */ -}}
+  {{- $practitionerPaths := slice
+    "about-chaoss-practitioner-guides"
+    "practitioner-guide-introduction"
+    "practitioner-guide-contributor-sustainability"
+    "practitioner-guide-responsiveness"
+    "practitioner-guide-organizational-participation"
+    "practitioner-guide-security"
+    "practitioner-guide-sunset"
+    "practitioner-guide-diverse-leadership"
+    "practitioner-guide-demonstrating-org-value"
+    "practitioner-guide-viability"
+    "practitioner-guide-research-sw-impact"
+    "practitioner-guide-funding-impact"
+  -}}
+  {{- if in $practitionerPaths $path -}}
+    {{- $destination = printf "%s/" $path | relURL -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $destination }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

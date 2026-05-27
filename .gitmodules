@@ -1,0 +1,5 @@
+[submodule "external/wg-data-science"]
+	path = external/wg-data-science
+	url = https://github.com/chaoss/wg-data-science.git
+	branch = main
+	shallow = true
