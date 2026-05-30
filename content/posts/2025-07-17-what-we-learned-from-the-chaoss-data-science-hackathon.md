@@ -21,7 +21,7 @@ tags:
 
 <p>This blog post was co-authored by Chan Voong, Sal Kimmich, Nandana Krishnan, and Ishan Juneja</p> 
 
-We held our first ever [CHAOSS Data Science Hackathon][1] in Denver co-located with the Linux Foundation’s [Open Source Summit][2] and [CHAOSScon NA][3]. Some first time hackathon participants had a really good time! We felt like it was successful overall, and we hope some of the participants will stick around and continue to participate in the [CHAOSS Data Science Working Group][4].
+We held our first ever [CHAOSS Data Science Hackathon]({{< ref "/chaoss-data-science-hackathon-2025" >}}) in Denver co-located with the Linux Foundation’s [Open Source Summit][2] and [CHAOSScon NA]({{<ref "chaosscon-2025-na/" >}}). Some first time hackathon participants had a really good time! We felt like it was successful overall, and we hope some of the participants will stick around and continue to participate in the [CHAOSS Data Science Working Group]({{< ref "2025-06-04-chaoss-data-science-working-group-new-guides-research-and-more" >}}).
 
 During the hackathon, we focused on 3 ongoing CHAOSS Data Science Working Group projects: [Relicensing and Forks][5], [Archival of Open Source Projects][6], and [Projects Moving to Foundations][7], and here’s what we accomplished for each of these projects.
 
@@ -157,10 +157,7 @@ We categorized 45 out of 729 projects as part of the hackathon, and here are the
                   Photo by <a href="https://unsplash.com/@project2204?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leif Christoph Gottwald</a> on <a href="https://unsplash.com/photos/a-bunch-of-television-screens-hanging-from-the-ceiling-iM8dxccK1sY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
                 </p>
 
- [1]: {{ baseURL }}chaoss-data-science-hackathon-2025/
  [2]: https://ossna2025.sched.com/
- [3]: {{ baseURL }}chaosscon-2025-na/
- [4]: {{ baseURL }}chaoss-data-science-working-group-new-guides-research-and-more/
  [5]: https://github.com/chaoss/wg-data-science/tree/main/dataset/license-changes/fork-case-study#hackathon-project-details
  [6]: https://github.com/chaoss/wg-data-science/tree/main/dataset/archive#hackathon-project-details
  [7]: https://colab.research.google.com/drive/1AebzquGmtsQ6c1JtC4Koj82lHQ39l-OD?usp=sharing
