@@ -18,6 +18,9 @@
   </div>
 
   <div class="page-content">
+    {{ if $.Params.featured_image }}
+    <img src="{{ .Site.BaseURL }}{{ .Params.featured_image}}" alt="{{ .Params.featured_image_alt}}" />
+    {{ end }}
     {{ .Content }}
   </div>
 {{ end }}

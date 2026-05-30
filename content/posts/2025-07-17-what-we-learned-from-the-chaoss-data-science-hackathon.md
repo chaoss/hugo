@@ -6,6 +6,7 @@ type: post
 date: 2025-07-17T20:05:21+00:00
 url: /what-we-learned-from-the-chaoss-data-science-hackathon/
 featured_image: /wp-content/uploads/2025/07/leif-christoph-gottwald-iM8dxccK1sY-unsplash-scaled.jpg
+featured_image_alt: A bunch of televisions screens hanging from the ceiling and displaying data
 ppma_authors_name:
   - Dawn Foster
 nectar_blog_post_view_count:
@@ -17,8 +18,6 @@ tags:
   - hackathon
 
 ---
-![A bunch of televisions screens hanging from the ceiling and displaying data](/hugo/wp-content/uploads/2025/07/leif-christoph-gottwald-iM8dxccK1sY-unsplash-scaled.jpg)
-
 <p>This blog post was co-authored by Chan Voong, Sal Kimmich, Nandana Krishnan, and Ishan Juneja</p> 
 
 We held our first ever [CHAOSS Data Science Hackathon]({{< ref "/chaoss-data-science-hackathon-2025" >}}) in Denver co-located with the Linux Foundation’s [Open Source Summit][2] and [CHAOSScon NA]({{<ref "chaosscon-2025-na/" >}}). Some first time hackathon participants had a really good time! We felt like it was successful overall, and we hope some of the participants will stick around and continue to participate in the [CHAOSS Data Science Working Group]({{< ref "2025-06-04-chaoss-data-science-working-group-new-guides-research-and-more" >}}).
