@@ -13,6 +13,143 @@ tagline = 'Metrics, Models & Software for Open Source Community Health'
 [markup.goldmark.renderer]
 unsafe = true
 
+[module]
+[[module.mounts]]
+source = 'archetypes'
+target = 'archetypes'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/website-landing.md'
+target = 'content/imported-about-chaoss-practitioner-guides.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/introduction.md'
+target = 'content/practitioner-guide-introduction.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/contributor-sustainability.md'
+target = 'content/practitioner-guide-contributor-sustainability.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/responsiveness.md'
+target = 'content/practitioner-guide-responsiveness.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/organizational-participation.md'
+target = 'content/practitioner-guide-organizational-participation.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/security.md'
+target = 'content/practitioner-guide-security.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/sunset.md'
+target = 'content/practitioner-guide-sunset.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/diverse-leadership.md'
+target = 'content/practitioner-guide-diverse-leadership.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/demonstrating-org-value.md'
+target = 'content/practitioner-guide-demonstrating-org-value.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/viability.md'
+target = 'content/practitioner-guide-viability.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/research-sw-impact.md'
+target = 'content/practitioner-guide-research-sw-impact.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/funding-impact.md'
+target = 'content/practitioner-guide-funding-impact.md'
+
+[[module.mounts]]
+source = 'external/wg-data-science/practitioner-guides/images'
+target = 'static/practitioner-guides/images'
+
+[[cascade]]
+title = 'About CHAOSS Practitioner Guides'
+url = '/about-chaoss-practitioner-guides'
+[cascade.target]
+path = '/imported-about-chaoss-practitioner-guides'
+
+[[cascade]]
+title = 'Practitioner Guide - Introduction'
+url = '/practitioner-guide-introduction'
+[cascade.target]
+path = '/practitioner-guide-introduction'
+
+[[cascade]]
+title = 'Practitioner Guide - Contributor Sustainability'
+url = '/practitioner-guide-contributor-sustainability'
+[cascade.target]
+path = '/practitioner-guide-contributor-sustainability'
+
+[[cascade]]
+title = 'Practitioner Guide - Responsiveness'
+url = '/practitioner-guide-responsiveness'
+[cascade.target]
+path = '/practitioner-guide-responsiveness'
+
+[[cascade]]
+title = 'Practitioner Guide - Organizational Participation'
+url = '/practitioner-guide-organizational-participation'
+[cascade.target]
+path = '/practitioner-guide-organizational-participation'
+
+[[cascade]]
+title = 'Practitioner Guide - Security'
+url = '/practitioner-guide-security'
+[cascade.target]
+path = '/practitioner-guide-security'
+
+[[cascade]]
+title = 'Practitioner Guide - Sunsetting an Open Source Project'
+url = '/practitioner-guide-sunset'
+[cascade.target]
+path = '/practitioner-guide-sunset'
+
+[[cascade]]
+title = 'Practitioner Guide - Diverse Leadership'
+url = '/practitioner-guide-diverse-leadership'
+[cascade.target]
+path = '/practitioner-guide-diverse-leadership'
+
+[[cascade]]
+title = 'Practitioner Guide - Demonstrating Organizational Value'
+url = '/practitioner-guide-demonstrating-org-value'
+[cascade.target]
+path = '/practitioner-guide-demonstrating-org-value'
+
+[[cascade]]
+title = 'Practitioner Guide - Assessing Viability'
+url = '/practitioner-guide-viability'
+[cascade.target]
+path = '/practitioner-guide-viability'
+
+[[cascade]]
+title = 'Practitioner Guide - Research Software Impact'
+url = '/practitioner-guide-research-sw-impact'
+[cascade.target]
+path = '/practitioner-guide-research-sw-impact'
+
+[[cascade]]
+title = 'Practitioner Guide - Funding Impact'
+url = '/practitioner-guide-funding-impact'
+[cascade.target]
+path = '/practitioner-guide-funding-impact'
+
 [[menus.main]]
 name = 'Home'
 pageRef = '/'

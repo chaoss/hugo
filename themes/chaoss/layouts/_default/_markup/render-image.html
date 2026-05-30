@@ -1,0 +1,6 @@
+{{- $destination := .Destination -}}
+{{- $imagePrefix := "https://github.com/chaoss/wg-data-science/blob/main/practitioner-guides/images/" -}}
+{{- if strings.HasPrefix $destination $imagePrefix -}}
+  {{- $destination = printf "practitioner-guides/images/%s" (strings.TrimPrefix $imagePrefix $destination) | relURL -}}
+{{- end -}}
+<img src="{{ $destination }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
