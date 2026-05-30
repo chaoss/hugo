@@ -42,7 +42,6 @@ The archive project was focused on data cleaning and classification, since data 
 We categorized 45 out of 729 projects as part of the hackathon, and here are the categories for those 45 projects.
 
 <ul class="wp-block-list">
-  </p> 
   
   <li>
     Corporate 3
@@ -65,97 +64,87 @@ We categorized 45 out of 729 projects as part of the hackathon, and here are the
   <li>
     Grand Total 729
   </li>
+</ul> 
+  
   <p>
-    </ul> 
-    
-    <p>
-      While we classified projects into a single, primary category, we also had some interesting discussions about how and why projects are archived and how the reasoning for archival can be complex. For each project that we classified, we added notes about how we came to our decision and any other categories that might have influenced the decision.
-    </p>
-    
-    <p>
-      Learn more about the <a href="https://github.com/chaoss/wg-data-science/tree/main/dataset/archive#hackathon-project-details">Archival project</a> and how to get involved.
-    </p>
-    
-    <h2 class="wp-block-heading">
-      <a href="https://colab.research.google.com/drive/1AebzquGmtsQ6c1JtC4Koj82lHQ39l-OD?usp=sharing">Projects Moving to Foundations</a>
-    </h2>
-    
-    <p>
-      This group explored the question, “How can we better understand the health of open source projects across different ecosystems?” Using public datasets from Apache, CNCF, and Eclipse, several developers: Sal Kimmich, Ejiro Oghenekome, Nandana Krishnan, and Ishan Juneja &#8211; transformed raw project metadata into visual insights. Their work revealed how lifecycle patterns, language choices, and infrastructure gaps impact the sustainability of open source.
-    </p>
-    
-    <p>
-      <strong>Which Projects Graduate—and Which Get Stuck?</strong> One of the central findings was the creation of a unified status timeline (Incubated → Graduated → Retired) to track project lifecycles across Apache and CNCF. By merging public metadata from foundation websites and CSV datasets, it became possible to identify projects that had stalled or succeeded in reaching maturity. We had a few key insights:
-    </p>
-    
-    <ul class="wp-block-list">
-      </p> 
+    While we classified projects into a single, primary category, we also had some interesting discussions about how and why projects are archived and how the reasoning for archival can be complex. For each project that we classified, we added notes about how we came to our decision and any other categories that might have influenced the decision.
+  </p>
+  
+  <p>
+    Learn more about the <a href="https://github.com/chaoss/wg-data-science/tree/main/dataset/archive#hackathon-project-details">Archival project</a> and how to get involved.
+  </p>
+  
+  <h2 class="wp-block-heading">
+    <a href="https://colab.research.google.com/drive/1AebzquGmtsQ6c1JtC4Koj82lHQ39l-OD?usp=sharing">Projects Moving to Foundations</a>
+  </h2>
+  
+  <p>
+    This group explored the question, “How can we better understand the health of open source projects across different ecosystems?” Using public datasets from Apache, CNCF, and Eclipse, several developers: Sal Kimmich, Ejiro Oghenekome, Nandana Krishnan, and Ishan Juneja &#8211; transformed raw project metadata into visual insights. Their work revealed how lifecycle patterns, language choices, and infrastructure gaps impact the sustainability of open source.
+  </p>
+  
+  <p>
+    <strong>Which Projects Graduate—and Which Get Stuck?</strong> One of the central findings was the creation of a unified status timeline (Incubated → Graduated → Retired) to track project lifecycles across Apache and CNCF. By merging public metadata from foundation websites and CSV datasets, it became possible to identify projects that had stalled or succeeded in reaching maturity. We had a few key insights:
+  </p>
+  
+  <ul class="wp-block-list">
+    <li>
+      Projects written in Go and Python showed significantly higher graduation rates.
+    </li>
+    <li>
+      Projects built with Java were more likely to be retired or linger in long-term incubation.
+    </li>
+    <li>
+      Some Apache projects had been in incubation for over a decade without graduating.
+    </li>
+  </ul> 
       
-      <li>
-        Projects written in Go and Python showed significantly higher graduation rates.
-      </li>
-      <li>
-        Projects built with Java were more likely to be retired or linger in long-term incubation.
-      </li>
-      <li>
-        Some Apache projects had been in incubation for over a decade without graduating.
-      </li>
-      <p>
-        </ul> 
-        
-        <p>
-          <strong>What Can Metadata Tell Us About a Project’s Health?</strong> Another analysis looked at the quality and structure of available metadata across foundation datasets. Specifically, the distribution of path types and status fields from podling histories and CNCF websites was explored to reveal inconsistencies. Findings included:
-        </p>
-        
-        <ul class="wp-block-list">
-          </p> 
-          
-          <li>
-            Overrepresentation of certain paths like sandbox, with minimal detail on contributor activity or oversight.
-          </li>
-          <li>
-            Incomplete lifecycle data in projects still marked as “current” or “incubating.”
-          </li>
-          <li>
-            Descriptive gaps that could obscure the true state of a project’s community or release status.
-          </li>
-          <p>
-            </ul> 
-            
-            <p>
-              <strong>Are Contributors Visible—and Is Anyone Listening?</strong> Contributor and communication data were analyzed for Eclipse and CNCF projects. This revealed a startling insight: many active projects are flying blind when it comes to external visibility. The team found that:
-            </p>
-            
-            <ul class="wp-block-list">
-              </p> 
-              
-              <li>
-                A significant percentage of projects lacked a public-facing blog or news source.
-              </li>
-              <li>
-                Many projects did not offer a Slack, Gitter, or any other form of community channel.
-              </li>
-              <li>
-                Contributor and committer data was sparse, inconsistent, or missing altogether.
-              </li>
-              <p>
-                </ul> 
-                
-                <p>
-                  There is still much work left to do, but you can read more about this <a href="https://github.com/chaoss/wg-data-science/issues/138">group’s results from the hackathon</a> and how to get involved.
-                </p>
-                
-                <h2 class="wp-block-heading">
-                  Learn more
-                </h2>
-                
-                <p>
-                  All of these are ongoing projects that people can get involved with by joining the <a href="https://github.com/chaoss/wg-data-science">CHAOSS Data Science WG</a>! You can learn more about what we’ve been up to by reading our <a href="{{ baseURL }}chaoss-data-science-working-group-new-guides-research-and-more/">latest update from June</a> on the CHAOSS blog.
-                </p>
-                
-                <p>
-                  Photo by <a href="https://unsplash.com/@project2204?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leif Christoph Gottwald</a> on <a href="https://unsplash.com/photos/a-bunch-of-television-screens-hanging-from-the-ceiling-iM8dxccK1sY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-                </p>
+  <p>
+    <strong>What Can Metadata Tell Us About a Project’s Health?</strong> Another analysis looked at the quality and structure of available metadata across foundation datasets. Specifically, the distribution of path types and status fields from podling histories and CNCF websites was explored to reveal inconsistencies. Findings included:
+  </p>
+  
+  <ul class="wp-block-list">
+    <li>
+      Overrepresentation of certain paths like sandbox, with minimal detail on contributor activity or oversight.
+    </li>
+    <li>
+      Incomplete lifecycle data in projects still marked as “current” or “incubating.”
+    </li>
+    <li>
+      Descriptive gaps that could obscure the true state of a project’s community or release status.
+    </li>
+  </ul> 
+      
+  <p>
+    <strong>Are Contributors Visible—and Is Anyone Listening?</strong> Contributor and communication data were analyzed for Eclipse and CNCF projects. This revealed a startling insight: many active projects are flying blind when it comes to external visibility. The team found that:
+  </p>
+  
+  <ul class="wp-block-list">
+    <li>
+      A significant percentage of projects lacked a public-facing blog or news source.
+    </li>
+    <li>
+      Many projects did not offer a Slack, Gitter, or any other form of community channel.
+    </li>
+    <li>
+      Contributor and committer data was sparse, inconsistent, or missing altogether.
+    </li>
+  </ul> 
+      
+  <p>
+    There is still much work left to do, but you can read more about this <a href="https://github.com/chaoss/wg-data-science/issues/138">group’s results from the hackathon</a> and how to get involved.
+  </p>
+  
+  <h2 class="wp-block-heading">
+    Learn more
+  </h2>
+  
+  <p>
+    All of these are ongoing projects that people can get involved with by joining the <a href="https://github.com/chaoss/wg-data-science">CHAOSS Data Science WG</a>! You can learn more about what we’ve been up to by reading our <a href="{{ baseURL }}chaoss-data-science-working-group-new-guides-research-and-more/">latest update from June</a> on the CHAOSS blog.
+  </p>
+  
+  <p>
+    Photo by <a href="https://unsplash.com/@project2204?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Leif Christoph Gottwald</a> on <a href="https://unsplash.com/photos/a-bunch-of-television-screens-hanging-from-the-ceiling-iM8dxccK1sY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  </p>
 
  [2]: https://ossna2025.sched.com/
  [5]: https://github.com/chaoss/wg-data-science/tree/main/dataset/license-changes/fork-case-study#hackathon-project-details
