@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <div class="page-header">
+    <div class="page-header-inner">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+
+  <div class="section">
+    {{ with .Content }}
+      <div class="page-content" style="padding: 0 0 1.5rem;">
+        {{ . }}
+      </div>
+    {{ end }}
+
+    {{ with .Params.event_location_content_path }}
+      {{ with readFile . }}
+        <div class="page-content" style="padding: 0 0 1.5rem;">
+          {{ . | markdownify }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

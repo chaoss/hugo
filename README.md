@@ -20,6 +20,13 @@ This site uses [Hugo](https://gohugo.io/) as its templating engine to generate t
 
 Once hugo is installed, you can run `hugo serve` in this project's directory to start a local web server and preview the content.
 
+Some content is mounted from external repositories. To include the CHAOSScon proof-of-concept content, initialize submodules before building:
+
+```shell
+git submodule update --init --depth 1 --filter=blob:none external/chaoss-website
+git -C external/chaoss-website sparse-checkout set CHAOSScon
+```
+
 **Note about Offline Builds**
 Note about the build process: Some pages of the website, such as the CHAOSS charter, are fetched from other github repositories at build time using the GitHub API. If you do not have internet access when you first build the site, the builds will fail.
 

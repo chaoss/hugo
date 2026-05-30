@@ -13,6 +13,83 @@ tagline = 'Metrics, Models & Software for Open Source Community Health'
 [markup.goldmark.renderer]
 unsafe = true
 
+[module]
+[[module.mounts]]
+source = 'archetypes'
+target = 'archetypes'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/about.md'
+target = 'content/chaosscon-2026-eu/_index.md'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/schedule.md'
+target = 'content/chaosscon-2026-eu/agenda.md'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/travel_info.md'
+target = 'content/chaosscon-2026-eu/travel.md'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/faq.md'
+target = 'content/chaosscon-2026-eu/faq.md'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/event_location_time.md'
+target = 'content/chaosscon-2026-eu/event-location-time.md'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/images'
+target = 'static/chaosscon-2026-eu/images'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/slides'
+target = 'static/chaosscon-2026-eu/slides'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/CHAOSScon.Europe.2026_funding_prospectus.docx'
+target = 'static/chaosscon-2026-eu/CHAOSScon.Europe.2026_funding_prospectus.docx'
+
+[[module.mounts]]
+source = 'external/chaoss-website/CHAOSScon/2026Europe/CHAOSScon.Europe.2026_funding_prospectus.pdf'
+target = 'static/chaosscon-2026-eu/CHAOSScon.Europe.2026_funding_prospectus.pdf'
+
+[[cascade]]
+title = 'CHAOSScon Europe 2026'
+layout = 'chaosscon-home'
+event_location_content_path = 'external/chaoss-website/CHAOSScon/2026Europe/event_location_time.md'
+[cascade.target]
+path = '/chaosscon-2026-eu'
+
+[[cascade]]
+title = 'Schedule and Speakers'
+[cascade.target]
+path = '/chaosscon-2026-eu/agenda'
+
+[[cascade]]
+title = 'Travel and Brussels Info'
+[cascade.target]
+path = '/chaosscon-2026-eu/travel'
+
+[[cascade]]
+title = 'Frequently Asked Questions'
+[cascade.target]
+path = '/chaosscon-2026-eu/faq'
+
+[[cascade]]
+[cascade.build]
+render = 'never'
+[cascade.target]
+path = '/chaosscon-2026-eu/event-location-time'
+
 [[menus.main]]
 name = 'Home'
 pageRef = '/'
